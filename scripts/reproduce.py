@@ -11,6 +11,8 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+from rebuild_rsv2_inputs import rebuild_from_directory
+
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "outputs"
 DATA = ROOT / "data"
@@ -57,9 +59,11 @@ def main():
               "scope": "Statistics conditional on preserved categorical ratings and saved semantic correspondences"}
 
     if args.include_rsv1_human:
-        run_script("02_reliability_analysis.py")
+        reliability = load("rsv1_reliability", "02_reliability_analysis.py")
+        reliability.OUT_DIR = OUT / "rsv1_reliability"
+        reliability.main()
         expected = list(csv.DictReader((DATA / "expected_rsv1_reliability.csv").open(encoding="utf-8-sig")))
-        actual = list(csv.DictReader((ROOT / "analysis_npj/results/reliability/reliability_metrics.csv").open(encoding="utf-8-sig")))
+        actual = list(csv.DictReader((reliability.OUT_DIR / "reliability_metrics.csv").open(encoding="utf-8-sig")))
         keys = ["analysis_set", "pair", "domain", "label_version", "node_scope", "granularity", "metric"]
         index = {tuple(r[k] for k in keys): r for r in actual}
         assert len(actual) == len(expected) == len(index)
@@ -87,7 +91,10 @@ def main():
 
     rs = load("rs2", "110_analyze_rsv2_complete.py")
     expected = read(ROOT / "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json")
-    factors = read(DATA / "rsv2_factor_case_metrics.json")
+    factors, units, input_report = rebuild_from_directory(ROOT)
+    report["rsv2_input_reconstruction"] = input_report
+    (OUT / "rsv2_rebuilt_factor_case_metrics.json").write_text(json.dumps(factors, indent=2) + "\n")
+    (OUT / "rsv2_rebuilt_matched_classification_units.json").write_text(json.dumps(units, indent=2) + "\n")
     extraction = {}
     for mode in ["all", "hfacs_only", "hfacs_or_indeterminate"]:
         for matching in ["strict", "same_proposition", "partial_sensitivity"]:
@@ -116,7 +123,6 @@ def main():
     report["rsv2_analyzability"] = agreement
     report["transitions"] = matrix
 
-    units = read(DATA / "rsv2_matched_classification_units.json")
     paired = {}
     for p in ["overall", "AB", "CD", "EF"]:
         before = {(r["source_id"], r["left_id"], r["right_id"]): r for r in units["before"] if p == "overall" or r["pair_id"] == p}

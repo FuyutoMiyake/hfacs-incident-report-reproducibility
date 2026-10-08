@@ -6,14 +6,18 @@ for a future public release, accepted for author review, not publicly accessible
 
 ## Included
 
-Only enumerated categorical/numeric fields are exported. Original case identifiers are
-replaced by ordered pseudonyms (`RS1_001`, `RS2_001`, ...); no mapping is distributed.
+Only allowlisted IDs, categorical/numeric fields, quotation offsets and hashes are exported.
+Analysis identifiers remain ordered pseudonyms (`RS1_001`, `RS2_001`, ...). The private
+package now includes the linkage to official JCQHC case IDs for 150 RSv1 and 60 RSv2 records.
 AB/CD/EF identify pair assignments, not publicly disclosed names. These derived units
 remain subject to a disclosure review before any public release; pseudonymisation is
 not a claim that re-identification is impossible.
 
 | Input | Unit and content | Purpose |
 | --- | --- | --- |
+| `data/case_id_mapping.json` | 210 pseudonym-to-JCQHC case links, annual filenames/file hashes, three-field hashes and lengths | Obtain and verify exact study sources without redistributing prose |
+| `data/rsv2_independent_annotations.json` | 120 responses at each of two stages; all 244 factor IDs/classifications/layers at each stage; baseline evidence offsets/fingerprints, confirmation/review flags | Rebuild factor denominators and matched classification units |
+| `data/rsv2_alignment_decisions.json` | All 55 saved candidate-pair decisions; relation and separate strict-quotation flag; human-confirmed=false | Rebuild match numerators without inventing unexamined negative pairs |
 | `analysis_npj/derived/*.csv` | RSv1 case/pair codes, reviewer codes, node IDs, keep/delete decisions, HFACS labels, topology flags | Human reliability and sensitivity |
 | `data/rsv1_final_*_units.json` | 306 leaves/model; case pseudonym, node ID, reference/predicted category | Frozen final classification agreement |
 | `data/rsv2_factor_case_metrics.json` | 540 rows: 60 cases x 3 eligibility x 3 matching rules; counts, F1, difficulty flag, mean time | Conditional matching sensitivity |
@@ -33,6 +37,10 @@ partial sensitivity admits saved partial-overlap matches. Both-empty cases retai
 undefined F1. Missing classification/resolution codes are not filled in.
 The decision-file creation model and remaining prompt-provenance gaps are described in
 [semantic matching provenance](semantic_matching_provenance.md).
+The [factor-level schema](rsv2_factor_inputs.md) explains composite factor IDs, offset
+coordinates and the distinction between semantic decisions and strict-quotation matching.
+`scripts/rebuild_rsv2_inputs.py` verifies all 540 count rows and both sets of 37 matched
+classification pairs. Difficulty/time covariates are retained from existing case summaries.
 
 ## Withheld
 
@@ -74,22 +82,31 @@ asserts a blanket prohibition on research reuse nor assigns an open licence to J
 text. No separate permission to redistribute the original CSVs is recorded in this
 package; any proposed redistribution needs a specific rights review.
 
-The pseudonym-to-original-source mapping is withheld. Downloading the public corpus
-therefore does **not**, by itself, reconstruct the exact study subsets, annotation
-versions or correspondence evidence used here.
+Use `data/case_id_mapping.json` to select each original `事例ID` from its specified annual
+CSV. Decode and strip as above, take the last `事例の内容` column when the CSV has duplicate
+headers (the historical `csv.DictReader` behaviour), and select `事例の背景要因の概要` and
+`改善策`. Check UTF-8 SHA-256 hashes of these decoded, stripped fields against
+`narrative_sha256`. The extension audit verified all 210 links and three fields, plus
+all 15 annual-file hashes. Baseline quotation offsets refer to these exact fields.
+
+Downloading the public corpus does **not**, by itself, reconstruct researcher-written
+factor prose, full annotation versions or all contextual evidence used for semantic
+judgements. The mapping and code-only factors now identify the study records and enable
+recomputation from saved decisions; factor prose and raw quotations remain withheld.
 
 ## Conditions for Non-Packaged Research Material
 
 The following describes the current access boundary, not an unconditional promise
-that all restricted material is available on request. No new access was granted in
-this documentation update.
+that all restricted material is available on request. No general-public access was granted.
+The additional linkage and redacted inputs are shared only within this private repository.
 
 | Material | How to obtain or request it | Current conditions |
 | --- | --- | --- |
 | JCQHC source narratives and public metadata | Obtain directly from the official annual-download/search service | Follow the applicable source terms; check historical hashes |
-| Exact sampled-record linkage and historical source version | Request a narrowly scoped verification route from the corresponding author identified in the manuscript | Team approval, source-rights review and linkage/disclosure review; the mapping is not included in the proposed public package |
+| Exact sampled-record linkage and historical source version | Included case-ID mapping and annual-file hashes in this private package | Public-release candidate only; team approval and linkage/disclosure review remain required |
 | Pseudonymised factor text, quotations and text-based matching evidence | Request a specified verification purpose, required subset and intended handling | Team approval and review of privacy, third-party text and applicable ethics/consent requirements; no automatic release |
-| Redacted individual annotations, full prompt examples or saved AI output | Request only the minimum material needed for the specified audit | Consider a de-identified/redacted subset only after review; full exports are not promised |
+| Redacted factor codes, saved alignment decisions and quotation offsets | Included in this private package | Public-release candidate; not equivalent to complete individual exports or semantic validation |
+| Full prompt examples or saved AI output | Request only the minimum material needed for the specified audit | Consider a reviewed subset only; full exports are not promised |
 | Reviewer identities/contacts, internal comments and session/activity logs, credentials, unrelated paper PDFs and original Git history | No distribution through this package | Not part of the external verification dataset; use only a reviewed non-identifying audit summary where appropriate |
 
 For a restricted request, specify the result to verify, minimum required fields/records,
@@ -101,12 +118,15 @@ response deadline, approval or delivery has been established by this repository.
 
 > Original public records can be obtained from the JCQHC case-download service.
 > The computational companion contains pseudonymised numerical and categorical inputs,
-> code and version hashes for statistical recomputation conditional on saved decisions.
+> redacted individual factor annotations, saved alignment decisions, quotation offsets,
+> study-to-JCQHC case linkage, code and version hashes for recomputation conditional on
+> saved decisions. It remains private for coauthor review; public release is pending approval.
 > Source narratives, factor text, quotations and complete annotation/model-response
 > exports are not included. Access to additional de-identified verification material,
 > if permissible, requires a separate research-team decision subject to source-use terms
 > and applicable privacy and ethics requirements. Identifying reviewer information,
 > internal communications and credentials will not be shared through this package.
 
-This is a wording proposal, not a change to Google Docs, a grant of access or a public
-release. Current private repository status must remain explicit in the draft manuscript.
+The live manuscript Data Availability statement is updated separately after a fresh
+native backup and revision-controlled edit. Neither this proposal nor that manuscript
+edit grants general-public access; private status remains explicit.

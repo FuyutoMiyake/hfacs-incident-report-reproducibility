@@ -101,6 +101,7 @@
       "eligible_records": 5911
     }
   ],
-  "original_source_id_mapping_distributed": false,
-  "note": "Source acquisition alone cannot identify the exact pseudonymised study subsets; the source mapping remains controlled"
+  "original_source_id_mapping_distributed": true,
+  "general_public_release": false,
+  "note": "The private companion now includes case_id_mapping.json for 210 study records; source prose is obtained separately from official files and verified by hashes"
 }

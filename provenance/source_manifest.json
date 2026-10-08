@@ -364,8 +364,86 @@
       "destination": "analysis_npj/scripts/118_build_ijmi_figures.py",
       "destination_sha256": "915be8ca926971e09c04bb5077359cd4f38aec1a6c8b6eb106b51ddce2ade86a",
       "transformation": "packaging only: bundled Vera font fallback when macOS Arial is unavailable"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_cases.json",
+      "source_sha256": "924c71b49c020075a8ff361fea2129b3fb45fb8d47a29b46fa566f2f44b52604",
+      "destination": "data/case_id_mapping.json",
+      "destination_sha256": "a0bbd73292f665d1cf20caf81f3dca8a69080a148444aefd3b00c0e116df174d",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/derived/canonical_cases.csv",
+      "source_sha256": "b9584f25d80550b428806b8d8b5d5c9ae7c253982910248e2f8631d716b1e389",
+      "destination": "data/case_id_mapping.json",
+      "destination_sha256": "a0bbd73292f665d1cf20caf81f3dca8a69080a148444aefd3b00c0e116df174d",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/derived/source_texts_150.csv",
+      "source_sha256": "c7ab6535f1b4f03de9c43222ccd9614b76e36ae6b9209300f7987b512bb338e9",
+      "destination": "data/case_id_mapping.json",
+      "destination_sha256": "a0bbd73292f665d1cf20caf81f3dca8a69080a148444aefd3b00c0e116df174d",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_cases.json",
+      "source_sha256": "924c71b49c020075a8ff361fea2129b3fb45fb8d47a29b46fa566f2f44b52604",
+      "destination": "data/rsv2_independent_annotations.json",
+      "destination_sha256": "078cd3aa2d8bab2c161aea8662e7707247e86763b21ba1f546b4ea3e6492a078",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_independent.json",
+      "source_sha256": "ab221605bfbad0dc8d86f7fd54d13c02eb952c1b178423641efa8b5bd6415d37",
+      "destination": "data/rsv2_independent_annotations.json",
+      "destination_sha256": "078cd3aa2d8bab2c161aea8662e7707247e86763b21ba1f546b4ea3e6492a078",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_phase2.json",
+      "source_sha256": "dcf766f42fe4fe1186b9ead9935b7dca3bade5c9360a7fcbf1494164d00edb84",
+      "destination": "data/rsv2_independent_annotations.json",
+      "destination_sha256": "078cd3aa2d8bab2c161aea8662e7707247e86763b21ba1f546b4ea3e6492a078",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/derived/canonical_cases.csv",
+      "source_sha256": "b9584f25d80550b428806b8d8b5d5c9ae7c253982910248e2f8631d716b1e389",
+      "destination": "data/rsv2_independent_annotations.json",
+      "destination_sha256": "078cd3aa2d8bab2c161aea8662e7707247e86763b21ba1f546b4ea3e6492a078",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_cases.json",
+      "source_sha256": "924c71b49c020075a8ff361fea2129b3fb45fb8d47a29b46fa566f2f44b52604",
+      "destination": "data/rsv2_alignment_decisions.json",
+      "destination_sha256": "3fbfd9463f20bee5377e5c5ed485a7801f0c40d2021026e7e26328b38eb12f55",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/alignment_decisions.csv",
+      "source_sha256": "e5a787696b7b6440903036b8a94c4ab69914d7055b653633889d1fe136172457",
+      "destination": "data/rsv2_alignment_decisions.json",
+      "destination_sha256": "3fbfd9463f20bee5377e5c5ed485a7801f0c40d2021026e7e26328b38eb12f55",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/alignment_review.json",
+      "source_sha256": "09a93e8c5aaae46543fb975dabe2d5a65f470d63e6e190337ea84be35a18648b",
+      "destination": "data/rsv2_alignment_decisions.json",
+      "destination_sha256": "3fbfd9463f20bee5377e5c5ed485a7801f0c40d2021026e7e26328b38eb12f55",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
+    },
+    {
+      "source": "analysis_npj/derived/canonical_cases.csv",
+      "source_sha256": "b9584f25d80550b428806b8d8b5d5c9ae7c253982910248e2f8631d716b1e389",
+      "destination": "data/rsv2_alignment_decisions.json",
+      "destination_sha256": "3fbfd9463f20bee5377e5c5ed485a7801f0c40d2021026e7e26328b38eb12f55",
+      "transformation": "Issue #1 allowlisted IDs/codes or source links and evidence offsets only; no names, prose, notes or logs; see rsv2_input_extension_audit.json"
     }
   ],
-  "source_ids": "Pseudonyms ordered by original ID; no mapping distributed",
+  "source_ids": "Pseudonyms ordered by original ID; Issue #1 now includes 210 study-to-JCQHC links in the private package",
+  "rsv2_input_extension": "See rsv2_input_extension_audit.json for controlled source hashes, allowlisted export, 244 factors at both stages, 55 decisions and full reconstruction checks",
   "excluded": "Clinical narratives, factor texts, quotations, comments, names, original Git history, credentials, full model responses and clinical few-shot examples"
 }

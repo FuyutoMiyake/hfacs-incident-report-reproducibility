@@ -20,11 +20,12 @@ class ProvenanceDocumentation(unittest.TestCase):
         self.assertFalse(data["human_independent_confirmation"])
         self.assertNotIn("transcript", data)
 
-    def test_source_files_are_versioned_without_study_linkage(self):
+    def test_source_files_are_versioned_with_private_study_linkage(self):
         data = json.loads((ROOT / "provenance/jcqhc_source_files.json").read_text())
         self.assertEqual(data["n_files"], 15)
         self.assertEqual(sum(row["eligible_records"] for row in data["files"]), 61606)
-        self.assertFalse(data["original_source_id_mapping_distributed"])
+        self.assertTrue(data["original_source_id_mapping_distributed"])
+        self.assertFalse(data["general_public_release"])
         expected = {f"MedicalReportPubA_{year}.csv" for year in range(2010, 2025)}
         self.assertEqual({row["file"] for row in data["files"]}, expected)
         for row in data["files"]:
@@ -42,7 +43,7 @@ class ProvenanceDocumentation(unittest.TestCase):
         text = (ROOT / "docs/data_availability.md").read_text()
         self.assertIn("not an unconditional promise", text)
         self.assertIn("does **not**, by itself, reconstruct", text)
-        self.assertIn("No new access was granted", text)
+        self.assertIn("No general-public access was granted", text)
 
 
 if __name__ == "__main__":

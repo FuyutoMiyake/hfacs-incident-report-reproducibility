@@ -21,10 +21,16 @@ tolerance 1e-12 with preserved outputs. All table cell text must match exactly.
 - RSv2: 3,000 record-cluster bootstrap replicates, seed 20261001, stratified by pair.
   Empty case clusters are retained for conditional AI confidence intervals.
 
-Outputs: `outputs/recomputation.json` and regenerated tables under
-`analysis_npj/manuscript/supplementary_results_20261005/`. Inputs are not overwritten,
-except the historical human reliability script regenerates the aggregate output CSV;
-its values are checked against the separate immutable expected CSV in `data/`.
+The runner now rebuilds all 540 RSv2 count rows and both stages of 37 classification pairs
+from all 244 baseline factor IDs and their after codes, plus the 55 saved alignment decisions.
+It verifies full content against preserved snapshots before computing aggregate statistics.
+Actor-difficulty flags and mean times are reused from the preserved case summaries.
+See [input schemas and offsets](rsv2_factor_inputs.md).
+
+Outputs: `outputs/recomputation.json`, rebuilt RSv2 inputs under `outputs/`, and regenerated
+tables under `analysis_npj/manuscript/supplementary_results_20261005/`. Inputs are not
+overwritten. Initial RSv1 human reliability output is redirected to `outputs/rsv1_reliability/`
+and compared with the immutable expected CSV; the tracked reliability snapshot is unchanged.
 
 ## Figures
 

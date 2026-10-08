@@ -13,6 +13,7 @@ RS = reference standard. [Japanese overview](README_ja.md).
 - [Reproduction guide](docs/reproduction.md): executable commands and the exact scope of each command.
 - [Analysis map](docs/analysis_map.md): manuscript results, inputs and scripts.
 - [Data availability and schemas](docs/data_availability.md): included numeric units and withheld source material.
+- [RSv2 factor-level inputs](docs/rsv2_factor_inputs.md): all 244 factors before/after reassessment, 55 saved decisions, quotation offsets and 210 JCQHC case links.
 - [Recovered matching provenance](docs/semantic_matching_provenance.md): recorded SOL session model, decision-file checksum and remaining prompt/context gaps.
 - [Publication scope](docs/publication_scope.md): proposed public package, excluded material and release approval.
 - [Prompt development](docs/prompt_development.md) and [original v6b templates](docs/original_v6b_prompts.md).
@@ -30,7 +31,9 @@ python3 -m venv .venv
 .venv/bin/python scripts/reproduce.py --include-rsv1-human
 ```
 
-This performs no API calls. It recomputes RSv1 human reliability, final model classification
+This performs no API calls. It first rebuilds all 540 RSv2 count rows and the 37 matched
+classification pairs at both time points from redacted individual factors and saved
+alignment decisions, checking them against preserved snapshots. It recomputes RSv1 human reliability, final model classification
 agreement, RSv2 extraction-matching sensitivity, analysability transitions, matched-factor
 layer agreement, consensus counts and conditional AI classification from saved numeric units.
 It also regenerates all Supplementary Results tables S1-S11 and verifies their cell text.
@@ -65,9 +68,9 @@ to the collaborating reviewer. This is not a public release.
 
 | Destination | Material |
 | --- | --- |
-| Proposed public repository, after team and disclosure review | Manuscript supplement snapshots and GRRAS checklist, analysis/figure code, environment and tests, Markdown reproduction instructions, prompt templates/settings, pseudonymised numeric/category inputs, aggregate results and hashes |
+| Proposed public repository, after team and disclosure review | Manuscript supplement snapshots and GRRAS checklist, analysis/figure code, environment and tests, Markdown reproduction instructions, prompt templates/settings, pseudonymised numeric/category inputs, redacted RSv2 annotations and alignment decisions, quotation offsets/fingerprints, study-to-JCQHC case links, aggregate results and hashes |
 | Journal submission | Final reviewed supplements in the required submission format: essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist |
-| Not in the proposed public package | Clinical narratives/metadata exports, factor texts/quotations, complete individual annotations, original model responses and clinical few-shot examples, reviewer identities/contacts and ID mappings, internal comments/logs, credentials and original working-repository history |
+| Not in the proposed public package | Clinical narratives/metadata exports, factor texts/quotations, complete individual annotation exports, original model responses and clinical few-shot examples, reviewer identities/contacts and reviewer-identity mappings, internal comments/logs, credentials and original working-repository history |
 
 Public access, dataset redistribution, code licence, complete author list and an archival DOI
 require the research team's approval. No open-source licence has been assigned in this draft.
@@ -83,3 +86,11 @@ are intended public-release candidates, accepted for author review. The collabor
 documents remain the working sources; these Markdown copies are dated snapshots, not
 automatically synchronised edits. Final journal supplements and a public release remain
 subject to review and approval.
+
+Issue #1 extension: 150 RSv1 and 60 RSv2 case links were checked against the 15 frozen
+annual CSVs; all three supplied fields matched for all 210 records. The private package
+now includes 120 baseline and 120 reassessment responses, with all 244 factor IDs at each
+stage and all 55 saved decisions. Unlisted candidate pairs are not fabricated negative
+judgements. This improves input-level recomputation, not independent semantic validation
+or human confirmation. Case linkage may increase re-identification risk; coauthor and
+disclosure approval is still needed before any public release.

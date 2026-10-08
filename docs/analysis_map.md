@@ -8,9 +8,9 @@ The manuscript remains a draft; section numbers and table numbering can change.
 | RSv1 frozen primary/secondary AI classification (S2) | Functions in `79_evaluate_frozen_final_50.py`; original secondary evaluator `83` | 306 saved label pairs per model, point estimates and bootstrap CIs |
 | FTA structural rankings and scale-up gate (S4/S5) | Historical `06_fta_added_value.py`; table builder `121` | Table cells from saved aggregates; full tree recalculation needs controlled inputs |
 | FTA versus direct report-level classification (S6) | Historical `09_compare_flat_vs_fta.py`; table builder `121` | Table cells from saved aggregates; no new model generation |
-| RSv2 extraction sensitivity (S7) | Original functions in `110`; companion `scripts/reproduce.py` | 9 conditions x 4 pooled/pair groups, point estimates and bootstrap CIs |
+| RSv2 extraction sensitivity (S7) | `scripts/rebuild_rsv2_inputs.py`, original functions in `110`, companion `scripts/reproduce.py` | All 244 factor IDs/codes and 55 decisions rebuild 540 count rows; 9 conditions x 4 groups, point estimates and bootstrap CIs |
 | RSv2 consensus (S8) | `110` definitions | 60 cases/110 categorical factors; missingness preserved |
-| RSv2 additional-information reassessment (S9/S10) | `110` functions and companion entrypoint | Transitions, pair-specific weighted kappa, fixed matched-unit layer agreement |
+| RSv2 additional-information reassessment (S9/S10) | Factor-level rebuilder, `110` functions and companion entrypoint | Before/after factor codes rebuild the 37 matched pairs; transitions, pair-specific weighted kappa and layer agreement |
 | RSv2 conditional AI classification (S11) | `110` functions and companion entrypoint | Candidate hits, singleton kappa and case-cluster CIs |
 | Supplementary exploratory quantities | `110` definitions | Graph counts/F1, saved quotation flags, difficulty subgroups and recorded-time summaries |
 | Table presentation | `120`, `121`, `122` | All 11 table titles/cells compared with saved expected tables |

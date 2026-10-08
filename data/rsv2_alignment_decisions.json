@@ -1,0 +1,500 @@
+{
+  "schema_version": 1,
+  "decisions": [
+    {
+      "source_id": "RS2_033",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f03",
+      "right_id": "f04",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_018",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f06",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_018",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_053",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_041",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f04",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_023",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f04",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_013",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "relation": "causal_related",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_006",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_036",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f04",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_036",
+      "pair_id": "AB",
+      "left_id": "f03",
+      "right_id": "f06",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_036",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f05",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_009",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_009",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_046",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_012",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_012",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_056",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_056",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f03",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_055",
+      "pair_id": "CD",
+      "left_id": "f04",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_055",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_055",
+      "pair_id": "CD",
+      "left_id": "f05",
+      "right_id": "f05",
+      "relation": "causal_related",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_005",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_026",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "causal_related",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_026",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "causal_related",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_058",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_058",
+      "pair_id": "CD",
+      "left_id": "f04",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_008",
+      "pair_id": "CD",
+      "left_id": "f03",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_008",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_003",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_037",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f03",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f04",
+      "right_id": "f04",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_059",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_042",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f04",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_042",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f03",
+      "relation": "causal_related",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_034",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f02",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_034",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f05",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f04",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f03",
+      "right_id": "f04",
+      "relation": "actor_diff",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f04",
+      "right_id": "f07",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f05",
+      "right_id": "f08",
+      "relation": "same",
+      "strict_quote_match": true,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_052",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f04",
+      "relation": "partial",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_020",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_020",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_010",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f03",
+      "relation": "same",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    },
+    {
+      "source_id": "RS2_010",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "relation": "causal_related",
+      "strict_quote_match": false,
+      "human_confirmed": false
+    }
+  ]
+}

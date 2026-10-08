@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-08",
+  "issue": 1,
+  "private": true,
+  "source_file_hashes_verified": 15,
+  "original_cases_and_three_fields_verified": 210,
+  "source_counts": {
+    "MedicalReportPubA_2010.csv": 2703,
+    "MedicalReportPubA_2011.csv": 2799,
+    "MedicalReportPubA_2012.csv": 1794,
+    "MedicalReportPubA_2013.csv": 3049,
+    "MedicalReportPubA_2014.csv": 3194,
+    "MedicalReportPubA_2015.csv": 3654,
+    "MedicalReportPubA_2016.csv": 3882,
+    "MedicalReportPubA_2017.csv": 4095,
+    "MedicalReportPubA_2018.csv": 4565,
+    "MedicalReportPubA_2019.csv": 4532,
+    "MedicalReportPubA_2020.csv": 4802,
+    "MedicalReportPubA_2021.csv": 5243,
+    "MedicalReportPubA_2022.csv": 5313,
+    "MedicalReportPubA_2023.csv": 6070,
+    "MedicalReportPubA_2024.csv": 5911
+  },
+  "case_links": 210,
+  "baseline_responses": 120,
+  "reassessment_responses": 120,
+  "baseline_factors": 244,
+  "reassessment_factors": 244,
+  "decisions": 55,
+  "relations": {
+    "same": 39,
+    "partial": 9,
+    "causal_related": 6,
+    "actor_diff": 1
+  },
+  "rebuilt_count_rows": 540,
+  "matched_pairs": {
+    "before": 37,
+    "after": 37
+  },
+  "case_covariates": "Actor-difficulty flags and mean times retained from preserved case summaries, not rederived",
+  "new_model_calls": false,
+  "human_confirmation": false,
+  "source_inputs": {
+    "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_cases.json": "924c71b49c020075a8ff361fea2129b3fb45fb8d47a29b46fa566f2f44b52604",
+    "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_independent.json": "ab221605bfbad0dc8d86f7fd54d13c02eb952c1b178423641efa8b5bd6415d37",
+    "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_phase2.json": "dcf766f42fe4fe1186b9ead9935b7dca3bade5c9360a7fcbf1494164d00edb84",
+    "analysis_npj/analysis_runs/consultation_data_audit_20261002/alignment_decisions.csv": "e5a787696b7b6440903036b8a94c4ab69914d7055b653633889d1fe136172457",
+    "analysis_npj/analysis_runs/consultation_data_audit_20261002/alignment_review.json": "09a93e8c5aaae46543fb975dabe2d5a65f470d63e6e190337ea84be35a18648b",
+    "analysis_npj/derived/canonical_cases.csv": "b9584f25d80550b428806b8d8b5d5c9ae7c253982910248e2f8631d716b1e389",
+    "analysis_npj/derived/source_texts_150.csv": "c7ab6535f1b4f03de9c43222ccd9614b76e36ae6b9209300f7987b512bb338e9"
+  },
+  "exported_files": {
+    "data/case_id_mapping.json": "a0bbd73292f665d1cf20caf81f3dca8a69080a148444aefd3b00c0e116df174d",
+    "data/rsv2_independent_annotations.json": "078cd3aa2d8bab2c161aea8662e7707247e86763b21ba1f546b4ea3e6492a078",
+    "data/rsv2_alignment_decisions.json": "3fbfd9463f20bee5377e5c5ed485a7801f0c40d2021026e7e26328b38eb12f55"
+  },
+  "excludes": [
+    "names",
+    "factor prose",
+    "quotations",
+    "internal notes",
+    "activity/session logs",
+    "raw source exports"
+  ],
+  "evidence_items": 246,
+  "offset_unit": "Python Unicode code points, zero-based start, end-exclusive, stripped supplied field",
+  "unlisted_pairs": "Not adjudicated by this decision table; not automatically negative decisions"
+}

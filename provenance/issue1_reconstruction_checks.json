@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-08",
+  "python": "3.14.6",
+  "numeric_checks_passed": 3925,
+  "supplementary_tables": "11 tables: all titles and cell text identical to preserved tables",
+  "input_reconstruction": {
+    "case_links": 210,
+    "baseline_responses": 120,
+    "reassessment_responses": 120,
+    "baseline_factors": 244,
+    "reassessment_factors": 244,
+    "decisions": 55,
+    "relations": {
+      "same": 39,
+      "partial": 9,
+      "causal_related": 6,
+      "actor_diff": 1
+    },
+    "rebuilt_count_rows": 540,
+    "matched_pairs": {
+      "before": 37,
+      "after": 37
+    },
+    "case_covariates": "Actor-difficulty flags and mean times retained from preserved case summaries, not rederived",
+    "new_model_calls": false,
+    "human_confirmation": false
+  },
+  "unit_tests": 24,
+  "quotation_offset_checks": 246,
+  "preserved_rsv1_snapshot_unchanged": true,
+  "new_model_calls": false
+}
