@@ -1,0 +1,11 @@
+{
+  "development": {
+    "n_cases": 50
+  },
+  "selection": {
+    "n_cases": 50
+  },
+  "final": {
+    "n_cases": 50
+  }
+}

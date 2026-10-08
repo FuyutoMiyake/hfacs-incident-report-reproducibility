@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+*.key
+*.pem
+outputs/
+analysis_npj/manuscript/
+analysis_npj/results/reliability/*
+!analysis_npj/results/reliability/reliability_metrics.csv
+data/raw/
+data/restricted/

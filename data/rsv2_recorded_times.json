@@ -1,0 +1,1442 @@
+[
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 13.583333333333334
+  },
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 20.266666666666666
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 17.15
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 11.3
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 1299.0333333333333
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 23.6
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 6.216666666666667
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 8.75
+  },
+  {
+    "source_id": "RS2_015",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 23.033333333333335
+  },
+  {
+    "source_id": "RS2_015",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 14.2
+  },
+  {
+    "source_id": "RS2_002",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 22.033333333333335
+  },
+  {
+    "source_id": "RS2_002",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 2.183333333333333
+  },
+  {
+    "source_id": "RS2_038",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 1.75
+  },
+  {
+    "source_id": "RS2_038",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 1.9833333333333334
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 32.71666666666667
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 13.166666666666666
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 3.65
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 8.833333333333334
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 10.366666666666667
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 7.183333333333334
+  },
+  {
+    "source_id": "RS2_017",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 0.7
+  },
+  {
+    "source_id": "RS2_017",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 15.116666666666667
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 11.683333333333334
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 9.3
+  },
+  {
+    "source_id": "RS2_025",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 2.2
+  },
+  {
+    "source_id": "RS2_025",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 7.75
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 3.183333333333333
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 12.816666666666666
+  },
+  {
+    "source_id": "RS2_044",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 2.316666666666667
+  },
+  {
+    "source_id": "RS2_044",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 5.583333333333333
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 57.483333333333334
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 4.0
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 49.016666666666666
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 13.65
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 2.9
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 4.45
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 55.5
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 12.166666666666666
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 25.466666666666665
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "stage": "before",
+    "minutes": 15.35
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 5.116666666666666
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 8.25
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.75
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 83.88333333333334
+  },
+  {
+    "source_id": "RS2_040",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 27.366666666666667
+  },
+  {
+    "source_id": "RS2_040",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.966666666666667
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.8
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 8.216666666666667
+  },
+  {
+    "source_id": "RS2_014",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.4833333333333334
+  },
+  {
+    "source_id": "RS2_014",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 0.75
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.7
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.3333333333333335
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 15.066666666666666
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 9.616666666666667
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 6.233333333333333
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 1034.4166666666667
+  },
+  {
+    "source_id": "RS2_054",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 1.8666666666666667
+  },
+  {
+    "source_id": "RS2_054",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 12.15
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 3.033333333333333
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 5.816666666666666
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 3.9
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.283333333333333
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 4.95
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 4.4
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 5.1
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.066666666666667
+  },
+  {
+    "source_id": "RS2_039",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 3.75
+  },
+  {
+    "source_id": "RS2_039",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 20.666666666666668
+  },
+  {
+    "source_id": "RS2_030",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 1.2
+  },
+  {
+    "source_id": "RS2_030",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 1.25
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 1.7166666666666666
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.4
+  },
+  {
+    "source_id": "RS2_047",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.5833333333333335
+  },
+  {
+    "source_id": "RS2_047",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 0.7833333333333333
+  },
+  {
+    "source_id": "RS2_050",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 0.9833333333333333
+  },
+  {
+    "source_id": "RS2_050",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 0.7166666666666667
+  },
+  {
+    "source_id": "RS2_019",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 1.2333333333333334
+  },
+  {
+    "source_id": "RS2_019",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 2.033333333333333
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 9.2
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "stage": "before",
+    "minutes": 4.3
+  },
+  {
+    "source_id": "RS2_048",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.5833333333333334
+  },
+  {
+    "source_id": "RS2_048",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 4.933333333333334
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 16.65
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 26.133333333333333
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 8.216666666666667
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 9.733333333333333
+  },
+  {
+    "source_id": "RS2_021",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.8666666666666667
+  },
+  {
+    "source_id": "RS2_021",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 1.7166666666666666
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.8833333333333333
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 4.883333333333334
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 4.316666666666666
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 39.2
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 2.466666666666667
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 6.7
+  },
+  {
+    "source_id": "RS2_051",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 1.2
+  },
+  {
+    "source_id": "RS2_051",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 4.8
+  },
+  {
+    "source_id": "RS2_016",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.85
+  },
+  {
+    "source_id": "RS2_016",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 9.216666666666667
+  },
+  {
+    "source_id": "RS2_057",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.16666666666666666
+  },
+  {
+    "source_id": "RS2_057",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 6.283333333333333
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.8333333333333334
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 4.466666666666667
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 6.7
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 19.966666666666665
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 3.783333333333333
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 108.43333333333334
+  },
+  {
+    "source_id": "RS2_022",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 1.9333333333333333
+  },
+  {
+    "source_id": "RS2_022",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 8.033333333333333
+  },
+  {
+    "source_id": "RS2_024",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.43333333333333335
+  },
+  {
+    "source_id": "RS2_024",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 5.016666666666667
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 1.0833333333333333
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 7.85
+  },
+  {
+    "source_id": "RS2_045",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.25
+  },
+  {
+    "source_id": "RS2_045",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 0.5166666666666667
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 2.6166666666666667
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 6.75
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 2.25
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 8.65
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 1.4333333333333333
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "stage": "before",
+    "minutes": 3.8333333333333335
+  },
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 10.1
+  },
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 10.5
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 3.2666666666666666
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 8.15
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 5.483333333333333
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 15.3
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.75
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 11.45
+  },
+  {
+    "source_id": "RS2_015",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.25
+  },
+  {
+    "source_id": "RS2_015",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 4.816666666666666
+  },
+  {
+    "source_id": "RS2_002",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 1.45
+  },
+  {
+    "source_id": "RS2_002",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 1.0333333333333334
+  },
+  {
+    "source_id": "RS2_038",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.36666666666666664
+  },
+  {
+    "source_id": "RS2_038",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 1.3333333333333333
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 2.566666666666667
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 4.866666666666666
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.4
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 6.633333333333334
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.55
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 9.216666666666667
+  },
+  {
+    "source_id": "RS2_017",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.5333333333333333
+  },
+  {
+    "source_id": "RS2_017",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 3.316666666666667
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 1.1666666666666667
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 6.983333333333333
+  },
+  {
+    "source_id": "RS2_025",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 1.65
+  },
+  {
+    "source_id": "RS2_025",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 9.683333333333334
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 2.35
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 9.9
+  },
+  {
+    "source_id": "RS2_044",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.4666666666666667
+  },
+  {
+    "source_id": "RS2_044",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 3.3333333333333335
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 3.716666666666667
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 7.416666666666667
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.75
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 6.5
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.5333333333333333
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 2.716666666666667
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.6333333333333333
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 5.916666666666667
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 0.35
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "stage": "after",
+    "minutes": 10.133333333333333
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 4.3
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 2.466666666666667
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.8
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 2.2333333333333334
+  },
+  {
+    "source_id": "RS2_040",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 2.716666666666667
+  },
+  {
+    "source_id": "RS2_040",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.8333333333333334
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.6333333333333333
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.9
+  },
+  {
+    "source_id": "RS2_014",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.55
+  },
+  {
+    "source_id": "RS2_014",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.5666666666666667
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.2
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 2.95
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.3166666666666667
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.7
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.35
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 2.1
+  },
+  {
+    "source_id": "RS2_054",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 3.2333333333333334
+  },
+  {
+    "source_id": "RS2_054",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.8
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.7333333333333333
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.3
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.23333333333333334
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.26666666666666666
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.23333333333333334
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.26666666666666666
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.25
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.15
+  },
+  {
+    "source_id": "RS2_039",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.7833333333333333
+  },
+  {
+    "source_id": "RS2_039",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.6333333333333333
+  },
+  {
+    "source_id": "RS2_030",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.45
+  },
+  {
+    "source_id": "RS2_030",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.38333333333333336
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.26666666666666666
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.8666666666666667
+  },
+  {
+    "source_id": "RS2_047",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.5666666666666667
+  },
+  {
+    "source_id": "RS2_047",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.3333333333333333
+  },
+  {
+    "source_id": "RS2_050",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.43333333333333335
+  },
+  {
+    "source_id": "RS2_050",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.31666666666666665
+  },
+  {
+    "source_id": "RS2_019",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 1.05
+  },
+  {
+    "source_id": "RS2_019",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.35
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.6
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "stage": "after",
+    "minutes": 0.48333333333333334
+  },
+  {
+    "source_id": "RS2_048",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 2.05
+  },
+  {
+    "source_id": "RS2_048",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.9166666666666667
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.15
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 3.9
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.3
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 3.033333333333333
+  },
+  {
+    "source_id": "RS2_021",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.6333333333333333
+  },
+  {
+    "source_id": "RS2_021",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.75
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.25
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.16666666666666666
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.2
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 2.5
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.1
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 5.816666666666666
+  },
+  {
+    "source_id": "RS2_051",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.5666666666666667
+  },
+  {
+    "source_id": "RS2_051",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.75
+  },
+  {
+    "source_id": "RS2_016",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.65
+  },
+  {
+    "source_id": "RS2_016",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 4.333333333333333
+  },
+  {
+    "source_id": "RS2_057",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.3333333333333333
+  },
+  {
+    "source_id": "RS2_057",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 3.3333333333333335
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.4666666666666667
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 2.5
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.2
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 9.283333333333333
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.5833333333333333
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.11666666666666667
+  },
+  {
+    "source_id": "RS2_022",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 7.1
+  },
+  {
+    "source_id": "RS2_022",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.31666666666666665
+  },
+  {
+    "source_id": "RS2_024",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.2833333333333334
+  },
+  {
+    "source_id": "RS2_024",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 2.35
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.1
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 1.2333333333333334
+  },
+  {
+    "source_id": "RS2_045",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.5666666666666667
+  },
+  {
+    "source_id": "RS2_045",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.4666666666666667
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.6666666666666666
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.13333333333333333
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.15
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.2833333333333333
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.05
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "stage": "after",
+    "minutes": 0.18333333333333332
+  }
+]

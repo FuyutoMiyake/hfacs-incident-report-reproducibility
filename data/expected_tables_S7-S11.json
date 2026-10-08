@@ -1,0 +1,340 @@
+[
+  {
+    "title": "Table S7. RSv2 factor-extraction agreement: eligibility and matching sensitivity",
+    "rows": [
+      [
+        "Eligibility / matching",
+        "Factor counts: left / right",
+        "Matched pairs",
+        "Micro-F1 (95% CI)",
+        "Both-empty records"
+      ],
+      [
+        "HFACS or indeterminate: same proposition",
+        "81 / 95",
+        "37",
+        "0.420 (0.300 to 0.524)",
+        "14"
+      ],
+      [
+        "HFACS or indeterminate: same proposition + shared quotation",
+        "81 / 95",
+        "13",
+        "0.148 (0.077 to 0.213)",
+        "14"
+      ],
+      [
+        "HFACS or indeterminate: including partial overlap",
+        "81 / 95",
+        "45",
+        "0.511 (0.400 to 0.613)",
+        "14"
+      ],
+      [
+        "HFACS only: same proposition",
+        "81 / 73",
+        "32",
+        "0.416 (0.290 to 0.526)",
+        "16"
+      ],
+      [
+        "HFACS only: same proposition + shared quotation",
+        "81 / 73",
+        "10",
+        "0.130 (0.055 to 0.203)",
+        "16"
+      ],
+      [
+        "HFACS only: including partial overlap",
+        "81 / 73",
+        "37",
+        "0.481 (0.359 to 0.591)",
+        "16"
+      ],
+      [
+        "All factors: same proposition",
+        "87 / 157",
+        "39",
+        "0.320 (0.221 to 0.412)",
+        "13"
+      ],
+      [
+        "All factors: same proposition + shared quotation",
+        "87 / 157",
+        "13",
+        "0.107 (0.052 to 0.158)",
+        "13"
+      ],
+      [
+        "All factors: including partial overlap",
+        "87 / 157",
+        "48",
+        "0.393 (0.291 to 0.488)",
+        "13"
+      ]
+    ],
+    "column_widths": [
+      260,
+      115,
+      75,
+      220,
+      88
+    ],
+    "note": "All conditions used the same 60 records and AI-assisted one-to-one factor correspondences. Left and right counts pool the first and second reviewers within each pair, not two reviewers of all 60 records. Main condition: HFACS or indeterminate eligibility and same-proposition matching. Strict matching additionally required a shared quotation; partial matching admitted saved partial-overlap correspondences. Both-empty records were counted separately and not assigned F1 = 1. Intervals are saved 95% percentile intervals from 3,000 record-cluster bootstrap resamples stratified by pair.",
+    "paragraphs": []
+  },
+  {
+    "title": "Table S8. RSv2 consensus dataset and stored human resolution codes",
+    "rows": [
+      [
+        "Measure / counting unit",
+        "All pairs",
+        "AB",
+        "CD",
+        "EF"
+      ],
+      [
+        "Records",
+        "60",
+        "20",
+        "20",
+        "20"
+      ],
+      [
+        "Consensus factors",
+        "110",
+        "30",
+        "41",
+        "39"
+      ],
+      [
+        "Records: analysable without uncertainty",
+        "15",
+        "2",
+        "4",
+        "9"
+      ],
+      [
+        "Records: analysable with uncertainty",
+        "23",
+        "12",
+        "8",
+        "3"
+      ],
+      [
+        "Records: not analysable",
+        "22",
+        "6",
+        "8",
+        "8"
+      ],
+      [
+        "Factors: multiple labels",
+        "15",
+        "7",
+        "2",
+        "6"
+      ],
+      [
+        "Factors: multiple HFACS layers",
+        "10",
+        "7",
+        "2",
+        "1"
+      ],
+      [
+        "Factors: no classification",
+        "5",
+        "1",
+        "0",
+        "4"
+      ],
+      [
+        "Human factor code: source-confirmed",
+        "48",
+        "0",
+        "12",
+        "36"
+      ],
+      [
+        "Human factor code: rule-adjudicated",
+        "1",
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "Human factor code: unresolved",
+        "2",
+        "0",
+        "0",
+        "2"
+      ],
+      [
+        "Human factor code: missing",
+        "59",
+        "30",
+        "29",
+        "0"
+      ]
+    ],
+    "column_widths": [
+      360,
+      110,
+      96,
+      96,
+      96
+    ],
+    "note": "Counts are records or factors as specified. Multiple-layer factors are a subset of multiple-label factors. Human resolution-code counts are saved factor-level codes, not post-hoc large language model (LLM) judgements. Missing codes: 59/110 (53.6%); no resolution state was imputed. Stored codes do not establish independently verified complete evidentiary support.",
+    "paragraphs": []
+  },
+  {
+    "title": "Table S9. Analysability agreement before and after public-information reassessment",
+    "rows": [
+      [
+        "Reviewer pair / records",
+        "Exact agreement: before",
+        "Exact agreement: after",
+        "Weighted kappa: before (95% CI)",
+        "Weighted kappa: after (95% CI)"
+      ],
+      [
+        "AB / 20",
+        "12/20 (60.0%)",
+        "7/20 (35.0%)",
+        "0.398 (0.057 to 0.716)",
+        "0.113 (-0.226 to 0.412)"
+      ],
+      [
+        "CD / 20",
+        "10/20 (50.0%)",
+        "10/20 (50.0%)",
+        "0.348 (-0.011 to 0.639)",
+        "0.245 (0.000 to 0.541)"
+      ],
+      [
+        "EF / 20",
+        "9/20 (45.0%)",
+        "9/20 (45.0%)",
+        "0.400 (0.137 to 0.650)",
+        "0.388 (0.110 to 0.643)"
+      ],
+      [
+        "All pairs / 60",
+        "31/60 (51.7%)",
+        "26/60 (43.3%)",
+        "Not pooled",
+        "Not pooled"
+      ]
+    ],
+    "column_widths": [
+      120,
+      130,
+      130,
+      189,
+      189
+    ],
+    "note": "Each pair assessed its own 20 records. Exact agreement requires identical three-state analysability ratings. Kappa uses linear weights for ordered responses. Pairwise intervals are saved 95% percentile record-cluster bootstrap intervals (3,000 resamples). All-pair exact agreement pools counts; no pooled weighted kappa is reported.",
+    "paragraphs": [
+      "Within-reviewer transitions (120 responses): 19 to a more analysable state, 7 to a less analysable state, and 94 unchanged. From not analysable: 39 remained not analysable, 2 became uncertain, 0 became clear. From uncertain: 1 became not analysable, 16 remained uncertain, 17 became clear. From clear: 2 became not analysable, 4 became uncertain, 39 remained clear."
+    ]
+  },
+  {
+    "title": "Table S10. Inter-reviewer HFACS layer agreement on the same matched factors",
+    "rows": [
+      [
+        "Reviewer pair",
+        "Matched factors with layers at both stages",
+        "Exact layer-set agreement: before -> after",
+        "At least one shared layer: before -> after",
+        "Single-layer factors at both stages",
+        "Nominal kappa: before -> after"
+      ],
+      [
+        "All pairs",
+        "32",
+        "25/32 (78.1%) -> 21/32 (65.6%)",
+        "25/32 (78.1%) -> 27/32 (84.4%)",
+        "26",
+        "0.668 -> 0.668"
+      ],
+      [
+        "AB",
+        "7",
+        "4/7 (57.1%) -> 1/7 (14.3%)",
+        "4/7 (57.1%) -> 6/7 (85.7%)",
+        "2",
+        "0.333 -> 0.333"
+      ],
+      [
+        "CD",
+        "14",
+        "12/14 (85.7%) -> 11/14 (78.6%)",
+        "12/14 (85.7%) -> 12/14 (85.7%)",
+        "13",
+        "0.755 -> 0.755"
+      ],
+      [
+        "EF",
+        "11",
+        "9/11 (81.8%) -> 9/11 (81.8%)",
+        "9/11 (81.8%) -> 9/11 (81.8%)",
+        "11",
+        "0.450 -> 0.450"
+      ]
+    ],
+    "column_widths": [
+      78,
+      95,
+      180,
+      180,
+      100,
+      125
+    ],
+    "note": "The same 32 factor pairs had HFACS layer classifications from both reviewers at both stages. Exact agreement requires identical layer sets; shared-layer agreement requires at least one common layer. The singleton subset requires a single layer from both reviewers at both stages (26 factor pairs). The all-pair singleton kappa pools three different pair-specific samples; the six reviewers did not rate a common set of records. Nominal kappa uses no ordering of HFACS layers.",
+    "paragraphs": []
+  },
+  {
+    "title": "Table S11. Exploratory AI classification of RSv2 consensus factors",
+    "rows": [
+      [
+        "Evaluation population / endpoint",
+        "Factors evaluated",
+        "Agreement or candidate hits",
+        "Nominal kappa (95% CI)"
+      ],
+      [
+        "Any reference label: candidate hit",
+        "105",
+        "46/105 (43.8%)",
+        "Not calculated"
+      ],
+      [
+        "At least one HFACS reference label: candidate hit",
+        "90",
+        "32/90 (35.6%)",
+        "Not calculated"
+      ],
+      [
+        "Single HFACS reference label: detailed category",
+        "75",
+        "25/75 (33.3%)",
+        "0.240 (0.102 to 0.391)"
+      ],
+      [
+        "Single HFACS reference label: HFACS layer",
+        "75",
+        "40/75 (53.3%)",
+        "0.373 (0.208 to 0.552)"
+      ]
+    ],
+    "column_widths": [
+      340,
+      100,
+      150,
+      168
+    ],
+    "note": "The frozen RSv1 classification configuration received the 110 consensus factor texts and original three narrative fields. Five unclassified factors were not scored against a reference label. Candidate hits require one AI category to match any reference category; exact full-set agreement is not required. Kappa is restricted to 75 factors with one HFACS reference label. Predictions could include non-HFACS categories. Intervals are saved 95% percentile record-cluster bootstrap intervals (3,000 resamples).",
+    "paragraphs": []
+  }
+]

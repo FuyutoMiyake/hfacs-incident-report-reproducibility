@@ -1,0 +1,482 @@
+[
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "left_edges": 1,
+    "right_edges": 1,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "left_edges": 3,
+    "right_edges": 4,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "left_edges": 3,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "left_edges": 1,
+    "right_edges": 2,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_015",
+    "pair_id": "AB",
+    "left_edges": 1,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_002",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_038",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "left_edges": 3,
+    "right_edges": 1,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 1,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_017",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "left_edges": 2,
+    "right_edges": 1,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_025",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "left_edges": 1,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_044",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "left_edges": 4,
+    "right_edges": 2,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "left_edges": 1,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 3,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "left_edges": 0,
+    "right_edges": 5,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "left_edges": 3,
+    "right_edges": 2,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 3,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 1,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_040",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "left_edges": 1,
+    "right_edges": 1,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_014",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "left_edges": 3,
+    "right_edges": 2,
+    "shared_directed": 2,
+    "shared_adjacency": 2
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "left_edges": 5,
+    "right_edges": 3,
+    "shared_directed": 3,
+    "shared_adjacency": 3
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "left_edges": 3,
+    "right_edges": 5,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_054",
+    "pair_id": "CD",
+    "left_edges": 0,
+    "right_edges": 3,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 4,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 2,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "left_edges": 3,
+    "right_edges": 2,
+    "shared_directed": 2,
+    "shared_adjacency": 2
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "left_edges": 3,
+    "right_edges": 2,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_039",
+    "pair_id": "CD",
+    "left_edges": 3,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_030",
+    "pair_id": "CD",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "left_edges": 1,
+    "right_edges": 1,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_047",
+    "pair_id": "CD",
+    "left_edges": 2,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_050",
+    "pair_id": "CD",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_019",
+    "pair_id": "CD",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "left_edges": 1,
+    "right_edges": 3,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_048",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 2,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "left_edges": 4,
+    "right_edges": 4,
+    "shared_directed": 2,
+    "shared_adjacency": 2
+  },
+  {
+    "source_id": "RS2_021",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "left_edges": 1,
+    "right_edges": 1,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "left_edges": 2,
+    "right_edges": 1,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "left_edges": 2,
+    "right_edges": 4,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_051",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_016",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_057",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 2,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "left_edges": 6,
+    "right_edges": 8,
+    "shared_directed": 3,
+    "shared_adjacency": 3
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 2,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_022",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_024",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "left_edges": 1,
+    "right_edges": 2,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_045",
+    "pair_id": "EF",
+    "left_edges": 0,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "left_edges": 2,
+    "right_edges": 2,
+    "shared_directed": 2,
+    "shared_adjacency": 2
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "left_edges": 2,
+    "right_edges": 0,
+    "shared_directed": 0,
+    "shared_adjacency": 0
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "left_edges": 2,
+    "right_edges": 2,
+    "shared_directed": 1,
+    "shared_adjacency": 1
+  }
+]

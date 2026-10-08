@@ -1,0 +1,9 @@
+{
+  "sampling": {
+    "main_n": 60,
+    "seed": 20260812
+  },
+  "universe": {
+    "total_unique_cases": 61606
+  }
+}

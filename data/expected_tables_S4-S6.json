@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Table S4. FTA ranking comparison and scale-up decision",
+    "rows": [
+      [
+        "Ranking method",
+        "Top five categories (rank order)",
+        "Recall@5",
+        "NDCG@5"
+      ],
+      [
+        "Frequency",
+        "UA_SE, UA_DE, UA_PE, PC_CC, PC_TE",
+        "0.113",
+        "0.125"
+      ],
+      [
+        "Co-occurrence",
+        "UA_SE, UA_DE, PC_CC, UA_PE, PC_TE",
+        "0.113",
+        "0.128"
+      ],
+      [
+        "FTA structural",
+        "UA_SE, UA_DE, UA_PE, PC_CC, PC_TE",
+        "0.113",
+        "0.125"
+      ]
+    ],
+    "note": "Population: 87 adjudicated-analysable RSv1 records, Main 11-50 within each pair. Improvement-related targets occurred in 49 records, comprising 62 report-category occurrences; recall@5 was 7/62. Targets combined adjudicated HFACS leaf categories with verbatim improvement quotations and reviewer-added categories, deduplicated within each report. Frequency counts reports containing a leaf category; co-occurrence counts weighted within-report category co-occurrences. FTA ranks categories by interruption of the generated AND/OR tree when their leaves are set false, with minimal-cut-set coverage as a tie-breaker. NDCG is normalised discounted cumulative gain.",
+    "paragraphs": [
+      "Scale-up conditions: recall-difference lower 95% confidence bound > 0, not met; minimum FTA top-five selection rate >= 0.70, met (0.861); top five different from frequency, not met; no improvement-quotation leakage flags, met. Overall decision: do not scale up.",
+      "Observed FTA-minus-frequency recall@5 difference: 0.000. The 2,000-resample percentile interval was -0.415 to 0.194, with rankings recomputed in each resample. The saved bootstrap mean (-0.084) is not the observed difference."
+    ],
+    "column_widths": [
+      130,
+      360,
+      110,
+      158
+    ]
+  },
+  {
+    "title": "Table S5. FTA versus direct classification: primary RSv1 comparison",
+    "rows": [
+      [
+        "Endpoint",
+        "FTA",
+        "Direct classification",
+        "Difference: FTA minus direct (95% CI)"
+      ],
+      [
+        "Mean precision",
+        "0.363",
+        "0.277",
+        "0.086 (0.021 to 0.156)"
+      ],
+      [
+        "Mean recall",
+        "0.440",
+        "0.563",
+        "-0.123 (-0.194 to -0.049)"
+      ],
+      [
+        "All 19 HFACS categories: micro-precision",
+        "0.359",
+        "0.278",
+        "0.081 (0.027 to 0.132)"
+      ],
+      [
+        "All 19 HFACS categories: micro-recall",
+        "0.456",
+        "0.554",
+        "-0.098 (-0.175 to -0.029)"
+      ],
+      [
+        "All 19 HFACS categories: micro-F1",
+        "0.402",
+        "0.370",
+        "0.032 (-0.024 to 0.089)"
+      ],
+      [
+        "L3/L4 combined: micro-precision",
+        "0.520",
+        "0.459",
+        "0.061 (-0.092 to 0.213)"
+      ],
+      [
+        "L3/L4 combined: micro-recall",
+        "0.236",
+        "0.455",
+        "-0.218 (-0.318 to -0.110)"
+      ],
+      [
+        "L3/L4 combined: micro-F1",
+        "0.325",
+        "0.457",
+        "-0.132 (-0.243 to -0.023)"
+      ]
+    ],
+    "note": "Both methods used Kimi K2.5 and event description plus background, without improvement measures. The reference was the report-level set of retained adjudicated RSv1 HFACS leaf categories plus reviewer-added categories. Mean precision and recall were calculated per report and then averaged. Micro metrics pooled report-category true positives, false positives, and false negatives; repeated categories within a report counted once. Paired differences use the same records, with 95% percentile intervals from 2,000 record-cluster bootstrap resamples. L3/L4 metrics pooled the categories in those two layers.",
+    "paragraphs": [],
+    "column_widths": [
+      265,
+      85,
+      120,
+      288
+    ]
+  },
+  {
+    "title": "Table S6. Sensitivity and alternative-target analyses of FTA versus direct classification",
+    "rows": [
+      [
+        "Analysis condition / records",
+        "Endpoint",
+        "FTA",
+        "Direct classification",
+        "Difference (95% CI)"
+      ],
+      [
+        "Main 1-50 / 112",
+        "Mean precision",
+        "0.369",
+        "0.279",
+        "0.090 (0.034 to 0.147)"
+      ],
+      [
+        "Main 1-50 / 112",
+        "Mean recall",
+        "0.469",
+        "0.569",
+        "-0.100 (-0.164 to -0.036)"
+      ],
+      [
+        "Main 1-50 / 112",
+        "All HFACS: micro-F1",
+        "0.411",
+        "0.375",
+        "0.036 (-0.015 to 0.083)"
+      ],
+      [
+        "Main 1-50 / 112",
+        "L3/L4: micro-F1",
+        "0.306",
+        "0.423",
+        "-0.117 (-0.213 to -0.024)"
+      ],
+      [
+        "Traceable quotations / 87",
+        "Mean precision",
+        "0.357",
+        "0.279",
+        "0.079 (0.009 to 0.149)"
+      ],
+      [
+        "Traceable quotations / 87",
+        "Mean recall",
+        "0.429",
+        "0.563",
+        "-0.134 (-0.212 to -0.054)"
+      ],
+      [
+        "Improvement-related targets / 49",
+        "Mean precision",
+        "0.124",
+        "0.120",
+        "0.004 (-0.060 to 0.056)"
+      ],
+      [
+        "Improvement-related targets / 49",
+        "Mean recall",
+        "0.279",
+        "0.367",
+        "-0.088 (-0.204 to 0.031)"
+      ]
+    ],
+    "note": "Main 1-50 includes all 112 adjudicated-analysable RSv1 records. The traceable-quotation analysis retained predictions linked to quotations locatable in event description or background; this is a traceability filter, not a full-support judgement. The alternative improvement-related target analysis used the 49 records with nonempty targets defined in Table S4. Means assigned precision 1 when both prediction and reference were empty, precision 0 when only the prediction was empty, and recall 1 when the reference was empty. Differences and 95% percentile intervals use 2,000 paired record-cluster resamples. These analyses reuse RSv1 records with alternative populations or prediction/reference conditions.",
+    "paragraphs": [],
+    "column_widths": [
+      190,
+      135,
+      65,
+      100,
+      268
+    ]
+  }
+]

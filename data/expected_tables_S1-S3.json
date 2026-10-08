@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Table S1. Inter-reviewer classification agreement in RSv1",
+    "rows": [
+      [
+        "Pair",
+        "Classification",
+        "Records / nodes",
+        "Observed agreement (95% CI)",
+        "Cohen's kappa (95% CI)",
+        "Gwet's AC1 (95% CI)"
+      ],
+      [
+        "AB",
+        "Detailed: 22 categories",
+        "24 / 219",
+        "0.689 (0.615 to 0.758)",
+        "0.628 (0.552 to 0.695)",
+        "0.677 (0.599 to 0.746)"
+      ],
+      [
+        "AB",
+        "Layers: L1-L4 + non-HFACS",
+        "24 / 219",
+        "0.785 (0.710 to 0.851)",
+        "0.666 (0.583 to 0.745)",
+        "0.745 (0.653 to 0.826)"
+      ],
+      [
+        "AB",
+        "Binary: HFACS / non-HFACS",
+        "24 / 219",
+        "0.936 (0.908 to 0.965)",
+        "0.871 (0.814 to 0.926)",
+        "0.873 (0.814 to 0.929)"
+      ],
+      [
+        "CD",
+        "Detailed: 22 categories",
+        "29 / 250",
+        "0.500 (0.415 to 0.584)",
+        "0.402 (0.307 to 0.481)",
+        "0.480 (0.388 to 0.566)"
+      ],
+      [
+        "CD",
+        "Layers: L1-L4 + non-HFACS",
+        "29 / 250",
+        "0.660 (0.589 to 0.727)",
+        "0.486 (0.411 to 0.552)",
+        "0.594 (0.500 to 0.686)"
+      ],
+      [
+        "CD",
+        "Binary: HFACS / non-HFACS",
+        "29 / 250",
+        "0.896 (0.855 to 0.931)",
+        "0.792 (0.709 to 0.864)",
+        "0.792 (0.712 to 0.869)"
+      ],
+      [
+        "EF",
+        "Detailed: 22 categories",
+        "28 / 262",
+        "0.584 (0.503 to 0.657)",
+        "0.488 (0.407 to 0.562)",
+        "0.567 (0.483 to 0.643)"
+      ],
+      [
+        "EF",
+        "Layers: L1-L4 + non-HFACS",
+        "28 / 262",
+        "0.679 (0.593 to 0.767)",
+        "0.438 (0.334 to 0.535)",
+        "0.627 (0.517 to 0.724)"
+      ],
+      [
+        "EF",
+        "Binary: HFACS / non-HFACS",
+        "28 / 262",
+        "0.844 (0.783 to 0.896)",
+        "0.665 (0.532 to 0.783)",
+        "0.706 (0.589 to 0.811)"
+      ]
+    ],
+    "note": "Primary human analysis: Main 11-50 for each pair, records rated analysable by both reviewers, jointly retained leaf nodes, and post-L1-reassessment labels. Detailed classification comprises 19 HFACS categories plus patient condition (CoP), OTHER, and INAPPROPRIATE. The five-category layer and binary analyses combine the three non-HFACS categories. Counts are the observations entering each classification analysis. Observed agreement is a proportion, not a percentage. Confidence intervals use 2,000 record-cluster bootstrap replicates."
+  },
+  {
+    "title": "Table S2. AI classification agreement with adjudicated RSv1",
+    "rows": [
+      [
+        "Model / role",
+        "Classification",
+        "Records / nodes",
+        "Observed agreement (95% CI)",
+        "Cohen's kappa (95% CI)",
+        "Gwet's AC1 (95% CI)"
+      ],
+      [
+        "GPT-5.6 Sol / primary",
+        "Detailed: 20 categories",
+        "37 / 306",
+        "0.670 (0.599 to 0.735)",
+        "0.427 (0.356 to 0.497)",
+        "0.653 (0.576 to 0.723)"
+      ],
+      [
+        "GPT-5.6 Sol / primary",
+        "Layers: L1-L4 + non-HFACS",
+        "37 / 306",
+        "0.690 (0.622 to 0.754)",
+        "0.437 (0.362 to 0.515)",
+        "0.641 (0.555 to 0.719)"
+      ],
+      [
+        "GPT-5.6 Sol / primary",
+        "Binary: HFACS / non-HFACS",
+        "37 / 306",
+        "0.846 (0.801 to 0.890)",
+        "0.668 (0.571 to 0.757)",
+        "0.715 (0.624 to 0.802)"
+      ],
+      [
+        "Kimi K2.6 / secondary",
+        "Detailed: 20 categories",
+        "37 / 306",
+        "0.693 (0.632 to 0.749)",
+        "0.499 (0.444 to 0.550)",
+        "0.676 (0.608 to 0.736)"
+      ],
+      [
+        "Kimi K2.6 / secondary",
+        "Layers: L1-L4 + non-HFACS",
+        "37 / 306",
+        "0.716 (0.656 to 0.770)",
+        "0.514 (0.451 to 0.574)",
+        "0.668 (0.592 to 0.736)"
+      ],
+      [
+        "Kimi K2.6 / secondary",
+        "Binary: HFACS / non-HFACS",
+        "37 / 306",
+        "0.873 (0.835 to 0.909)",
+        "0.734 (0.655 to 0.809)",
+        "0.755 (0.678 to 0.831)"
+      ]
+    ],
+    "note": "The final evaluation set contained 50 records; 37 were analysable under the adjudicated RSv1 reference and contributed 306 leaf nodes. AI labels were compared with the adjudicated reference. Detailed classification comprises 19 HFACS categories and one combined non-HFACS category (20 categories in total), unlike the 22-category human analysis in Table S1. The selected GPT configuration was primary; Kimi received the unchanged prompt as a secondary evaluation. Confidence intervals use 5,000 record-cluster bootstrap replicates. Pair-stratified resampling was not used in this final RSv1 analysis."
+  },
+  {
+    "title": "Table S3. Sensitivity analyses of RSv1 inter-reviewer classification agreement",
+    "rows": [
+      [
+        "Analysis condition",
+        "AB: records / nodes; kappa (95% CI)",
+        "CD: records / nodes; kappa (95% CI)",
+        "EF: records / nodes; kappa (95% CI)"
+      ],
+      [
+        "Main 11-50; leaf nodes; after L1 reassessment; 22 categories",
+        "24 / 219; 0.628 (0.552 to 0.695)",
+        "29 / 250; 0.402 (0.307 to 0.481)",
+        "28 / 262; 0.488 (0.407 to 0.562)"
+      ],
+      [
+        "Main 11-50; all non-top nodes; after L1 reassessment; 22 categories",
+        "24 / 321; 0.647 (0.581 to 0.710)",
+        "29 / 383; 0.510 (0.431 to 0.575)",
+        "28 / 401; 0.440 (0.363 to 0.507)"
+      ],
+      [
+        "Main 11-50; leaf nodes; before L1 reassessment; 22 categories",
+        "24 / 219; 0.573 (0.497 to 0.643)",
+        "29 / 250; 0.478 (0.374 to 0.573)",
+        "28 / 262; 0.418 (0.345 to 0.489)"
+      ],
+      [
+        "Main 11-50; all non-top nodes; before L1 reassessment; 22 categories",
+        "24 / 321; 0.601 (0.537 to 0.668)",
+        "29 / 383; 0.566 (0.477 to 0.641)",
+        "28 / 401; 0.398 (0.321 to 0.464)"
+      ],
+      [
+        "Main 1-50; leaf nodes; after L1 reassessment; 22 categories",
+        "33 / 297; 0.609 (0.527 to 0.680)",
+        "36 / 315; 0.431 (0.344 to 0.511)",
+        "37 / 333; 0.539 (0.462 to 0.607)"
+      ],
+      [
+        "Main 1-50; all non-top nodes; after L1 reassessment; 22 categories",
+        "33 / 443; 0.606 (0.521 to 0.677)",
+        "36 / 478; 0.494 (0.420 to 0.560)",
+        "37 / 509; 0.522 (0.435 to 0.597)"
+      ],
+      [
+        "Main 1-50; leaf nodes; before L1 reassessment; 22 categories",
+        "33 / 297; 0.579 (0.498 to 0.654)",
+        "36 / 315; 0.529 (0.431 to 0.618)",
+        "37 / 333; 0.526 (0.432 to 0.623)"
+      ],
+      [
+        "Main 1-50; all non-top nodes; before L1 reassessment; 22 categories",
+        "33 / 443; 0.582 (0.502 to 0.654)",
+        "36 / 478; 0.564 (0.485 to 0.634)",
+        "37 / 509; 0.516 (0.414 to 0.620)"
+      ],
+      [
+        "Main 11-50; leaf nodes; after L1 reassessment; 20 categories (non-HFACS merged)",
+        "24 / 219; 0.618 (0.533 to 0.696)",
+        "29 / 250; 0.431 (0.356 to 0.491)",
+        "28 / 262; 0.417 (0.320 to 0.518)"
+      ],
+      [
+        "Main 11-50; leaf nodes; after L1 reassessment; 7 categories (L1-L4 + three non-HFACS categories)",
+        "24 / 219; 0.666 (0.596 to 0.733)",
+        "29 / 250; 0.446 (0.355 to 0.522)",
+        "28 / 262; 0.505 (0.429 to 0.578)"
+      ]
+    ],
+    "note": "All rows use records rated analysable by both reviewers and jointly retained nodes. The first row repeats the primary 22-category analysis as the comparison anchor. Main 1-50 adds the earlier records; non-top nodes include intermediate nodes as well as leaves. Before/after L1 reassessment refers to saved reviewer coding versions, not different patients. The eight 22-category rows enumerate all available combinations of record range, node scope, and coding version. The last two rows show alternative grouping of non-HFACS categories; five-category layer and binary results are in Table S1. Blank classification labels were excluded from classification estimates and preserved in the source dataset. Counts and intervals are taken from the existing analysis, with 2,000 record-cluster bootstrap replicates. These are sensitivity analyses, not additional independent validation cohorts."
+  }
+]

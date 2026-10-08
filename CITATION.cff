@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Private computational draft. Cite a fixed commit; manuscript author metadata is pending confirmation."
+type: software
+title: "HFACS incident-report analysis: computational companion"
+authors:
+  - family-names: Miyake
+    given-names: Fuyuto
+repository-code: "https://github.com/FuyutoMiyake/hfacs-incident-report-reproducibility"
+date-released: "2026-10-08"
+abstract: "Author-review code package with saved-result recomputation. This software maintainer entry is not the manuscript's complete author list. No public release or DOI is claimed."

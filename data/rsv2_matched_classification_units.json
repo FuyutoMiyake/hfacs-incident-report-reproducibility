@@ -1,0 +1,1556 @@
+{
+  "before": [
+    {
+      "source_id": "RS2_033",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "PC_PE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f03",
+      "right_id": "f04",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "PC_PE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_018",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "PC_PE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_053",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_PE"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_041",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f04",
+      "codes_left": [
+        "UA_PE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_006",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_PE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_036",
+      "pair_id": "AB",
+      "left_id": "f03",
+      "right_id": "f06",
+      "codes_left": [
+        "UA_DE"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_009",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f03",
+      "codes_left": [
+        "UA_DE"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_009",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_046",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_056",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_056",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "OI_OP"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L4"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_EV"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f03",
+      "codes_left": [
+        "UA_EV"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f03",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_EV"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_055",
+      "pair_id": "CD",
+      "left_id": "f04",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_005",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_058",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_058",
+      "pair_id": "CD",
+      "left_id": "f04",
+      "right_id": "f02",
+      "codes_left": [
+        "PC_PE"
+      ],
+      "codes_right": [
+        "PC_PE"
+      ],
+      "layer_left": [
+        "L2"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_008",
+      "pair_id": "CD",
+      "left_id": "f03",
+      "right_id": "f02",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "OI_OC"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L4"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_003",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f03",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f04",
+      "right_id": "f04",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_059",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_042",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f04",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_034",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f05",
+      "codes_left": [
+        "PC_CC"
+      ],
+      "codes_right": [
+        "PC_CC"
+      ],
+      "layer_left": [
+        "L2"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f04",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f04",
+      "right_id": "f07",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f05",
+      "right_id": "f08",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_020",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_020",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_010",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    }
+  ],
+  "after": [
+    {
+      "source_id": "RS2_033",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO",
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1",
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "codes_left": [
+        "SI_IO",
+        "UA_DE"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L1",
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO",
+        "UA_DE"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L1",
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_004",
+      "pair_id": "AB",
+      "left_id": "f03",
+      "right_id": "f04",
+      "codes_left": [
+        "SI_IO",
+        "UA_DE"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L1",
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_018",
+      "pair_id": "AB",
+      "left_id": "f02",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "PC_PE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_053",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_PE"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_041",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f04",
+      "codes_left": [
+        "UA_PE"
+      ],
+      "codes_right": [
+        "PC_PL",
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1",
+        "L2"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_006",
+      "pair_id": "AB",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_PE"
+      ],
+      "codes_right": [
+        "PC_TE",
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1",
+        "L2"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_036",
+      "pair_id": "AB",
+      "left_id": "f03",
+      "right_id": "f06",
+      "codes_left": [
+        "UA_DE"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_009",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f03",
+      "codes_left": [
+        "UA_DE"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_009",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_046",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO",
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L1",
+        "L3"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.5
+    },
+    {
+      "source_id": "RS2_056",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_056",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "OI_OP"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L4"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_EV"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f03",
+      "codes_left": [
+        "UA_EV"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_035",
+      "pair_id": "CD",
+      "left_id": "f03",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_EV"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_055",
+      "pair_id": "CD",
+      "left_id": "f04",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_005",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_058",
+      "pair_id": "CD",
+      "left_id": "f02",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_058",
+      "pair_id": "CD",
+      "left_id": "f04",
+      "right_id": "f02",
+      "codes_left": [
+        "PC_PE"
+      ],
+      "codes_right": [
+        "PC_PE"
+      ],
+      "layer_left": [
+        "L2"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_008",
+      "pair_id": "CD",
+      "left_id": "f03",
+      "right_id": "f02",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "OI_OC"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L4"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_003",
+      "pair_id": "CD",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "SI_IO"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L3"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f03",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_029",
+      "pair_id": "EF",
+      "left_id": "f04",
+      "right_id": "f04",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_059",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "UA_DE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_042",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f04",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "INDETERMINATE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    },
+    {
+      "source_id": "RS2_034",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f05",
+      "codes_left": [
+        "PC_CC"
+      ],
+      "codes_right": [
+        "PC_CC"
+      ],
+      "layer_left": [
+        "L2"
+      ],
+      "layer_right": [
+        "L2"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_EV"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f04",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f04",
+      "right_id": "f07",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_001",
+      "pair_id": "EF",
+      "left_id": "f05",
+      "right_id": "f08",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_020",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f01",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_PE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_020",
+      "pair_id": "EF",
+      "left_id": "f02",
+      "right_id": "f02",
+      "codes_left": [
+        "UA_SE"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L1"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": true,
+      "layer_equal": true,
+      "layer_jaccard": 1.0
+    },
+    {
+      "source_id": "RS2_010",
+      "pair_id": "EF",
+      "left_id": "f01",
+      "right_id": "f03",
+      "codes_left": [
+        "SI_IO"
+      ],
+      "codes_right": [
+        "UA_SE"
+      ],
+      "layer_left": [
+        "L3"
+      ],
+      "layer_right": [
+        "L1"
+      ],
+      "codes_equal": false,
+      "layer_equal": false,
+      "layer_jaccard": 0.0
+    }
+  ]
+}

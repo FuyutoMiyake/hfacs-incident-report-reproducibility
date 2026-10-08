@@ -1,0 +1,371 @@
+{
+  "prepared": "2026-10-08",
+  "entries": [
+    {
+      "source": "analysis_npj/scripts/02_reliability_analysis.py",
+      "source_sha256": "42ab1c9fa979516e1052efd2368cd1c8241981da03fe64e20fcec36b51565222",
+      "destination": "analysis_npj/scripts/02_reliability_analysis.py",
+      "destination_sha256": "42ab1c9fa979516e1052efd2368cd1c8241981da03fe64e20fcec36b51565222",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/06_fta_added_value.py",
+      "source_sha256": "f96edf35a90a7752192a05b776413a976a840699c279d6b512d2b697f5fa937a",
+      "destination": "analysis_npj/scripts/06_fta_added_value.py",
+      "destination_sha256": "f96edf35a90a7752192a05b776413a976a840699c279d6b512d2b697f5fa937a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/09_compare_flat_vs_fta.py",
+      "source_sha256": "a7216ad972ddcc0cf2f4f49d88055f18781ad9a46bdd8028529c362c7af28245",
+      "destination": "analysis_npj/scripts/09_compare_flat_vs_fta.py",
+      "destination_sha256": "a7216ad972ddcc0cf2f4f49d88055f18781ad9a46bdd8028529c362c7af28245",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/79_evaluate_frozen_final_50.py",
+      "source_sha256": "320af35b9f315c80f8a9707746deaefd39f8878f9365a63588e8e0020bc894b5",
+      "destination": "analysis_npj/scripts/79_evaluate_frozen_final_50.py",
+      "destination_sha256": "320af35b9f315c80f8a9707746deaefd39f8878f9365a63588e8e0020bc894b5",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/83_evaluate_k26_final.py",
+      "source_sha256": "e0e8621f9b36021b723ad8cfb87838983d56dff9c009b942d205e7d346451f76",
+      "destination": "analysis_npj/scripts/83_evaluate_k26_final.py",
+      "destination_sha256": "e0e8621f9b36021b723ad8cfb87838983d56dff9c009b942d205e7d346451f76",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/110_analyze_rsv2_complete.py",
+      "source_sha256": "5b5f37838c2a192269217a292e89a1ba00fbad62784b4310ac3dd7430717cbe3",
+      "destination": "analysis_npj/scripts/110_analyze_rsv2_complete.py",
+      "destination_sha256": "5b5f37838c2a192269217a292e89a1ba00fbad62784b4310ac3dd7430717cbe3",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/120_build_rsv1_supplementary_results.py",
+      "source_sha256": "6ad7b63a88ad329510c0fc4df76482ea458c961cd789f7b38bca6b46e464cbc7",
+      "destination": "analysis_npj/scripts/120_build_rsv1_supplementary_results.py",
+      "destination_sha256": "6ad7b63a88ad329510c0fc4df76482ea458c961cd789f7b38bca6b46e464cbc7",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/scripts/121_build_fta_supplementary_results.py",
+      "source_sha256": "08d43b3280366353104e86d354725cbddc6086be391973bb4fcd7a4f3069e4da",
+      "destination": "analysis_npj/scripts/121_build_fta_supplementary_results.py",
+      "destination_sha256": "17f793cbafc2372a5cd7cbb8212505e7c807fad36ff6dd4600290e35b84f3ee6",
+      "transformation": "packaging only: hash available companion files, omitting restricted target sets and generation inputs"
+    },
+    {
+      "source": "analysis_npj/scripts/122_build_rsv2_supplementary_results.py",
+      "source_sha256": "a954de47943ded810859bffc51cbb5f847cdd0230f473f4847a7de07d59b39eb",
+      "destination": "analysis_npj/scripts/122_build_rsv2_supplementary_results.py",
+      "destination_sha256": "c723957f69cd31bfa7b237eb655d19a8f3a74ffe53ceab465fc55114a5ae01a8",
+      "transformation": "packaging only: hash available companion inputs; do not require restricted source files"
+    },
+    {
+      "source": "analysis_npj/results/reliability/reliability_metrics.csv",
+      "source_sha256": "ef5e2fc14311ab90715739c56f5787254e9f7371c14404dd9bae907f22efffd6",
+      "destination": "analysis_npj/results/reliability/reliability_metrics.csv",
+      "destination_sha256": "ef5e2fc14311ab90715739c56f5787254e9f7371c14404dd9bae907f22efffd6",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/fta_added_value/global_rankings.csv",
+      "source_sha256": "8c690807a98d11f835ccf23de0e935f41ac99d6279c5b2dcc3500e814b3596c7",
+      "destination": "analysis_npj/results/fta_added_value/global_rankings.csv",
+      "destination_sha256": "8c690807a98d11f835ccf23de0e935f41ac99d6279c5b2dcc3500e814b3596c7",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/fta_added_value/global_ranking_metrics.csv",
+      "source_sha256": "997d4ddedd82457350d692e6c8fef7be207c8e6314166ffbd1b31b8840b164d5",
+      "destination": "analysis_npj/results/fta_added_value/global_ranking_metrics.csv",
+      "destination_sha256": "997d4ddedd82457350d692e6c8fef7be207c8e6314166ffbd1b31b8840b164d5",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/fta_added_value/bootstrap_global_recall.csv",
+      "source_sha256": "1773d48b08da294b358d5165c74b0e74e9ab6eeee8741211afea211c817470ac",
+      "destination": "analysis_npj/results/fta_added_value/bootstrap_global_recall.csv",
+      "destination_sha256": "1773d48b08da294b358d5165c74b0e74e9ab6eeee8741211afea211c817470ac",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/fta_added_value/bootstrap_top5_stability.csv",
+      "source_sha256": "48573842497d38f2b5289a1c7b4ecbbed164c0fa1ea935630f341fe793e098c5",
+      "destination": "analysis_npj/results/fta_added_value/bootstrap_top5_stability.csv",
+      "destination_sha256": "48573842497d38f2b5289a1c7b4ecbbed164c0fa1ea935630f341fe793e098c5",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/fta_added_value/gate_decision.json",
+      "source_sha256": "f9092f7f875c234780d2235c89afde156215015192ce89f1d55beec6062b4252",
+      "destination": "analysis_npj/results/fta_added_value/gate_decision.json",
+      "destination_sha256": "f9092f7f875c234780d2235c89afde156215015192ce89f1d55beec6062b4252",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/flat_vs_fta/aggregate_metrics.csv",
+      "source_sha256": "92a48a983907bcb12604c736c2282f1546bc8f1723648757ad42f1df6a4769d9",
+      "destination": "analysis_npj/results/flat_vs_fta/aggregate_metrics.csv",
+      "destination_sha256": "92a48a983907bcb12604c736c2282f1546bc8f1723648757ad42f1df6a4769d9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/flat_vs_fta/micro_category_metrics.csv",
+      "source_sha256": "96d5ce29cc5dd4a01a16b3afff87dd110e5c21deb4e52de1b41f68ebfb336b78",
+      "destination": "analysis_npj/results/flat_vs_fta/micro_category_metrics.csv",
+      "destination_sha256": "96d5ce29cc5dd4a01a16b3afff87dd110e5c21deb4e52de1b41f68ebfb336b78",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/flat_vs_fta/paired_differences.csv",
+      "source_sha256": "8c7a42804cde5397178e4eca8692363e245e6f09d6c89ead29b69a25b7a675d7",
+      "destination": "analysis_npj/results/flat_vs_fta/paired_differences.csv",
+      "destination_sha256": "8c7a42804cde5397178e4eca8692363e245e6f09d6c89ead29b69a25b7a675d7",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",
+      "source_sha256": "1902e9a29a18732aa1acb1d30505014da35df0934029e55aec292b0b6b5be807",
+      "destination": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",
+      "destination_sha256": "1902e9a29a18732aa1acb1d30505014da35df0934029e55aec292b0b6b5be807",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/results/reliability/reliability_metrics.csv",
+      "source_sha256": "ef5e2fc14311ab90715739c56f5787254e9f7371c14404dd9bae907f22efffd6",
+      "destination": "data/expected_rsv1_reliability.csv",
+      "destination_sha256": "ef5e2fc14311ab90715739c56f5787254e9f7371c14404dd9bae907f22efffd6",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/manuscript/supplementary_results_20261005/tables.json",
+      "source_sha256": "9282d983f2e2c896bf50459d3c6f81fc500ccdc83cf9d947d7d0627e1c3cdd7d",
+      "destination": "data/expected_tables_S1-S3.json",
+      "destination_sha256": "572fd381d422469edbaa1a0cf78f08afafc8c9dd352ed836a1f16bcdb2b27f22",
+      "transformation": "table text only; native Google metadata omitted"
+    },
+    {
+      "source": "analysis_npj/manuscript/supplementary_results_20261005/fta_extension/tables.json",
+      "source_sha256": "7c866a2c89b08c8fc6598a254c49ee39f7cb2d3808215cf50b261d72d8abcff6",
+      "destination": "data/expected_tables_S4-S6.json",
+      "destination_sha256": "7f42f6665f0aa2c3f426aabc5dd0a39ed0e34e0094352bda1f97f57dab97c1b8",
+      "transformation": "table text only; native Google metadata omitted"
+    },
+    {
+      "source": "analysis_npj/manuscript/supplementary_results_20261005/rsv2_extension/tables.json",
+      "source_sha256": "bdeb3a53d52a073ea354071a8bad494e68ad0de512d37bf110a6874d5bd5a80e",
+      "destination": "data/expected_tables_S7-S11.json",
+      "destination_sha256": "8cc39cafc0baad2e6c2206d583ba3197e19d0a3083925be44b48f96098a2a180",
+      "transformation": "table text only; native Google metadata omitted"
+    },
+    {
+      "source": "analysis_npj/derived/canonical_cases.csv",
+      "source_sha256": "b9584f25d80550b428806b8d8b5d5c9ae7c253982910248e2f8631d716b1e389",
+      "destination": "analysis_npj/derived/canonical_cases.csv",
+      "destination_sha256": "315e6178d85c0ac83a631ccab91f09cfde76c76d8b1954d6aef85d05f4996bbf",
+      "transformation": "numeric/code allowlist; source IDs pseudonymised; names, text, dates and comments omitted"
+    },
+    {
+      "source": "analysis_npj/derived/latest_rating_cases.csv",
+      "source_sha256": "a12eeeca00d126b3ddc3d1a9b440651d4ae380a9cf67d349184adf1397814942",
+      "destination": "analysis_npj/derived/latest_rating_cases.csv",
+      "destination_sha256": "9264a20fd955653e2d67aac310e06222a263917f04e3e489e75e9a0012c23e28",
+      "transformation": "numeric/code allowlist; source IDs pseudonymised; names, text, dates and comments omitted"
+    },
+    {
+      "source": "analysis_npj/derived/latest_rating_nodes_post_l1.csv",
+      "source_sha256": "9ca29617ecad0f01fb940e0d43a94f2d3175468ecbce74be9de35dcb23b369b1",
+      "destination": "analysis_npj/derived/latest_rating_nodes_post_l1.csv",
+      "destination_sha256": "496b2c085de6d3d341ed50f3694477ac24c3e58a0d254ddf2ba7d0f983c793ee",
+      "transformation": "numeric/code allowlist; source IDs pseudonymised; names, text, dates and comments omitted"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/locked/final_50_reference_DO_NOT_OPEN.jsonl",
+      "source_sha256": "bd8a533465952f5af0d4434c7a6d808c6aa0ff6fb5000032d16481e1b5dbfc88",
+      "destination": "data/rsv1_final_gpt_5_6_sol_units.json",
+      "destination_sha256": "af571e4d66f7e435372d23ce7f1ea64f794bf76dc2b8e05fa3b5942f41a3535e",
+      "transformation": "reference/prediction category codes only; no factor text or model reasoning"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/final_runs/r03/gpt_5_6_sol.jsonl",
+      "source_sha256": "d30175dfba4e469df47f859809bd54f12a88e88d93248f15e8fee95ded73a11f",
+      "destination": "data/rsv1_final_gpt_5_6_sol_units.json",
+      "destination_sha256": "af571e4d66f7e435372d23ce7f1ea64f794bf76dc2b8e05fa3b5942f41a3535e",
+      "transformation": "reference/prediction category codes only; no factor text or model reasoning"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/final_results/final_results.json",
+      "source_sha256": "7d443b0dd5a79bedb2a97aed14c3dae9d683123ab3c24198bfd3b1e46e5cd316",
+      "destination": "analysis_npj/prompt_adaptation/split50x3_20260722/final_results/final_results.json",
+      "destination_sha256": "580f88e9b5d9e3b29c7abcf5d41bedc2bee2cfc245f072c9236eba143b54fc01",
+      "transformation": "aggregate metric fields only"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/locked/final_50_reference_DO_NOT_OPEN.jsonl",
+      "source_sha256": "bd8a533465952f5af0d4434c7a6d808c6aa0ff6fb5000032d16481e1b5dbfc88",
+      "destination": "data/rsv1_final_kimi_k26_units.json",
+      "destination_sha256": "937101d5dcfeb094f64b782ea4f407884bdd4bde96cfb3cdf77fc67a317cf24a",
+      "transformation": "reference/prediction category codes only; no factor text or model reasoning"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/final_runs/r03/kimi_k26.jsonl",
+      "source_sha256": "d54d96220b8ca2076f5c355b7b45ae07d5af63bcbe4b17b6a82ce9c76046ce18",
+      "destination": "data/rsv1_final_kimi_k26_units.json",
+      "destination_sha256": "937101d5dcfeb094f64b782ea4f407884bdd4bde96cfb3cdf77fc67a317cf24a",
+      "transformation": "reference/prediction category codes only; no factor text or model reasoning"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/final_results_kimi_k26/kimi_k26_final_results.json",
+      "source_sha256": "3bb2eeb4ae0a511dcef5fcb1ed468b04238725172fa7ae87a676e98ac0123281",
+      "destination": "analysis_npj/prompt_adaptation/split50x3_20260722/final_results_kimi_k26/kimi_k26_final_results.json",
+      "destination_sha256": "c0ce4526b960bbce4784d12002fb8065ba6f2411a086e452dbe404e0f461c9b2",
+      "transformation": "aggregate metric fields only"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_independent.json",
+      "source_sha256": "ab221605bfbad0dc8d86f7fd54d13c02eb952c1b178423641efa8b5bd6415d37",
+      "destination": "data/rsv2_factor_case_metrics.json",
+      "destination_sha256": "d742f700b16c317242f95a4e293daeb8f5f865d8bd3798fe9f167ec4c71268f7",
+      "transformation": "540 case-condition numeric rows from saved alignment decisions; not new semantic matching"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/alignment_review.json",
+      "source_sha256": "09a93e8c5aaae46543fb975dabe2d5a65f470d63e6e190337ea84be35a18648b",
+      "destination": "data/rsv2_factor_case_metrics.json",
+      "destination_sha256": "d742f700b16c317242f95a4e293daeb8f5f865d8bd3798fe9f167ec4c71268f7",
+      "transformation": "540 case-condition numeric rows from saved alignment decisions; not new semantic matching"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/factor_case_metrics.json",
+      "source_sha256": "a1b7a490cdcacbe5aa730480fe4d2a2a2dc9b557433320cd9b0ae11436ee0662",
+      "destination": "data/rsv2_factor_case_metrics.json",
+      "destination_sha256": "d742f700b16c317242f95a4e293daeb8f5f865d8bd3798fe9f167ec4c71268f7",
+      "transformation": "540 case-condition numeric rows from saved alignment decisions; not new semantic matching"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analyzability_case_metrics.json",
+      "source_sha256": "d8236da54e50766e22045e5130b9a42ec47f630e6eea0b3439e914f6890c88a1",
+      "destination": "data/rsv2_analyzability_case_metrics.json",
+      "destination_sha256": "13fb0a71ff7223816b0fef6bac6d8404ed84e142def72b7f134fb1bf175643b1",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/graph_case_metrics.json",
+      "source_sha256": "2d6a786575e4efd4696c1bee3e7133a2d64ccece1f27bb1006229f28c622c578",
+      "destination": "data/rsv2_graph_case_metrics.json",
+      "destination_sha256": "355e38fdffe43531c6e7fe2a13fa874f8771d9f808ba2d58ea10d9f64e67467d",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/evidence_traceability.json",
+      "source_sha256": "ea1072749ba4133026d2565d64325c242c3e5ed47e007a66f3a879fa4f23a060",
+      "destination": "data/rsv2_evidence_traceability.json",
+      "destination_sha256": "3eddee8429ba42c8e409039d1bfe0b3285c6a26891581f797d0a540acd728a72",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/matched_classification_units.json",
+      "source_sha256": "67eaad64ec69d01375675a31a39e29b10e800f361df8c5441643baee3fd76ea4",
+      "destination": "data/rsv2_matched_classification_units.json",
+      "destination_sha256": "fc57c91fadedcaec29dc93831f3d16cc83584ac1a2af0e24ab57e9252042f391",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/ai/classification_units.json",
+      "source_sha256": "35a7ea529a2d1a5813104be3dc0fa30b545d7c0250bc7b64a24e2eb07716b850",
+      "destination": "data/rsv2_ai_classification_units.json",
+      "destination_sha256": "5cae3f3ed8e87c93d3ea356821eb4136b407114b64509da96f3acf7b41c6e853",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_consensus.json",
+      "source_sha256": "269b6367a5fbcc827a3f83ec0a96d87d657dceb0d0dac9e2c9081aa0ce4e4a4d",
+      "destination": "data/rsv2_consensus_codes.json",
+      "destination_sha256": "865653cdc42da7a6de3b208fd8c7c61f3c441897ddf825acb417cb0d9a3eb6fe",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_independent.json",
+      "source_sha256": "ab221605bfbad0dc8d86f7fd54d13c02eb952c1b178423641efa8b5bd6415d37",
+      "destination": "data/rsv2_recorded_times.json",
+      "destination_sha256": "ea3857aecc291fb1b1bc620049cb0fc74e9bd230044792fb381832d7665e2041",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/consultation_data_audit_20261002/canonical_phase2.json",
+      "source_sha256": "dcf766f42fe4fe1186b9ead9935b7dca3bade5c9360a7fcbf1494164d00edb84",
+      "destination": "data/rsv2_recorded_times.json",
+      "destination_sha256": "ea3857aecc291fb1b1bc620049cb0fc74e9bd230044792fb381832d7665e2041",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/share_repository_staging_20261008/docs/prompt_development.md",
+      "source_sha256": "2f697ac155479403f29a2f9ecb3bf63fb3e1bf388f988ab7d26900a08abfa15d",
+      "destination": "docs/prompt_development.md",
+      "destination_sha256": "2f697ac155479403f29a2f9ecb3bf63fb3e1bf388f988ab7d26900a08abfa15d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/share_repository_staging_20261008/docs/original_v6b_prompts.md",
+      "source_sha256": "1f51b6013527e01eebad68a70544d5a6e280808ef798a2823ea4b5b7dd48479a",
+      "destination": "docs/original_v6b_prompts.md",
+      "destination_sha256": "1f51b6013527e01eebad68a70544d5a6e280808ef798a2823ea4b5b7dd48479a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/share_repository_staging_20261008/docs/rsv1_sensitivity_agreement_ac1.md",
+      "source_sha256": "317757f3f61f8287486faa5bdaaebb65037999389a2c38d08ca7c561c5ca1742",
+      "destination": "docs/rsv1_sensitivity_agreement_ac1.md",
+      "destination_sha256": "317757f3f61f8287486faa5bdaaebb65037999389a2c38d08ca7c561c5ca1742",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analysis_npj/analysis_runs/rsv2_complete_20261001/ai/frozen_bundle.json",
+      "source_sha256": "5a9b5545aad5da9e32cefda245a347cdf11a710163f5175f10b07a639621a97d",
+      "destination": "prompts/r03_templates.json",
+      "destination_sha256": "debc369f2b3aa84675ac6d2f67b9243a294c7f3e73153848074810b6b1cd0b33",
+      "transformation": "prompt templates and original hashes; 24 clinical few-shot messages withheld"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/frozen/final_configuration.json",
+      "source_sha256": "6451740a84f187d6adda34bbfaf7aaf0c846b043181b9829e30b655155c56d11",
+      "destination": "prompts/final_configuration.json",
+      "destination_sha256": "6451740a84f187d6adda34bbfaf7aaf0c846b043181b9829e30b655155c56d11",
+      "transformation": "no secret values in original configuration"
+    },
+    {
+      "source": "analysis_npj/prompt_adaptation/split50x3_20260722/split_manifest.json",
+      "source_sha256": "59c45ad5fa1f1c65f63a7a14d82f17e14ba0f91ad679358f0795560a0f36c4ce",
+      "destination": "analysis_npj/prompt_adaptation/split50x3_20260722/split_manifest.json",
+      "destination_sha256": "8542698c24eca7b96277a2c037ca7a1b641b6dc61b1aa1c9dc819353b3f17d1b",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/derived/rsv2_main60_sampling_manifest.json",
+      "source_sha256": "021952d67bb7e71e9de7058ebbdf84de1c70bfb6a176984134491c4f99ec7386",
+      "destination": "analysis_npj/derived/rsv2_main60_sampling_manifest.json",
+      "destination_sha256": "c60962bc76f76f98e9b703e8579880f84b879f4513fb88e9aa488a18bc2c3841",
+      "transformation": "numeric allowlist"
+    },
+    {
+      "source": "analysis_npj/derived/canonical_nodes.csv",
+      "source_sha256": "cb1d44eaa53c84acfb6aa46ca2d09809352628ec68a27f6a8fde9b6faf7ba8b9",
+      "destination": "analysis_npj/derived/canonical_nodes.csv",
+      "destination_sha256": "ea05afda18e21650d16cbb312ef189ab09d1c191bdfff4fcdec1978f911973f5",
+      "transformation": "IDs only for figure node count; clinical content omitted"
+    },
+    {
+      "source": "analysis_npj/scripts/118_build_ijmi_figures.py",
+      "source_sha256": "2f0ceb38c829b27392b495142471a4c623ff1a835197e7a7adf2044f59bf9f61",
+      "destination": "analysis_npj/scripts/118_build_ijmi_figures.py",
+      "destination_sha256": "915be8ca926971e09c04bb5077359cd4f38aec1a6c8b6eb106b51ddce2ade86a",
+      "transformation": "packaging only: bundled Vera font fallback when macOS Arial is unavailable"
+    }
+  ],
+  "source_ids": "Pseudonyms ordered by original ID; no mapping distributed",
+  "excluded": "Clinical narratives, factor texts, quotations, comments, names, original Git history, credentials, full model responses and clinical few-shot examples"
+}

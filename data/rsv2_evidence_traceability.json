@@ -1,0 +1,3188 @@
+[
+  {
+    "source_id": "RS2_033",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_033",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_033",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_033",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "independent",
+    "factor_id": "f07",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_053",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_053",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_053",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_053",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_015",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_032",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_032",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_032",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_027",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_027",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_027",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_027",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "independent",
+    "factor_id": "f07",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "independent",
+    "factor_id": "f07",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_043",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_043",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_043",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_046",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_046",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_046",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_040",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_040",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_040",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_012",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_012",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_012",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_012",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_014",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_014",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f07",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_054",
+    "type": "independent",
+    "factor_id": "f08",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_026",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_026",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_026",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_026",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_039",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_039",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_039",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_047",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_047",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_059",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_059",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_016",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_016",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_016",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_016",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_057",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_011",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_011",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_011",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f07",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "independent",
+    "factor_id": "f08",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_028",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_028",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_028",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_024",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_024",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_024",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_024",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 2,
+    "quotes_found": 2,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 2,
+    "quotes_found": 2,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "independent",
+    "factor_id": "f04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_020",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_020",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_020",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_020",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_031",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_031",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_031",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "independent",
+    "factor_id": "f01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "independent",
+    "factor_id": "f02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "independent",
+    "factor_id": "f03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_033",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 3,
+    "quotes_found": 3,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_004",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_018",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_053",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_041",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_032",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_027",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_023",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_013",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_006",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_049",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_043",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_043",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_060",
+    "type": "consensus",
+    "factor_id": "rf05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_036",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_009",
+    "type": "consensus",
+    "factor_id": "rf05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_046",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_046",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_012",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_012",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_056",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 4,
+    "quotes_found": 4,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_035",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf06",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf07",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf08",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_055",
+    "type": "consensus",
+    "factor_id": "rf09",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_005",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_026",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 2,
+    "quotes_found": 2,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_026",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_058",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_008",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_003",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_007",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_037",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_029",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_059",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_042",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 2,
+    "quotes_found": 2,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_034",
+    "type": "consensus",
+    "factor_id": "rf05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_011",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 2,
+    "quotes_found": 2,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_001",
+    "type": "consensus",
+    "factor_id": "rf05",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_028",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_028",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 2,
+    "quotes_found": 2,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_052",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_020",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_020",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_031",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_031",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_031",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "consensus",
+    "factor_id": "rf01",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "consensus",
+    "factor_id": "rf02",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "consensus",
+    "factor_id": "rf03",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": true
+  },
+  {
+    "source_id": "RS2_010",
+    "type": "consensus",
+    "factor_id": "rf04",
+    "quotes": 1,
+    "quotes_found": 1,
+    "all_quotes_traceable": true,
+    "only_improvement_evidence": false
+  }
+]
