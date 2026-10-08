@@ -19,6 +19,13 @@ the collaborative manuscript sources; subsequent edits do not automatically upda
 this repository. Manuscript section references and availability statements in these
 snapshots reflect the draft at capture and must be checked before submission.
 
+**Latest-source check, 8 October 2026:** fresh reads of all three collaborative
+documents produced the same active Markdown text. All 11 results tables and 433
+cells were verified again; the GRRAS status remains 5 reported, 7 partial and 3
+pending. Supplement-source hashes were refreshed without changing the numerical
+inputs, tables or collaborative documents. Internal author-review questions and
+unconfirmed reviewer-selection drafts are not included.
+
 **Provenance update after capture:** the decision-file creation model has since been
 identified as `gpt-6.1-sol`; the standalone matching prompt and earlier AB/CD candidate
 creation remain unresolved. See [the recovered provenance](../docs/semantic_matching_provenance.md).

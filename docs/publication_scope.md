@@ -4,11 +4,17 @@
 licence or archived release has been created. Changing visibility is a separate action
 that requires approval; this document does not authorise it.
 
+**Scope refreshed:** 8 October 2026. The remote repository was confirmed private.
+All three supplement snapshots were checked against fresh reads of the collaborative
+documents; their active Markdown text was unchanged. The 11 results tables and 433
+cells still match the preserved expected tables. Internal author-review spreadsheets
+and unconfirmed reviewer-selection drafts are not part of the release candidates.
+
 ## What Goes Where
 
 | Destination | Scope | Purpose |
 | --- | --- | --- |
-| Proposed public repository | Readable manuscript supplements and draft GRRAS checklist; statistical/figure Python code, pinned environment, tests, Markdown development notes/reproduction guide, prompt templates and frozen settings, pseudonymised numeric/category units, saved aggregates and hashes | Read the supplements, recompute supported statistics and regenerate tables/figures |
+| Proposed public repository | Readable manuscript supplements and draft GRRAS checklist; statistical/figure Python code, pinned environment, tests, Markdown development notes/reproduction guide, prompt templates and frozen settings, pseudonymised numeric/category units, saved aggregates and hashes; scoped matching-provenance findings and official source-acquisition/access conditions | Read the supplements, recompute supported statistics and regenerate tables/figures |
 | Journal submission | Final reviewed supplement files containing essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist | Interpret the study without reading source code; meet submission requirements |
 | Controlled research workspace, not the first public package | JCQHC narrative/metadata exports, extracted factor prose, quotations and text-based correspondence evidence, complete individual annotation exports, raw model responses and clinical few-shot examples | Source-level review and original-process audit |
 | Never part of the public package | Reviewer names/contact details and source-ID mappings, internal coauthor comments and activity/session logs, credentials, third-party paper PDFs and original working-repository history | Protect people, access secrets and unrelated internal material |
@@ -44,8 +50,32 @@ See [reproduction commands](reproduction.md) and [unresolved provenance](limitat
 
 ## 日本語要約
 
-- **公開候補:** 論文サプリのMarkdown版、GRRAS対応表、コード、テンプレート、再計算手順、仮名化した数値・分類データ、集計、hash。数値・分類データも著者による確認対象とする。
-- **GitHubにも収録する論文サプリ:** 方法・分類定義・感度分析・結果表S1〜S11・報告チェックリスト。共同編集用Docsは正本として保持し、投稿時は雑誌の形式に合わせる。
-- **今回の公開版に含めない:** 原文・メタデータ全文、要因文・引用、個別回答全文、AI応答全文・臨床few-shot例。
-- **非公開を維持:** 評価者情報・対応表、内部コメント・ログ、認証情報、元repoの履歴。
-- 現在はPrivate。共同研究者の確認後に公開範囲・ライセンス・固定版を決める。
+更新日：2026年10月8日。**現在の共有用GitHubはPrivateで、一般公開はしていません。**
+「公開候補」は将来の公開版へ収録する案であり、公開実行の承認とは区別します。
+
+| 内容 | 現在の共有用GitHub | 今後の公開方針 |
+| --- | --- | --- |
+| Python解析・図表作成コード、検証テスト、実行環境 | 収録済み | 公開候補 |
+| Markdownの研究の流れ・再計算手順・解析上の制約 | 収録済み | 公開候補 |
+| プロンプトテンプレート・固定設定・開発比較の説明 | 収録済み | 公開候補。ただし臨床few-shot全文は除外 |
+| 仮名化した数値・分類データ、保存済み集計、hash | 収録済み | 公開候補として了承済み。公開前に内容確認 |
+| 要因対応の来歴（SOLモデル確認・保存CSV照合） | 収録済み。会話全文は除外 | 公開候補。確認済みの事実と再実行上の制約を記載 |
+| 原データの取得方法・提供条件、公開元CSVのhash | 収録済み。原データ・研究用元ID対応表は除外 | 公開候補。無条件の提供を約束しない |
+| Supplementary Methods / Results（S1〜S11） | Markdownで収録済み。最新Docsと照合済み | 公開候補。投稿時は確定版を別途添付 |
+| GRRAS対応表15項目 | 暫定版を収録済み。最新Docsと照合済み | 記載済み5・一部7・未記載3。確認・更新後に公開候補 |
+| JCQHC原文・メタデータ全文、要因文・引用 | 未収録 | 今回の公開版には含めない |
+| 個別回答全文・AI応答全文・臨床few-shot | 未収録 | 管理された研究用環境のみで保持 |
+| 評価者名・連絡先・元ID対応表・内部コメント／活動ログ・著者確認用GSS | 未収録 | 公開しない |
+| 認証情報・第三者論文PDF・元リポジトリの内部Git履歴 | 未収録 | 公開版には含めない |
+
+上の一覧はこの共有用リポジトリの収録範囲です。元の研究リポジトリの
+公開範囲・権限は変更しません。数値・分類データも著者による確認対象とします。
+共同編集用Docsは正本として保持し、GitHubのMarkdown版とは自動同期しません。
+今回の最新取得ではサプリ3点の通常表示本文に変更はなく、結果11表・433セルと
+GRRASの15項目・対応状況を保持しました。GSS上の内部質問や未確定の選定理由案は
+論文サプリへ転記していません。
+
+保存済み判定に基づく統計の再計算と、同じAI判定を最初からやり直すことは
+区別します。専用の固定対応プロンプト等の未確認事項は
+[要因対応の来歴](semantic_matching_provenance.md)に残します。
+一般公開・ライセンス・投稿引用用の固定版は、共同研究者の確認後に別途決めます。

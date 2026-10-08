@@ -19,8 +19,8 @@
     },
     {
       "path": "README_ja.md",
-      "size_bytes": 2218,
-      "sha256": "822699f2cff7496683584e73d525f69e5c514a836dfcfae1d0bb324a8045e55a"
+      "size_bytes": 2587,
+      "sha256": "127ad56fb72830c347d0fdcc5845da503856b6b36f0c3e6ef2c86d8a90e3ec20"
     },
     {
       "path": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",
@@ -259,8 +259,8 @@
     },
     {
       "path": "docs/publication_scope.md",
-      "size_bytes": 4195,
-      "sha256": "c3fc66662fe7c4ffc9daf1d6d61483e8ff44a082cbb498583136dd07d75e02b8"
+      "size_bytes": 6777,
+      "sha256": "f56bc6891bfb6cf6a3be7bb2966f8a497921c7d2c72ebf7244fcd4b659f8deff"
     },
     {
       "path": "docs/repository_examples.md",
@@ -320,7 +320,7 @@
     {
       "path": "provenance/supplement_manifest.json",
       "size_bytes": 1340,
-      "sha256": "1f1252df0e9edaffd9e35d648853bfde176ccba064534a185e3eb92eb9775d27"
+      "sha256": "e2209dac1be5a5bb09775da752aeae2a5c30f225e5022537c6814331d4a27c48"
     },
     {
       "path": "requirements-figures.txt",
@@ -349,8 +349,8 @@
     },
     {
       "path": "supplements/README.md",
-      "size_bytes": 3556,
-      "sha256": "a302acd8b12d199b0fbbab565a8fa864419705a751ac9b0ad505fbac4eb572d4"
+      "size_bytes": 4013,
+      "sha256": "ad786dd9f497523beb169910c069061e0b26e469d87a6e39b57fd90c4320948d"
     },
     {
       "path": "supplements/grras_checklist.md",
