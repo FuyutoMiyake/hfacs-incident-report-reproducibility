@@ -15,6 +15,7 @@ HFACS＝人的要因分析・分類体系、FTA＝故障の木解析、RS＝参�
 サプリもGitHubに収録しています。最新版Google Docsから取り消し線・内部メモを除いたMarkdownの控えで、Docsは変更せず、自動同期もしません。GRRASは記載済み5／一部記載7／未記載3の暫定版です。
 詳しくは[公開範囲の案](docs/publication_scope.md)をご確認ください。
 AIの意味対応判定自体を再実行したり、人間確認済みにしたりするものではありません。
+対応表の作成時モデルは `gpt-6.1-sol` と記録から確認しましたが、単独の固定プロンプトと旧AB/CD候補表の来歴は未確認です。[確認経緯](docs/semantic_matching_provenance.md)と[原データの取得・提供条件](docs/data_availability.md)を参照してください。
 FTA追加価値の表は保存済み集計から再生成します。AI生成や全工程の追試とは区別します。
 
 [再計算手順](docs/reproduction.md)に従って実行してください。

@@ -19,6 +19,11 @@ withheld here is not automatically available on request; access arrangements req
 a separate team decision. No blanket restriction on reuse of JCQHC public records is
 asserted.
 
+The [data acquisition and restricted-access conditions](data_availability.md#obtaining-the-original-public-sources)
+identify the official source service, historical file hashes, withheld study linkage
+and the separate review required for any additional verification material. There is
+no unconditional "available on request" commitment.
+
 ## Reproduction Boundary
 
 The package uses saved classifications, semantic correspondences and traceability

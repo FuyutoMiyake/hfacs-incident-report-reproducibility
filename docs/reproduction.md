@@ -44,6 +44,10 @@ transition margins, input integrity, PDF pages and font embedding.
 This checks computation **conditional on saved ratings, matching decisions, classifications
 and traceability flags**. It does not regenerate human annotations, establish the correctness
 of semantic matching or assess full evidentiary support. No model is invoked.
+The decision-file creation was traced to a `gpt-6.1-sol` Codex session; the standalone
+matching prompt and earlier AB/CD candidate-table creation remain unresolved. See
+[semantic matching provenance](semantic_matching_provenance.md). Source acquisition
+and restricted material are documented in [data availability](data_availability.md).
 
 Full FTA added-value recalculation, prompt selection and model inference need additional
 controlled inputs. Historical scripts `06`, `09`, `79`, `83` and `110` are preserved for

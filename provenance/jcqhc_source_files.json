@@ -1,0 +1,106 @@
+{
+  "checked_date": "2026-10-08",
+  "scope": "Medical accident annual CSV files, 2010-2024; near-miss files excluded",
+  "official_download_page": "https://www.med-safe.jp/contents/report/report.html",
+  "official_terms": "https://jcqhc.or.jp/terms_and_conditions",
+  "historical_manifest_recorded_at_utc": "2026-08-12T12:33:45.423717+00:00",
+  "original_download_dates": "not recovered; manifest creation is not a download date",
+  "encoding_used": "cp932 with errors=ignore, as in the historical loader",
+  "inclusion": "Non-empty stripped case ID and event description; duplicate case IDs rejected",
+  "n_files": 15,
+  "eligible_unique_records": 61606,
+  "files": [
+    {
+      "file": "MedicalReportPubA_2010.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2010.csv",
+      "sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "eligible_records": 2703
+    },
+    {
+      "file": "MedicalReportPubA_2011.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2011.csv",
+      "sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "eligible_records": 2799
+    },
+    {
+      "file": "MedicalReportPubA_2012.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2012.csv",
+      "sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "eligible_records": 1794
+    },
+    {
+      "file": "MedicalReportPubA_2013.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2013.csv",
+      "sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "eligible_records": 3049
+    },
+    {
+      "file": "MedicalReportPubA_2014.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2014.csv",
+      "sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "eligible_records": 3194
+    },
+    {
+      "file": "MedicalReportPubA_2015.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2015.csv",
+      "sha256": "2732ff9c4cb093d6d61f1af2d19d2c4f5378f6ec810cf6924a316365983a7ea4",
+      "eligible_records": 3654
+    },
+    {
+      "file": "MedicalReportPubA_2016.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2016.csv",
+      "sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "eligible_records": 3882
+    },
+    {
+      "file": "MedicalReportPubA_2017.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2017.csv",
+      "sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "eligible_records": 4095
+    },
+    {
+      "file": "MedicalReportPubA_2018.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2018.csv",
+      "sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "eligible_records": 4565
+    },
+    {
+      "file": "MedicalReportPubA_2019.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2019.csv",
+      "sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "eligible_records": 4532
+    },
+    {
+      "file": "MedicalReportPubA_2020.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2020.csv",
+      "sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "eligible_records": 4802
+    },
+    {
+      "file": "MedicalReportPubA_2021.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2021.csv",
+      "sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "eligible_records": 5243
+    },
+    {
+      "file": "MedicalReportPubA_2022.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2022.csv",
+      "sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "eligible_records": 5313
+    },
+    {
+      "file": "MedicalReportPubA_2023.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2023.csv",
+      "sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "eligible_records": 6070
+    },
+    {
+      "file": "MedicalReportPubA_2024.csv",
+      "official_url": "https://www.med-safe.jp/download/MedicalReportPubA_2024.csv",
+      "sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "eligible_records": 5911
+    }
+  ],
+  "original_source_id_mapping_distributed": false,
+  "note": "Source acquisition alone cannot identify the exact pseudonymised study subsets; the source mapping remains controlled"
+}

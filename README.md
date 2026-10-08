@@ -13,6 +13,7 @@ RS = reference standard. [Japanese overview](README_ja.md).
 - [Reproduction guide](docs/reproduction.md): executable commands and the exact scope of each command.
 - [Analysis map](docs/analysis_map.md): manuscript results, inputs and scripts.
 - [Data availability and schemas](docs/data_availability.md): included numeric units and withheld source material.
+- [Recovered matching provenance](docs/semantic_matching_provenance.md): recorded SOL session model, decision-file checksum and remaining prompt/context gaps.
 - [Publication scope](docs/publication_scope.md): proposed public package, excluded material and release approval.
 - [Prompt development](docs/prompt_development.md) and [original v6b templates](docs/original_v6b_prompts.md).
 - [Limitations and unresolved provenance](docs/limitations.md).

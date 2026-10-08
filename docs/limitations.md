@@ -1,8 +1,12 @@
 # Interpretation and Pending Provenance
 
 - Semantic matches were AI-assisted analyst decisions, not independently human-verified
-  reference correspondence. The original matching model/prompt were not identified in
-  the available records; no provenance is reconstructed or invented here.
+  reference correspondence. On 8 October 2026, the decision-file creation was traced to
+  a conversational Codex session recorded as `gpt-6.1-sol` (`high` reasoning effort).
+  The creation patch matches the preserved CSV. No standalone frozen matching prompt
+  was recovered, and the earlier AB/CD candidate-table creation remains unresolved.
+  See [recovered matching provenance](semantic_matching_provenance.md); this recovery
+  does not establish blinded matching or validate factor meaning.
 - Matching sensitivity is material: under the main eligibility rule, strict quotation
   matching gives F1 about 0.148, central-proposition matching 0.420, and partial overlap
   0.511. Computational reproducibility does not make these choices equivalent or prove

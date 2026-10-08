@@ -19,6 +19,14 @@ the collaborative manuscript sources; subsequent edits do not automatically upda
 this repository. Manuscript section references and availability statements in these
 snapshots reflect the draft at capture and must be checked before submission.
 
+**Provenance update after capture:** the decision-file creation model has since been
+identified as `gpt-6.1-sol`; the standalone matching prompt and earlier AB/CD candidate
+creation remain unresolved. See [the recovered provenance](../docs/semantic_matching_provenance.md).
+The earlier Methods/checklist wording about an unidentified model is retained as part
+of the dated collaborative-document snapshot, not the latest provenance conclusion.
+Updated [source acquisition and access conditions](../docs/data_availability.md) do
+not alter the source Docs, supplement tables or repository permissions.
+
 The export omits struck review text/tables, private collaboration links and a separate
 internal author-confirmation section. References and the checklist's pending items
 are retained. No clinical narratives, extracted factor prose, quotations, reviewer

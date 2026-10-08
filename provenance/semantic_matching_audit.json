@@ -1,0 +1,34 @@
+{
+  "checked_date": "2026-10-08",
+  "matching_workflow": "Conversational Codex analyst wrote a decision CSV using apply_patch; not a dedicated batch matching API",
+  "model_recorded_at_creation": "gpt-6.1-sol",
+  "reasoning_effort_recorded": "high",
+  "model_provider_recorded": "openai",
+  "client_version_recorded": "0.159.0",
+  "creation_timestamp_utc": "2026-10-01T07:32:10.168Z",
+  "creation_patch_matches_current_csv": true,
+  "decision_csv_sha256": "e5a787696b7b6440903036b8a94c4ab69914d7055b653633889d1fe136172457",
+  "decision_rows": 55,
+  "relations": {
+    "same": 39,
+    "partial": 9,
+    "causal_related": 6,
+    "actor_diff": 1
+  },
+  "rows_by_pair": {
+    "AB": 14,
+    "CD": 21,
+    "EF": 20
+  },
+  "legacy_candidate_rows": 35,
+  "ab_cd_candidate_keys_equal_legacy": true,
+  "standalone_frozen_matching_prompt_recovered": false,
+  "full_conversation_exported": false,
+  "human_independent_confirmation": false,
+  "remaining_gaps": [
+    "Creation provenance of the earlier AB/CD candidate table is unresolved",
+    "No standalone frozen matching prompt or complete replayable request bundle was identified",
+    "The recorded model identifier is not an immutable backend snapshot",
+    "Independent blinding and human confirmation are not established by this recovery"
+  ]
+}
