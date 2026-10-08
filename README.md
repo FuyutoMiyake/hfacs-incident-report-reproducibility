@@ -9,6 +9,7 @@ RS = reference standard. [Japanese overview](README_ja.md).
 
 ## Start Here
 
+- [Manuscript supplements](supplements/README.md): Supplementary Methods, Results tables S1-S11 and the draft GRRAS 15-item checklist.
 - [Reproduction guide](docs/reproduction.md): executable commands and the exact scope of each command.
 - [Analysis map](docs/analysis_map.md): manuscript results, inputs and scripts.
 - [Data availability and schemas](docs/data_availability.md): included numeric units and withheld source material.
@@ -50,6 +51,7 @@ docs/                      Human-readable Markdown documentation
 prompts/                   Prompt templates and frozen classification settings
 provenance/                File hashes and transformation records
 scripts/                   Offline reproduction and integrity checks
+supplements/               Readable manuscript supplements and draft GRRAS checklist
 ```
 
 Original paths are retained where needed by the historical scripts. Do not run every historical
@@ -62,8 +64,8 @@ to the collaborating reviewer. This is not a public release.
 
 | Destination | Material |
 | --- | --- |
-| Proposed public repository, after team and disclosure review | Analysis/figure code, environment and tests, Markdown methods and reproduction instructions, prompt templates/settings, pseudonymised numeric/category inputs, aggregate results and hashes |
-| Journal supplement | Essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist |
+| Proposed public repository, after team and disclosure review | Manuscript supplement snapshots and GRRAS checklist, analysis/figure code, environment and tests, Markdown reproduction instructions, prompt templates/settings, pseudonymised numeric/category inputs, aggregate results and hashes |
+| Journal submission | Final reviewed supplements in the required submission format: essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist |
 | Not in the proposed public package | Clinical narratives/metadata exports, factor texts/quotations, complete individual annotations, original model responses and clinical few-shot examples, reviewer identities/contacts and ID mappings, internal comments/logs, credentials and original working-repository history |
 
 Public access, dataset redistribution, code licence, complete author list and an archival DOI
@@ -74,6 +76,9 @@ Clinical narratives, quotations, factor texts, identifying reviewer information,
 comments, credentials and working-repository Git history are excluded. Original clinical
 few-shot messages are withheld; the r03 template file is not the complete frozen prompt bundle.
 
-The journal supplement remains separate: essential definitions, analysis methods, sensitivity
-tables and reporting-checklist information belong there. This repository supplies executable
-code and computational documentation, not a replacement for those materials.
+Readable manuscript supplements are included in [supplements/](supplements/README.md),
+alongside executable code and computational documentation. The numeric/category inputs
+are intended public-release candidates, accepted for author review. The collaborative
+documents remain the working sources; these Markdown copies are dated snapshots, not
+automatically synchronised edits. Final journal supplements and a public release remain
+subject to review and approval.

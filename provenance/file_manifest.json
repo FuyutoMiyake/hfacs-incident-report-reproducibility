@@ -14,13 +14,13 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 4929,
-      "sha256": "0f1736c6787e7b8fd3a5d6e3a72b5bb8e2a6fa8003193723b586325982e76af7"
+      "size_bytes": 5453,
+      "sha256": "84204cacfdfa7a3f8aefe57742bb421e634e3575fc86610af4cfe320e93da905"
     },
     {
       "path": "README_ja.md",
-      "size_bytes": 1575,
-      "sha256": "fb0f0e2365ed697300336ebe8d56f6b4838028f00d23166951fbafc664c1bae0"
+      "size_bytes": 1900,
+      "sha256": "e354e65ab1e73734133352238b2395abc1819857b5671897496e51c55439dee3"
     },
     {
       "path": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",
@@ -239,8 +239,8 @@
     },
     {
       "path": "docs/data_availability.md",
-      "size_bytes": 3507,
-      "sha256": "6e73496c230c029aaf4eafbf46877d4dd906c83bbab92d102fea2ee7938fc3f2"
+      "size_bytes": 3535,
+      "sha256": "d8d5e6c18dadb5b585a7ba97240af772406334a0bf1d309ea328188dd6fa0a6c"
     },
     {
       "path": "docs/limitations.md",
@@ -259,8 +259,8 @@
     },
     {
       "path": "docs/publication_scope.md",
-      "size_bytes": 3481,
-      "sha256": "ac7f5ac51d9a5d8a318a3806ad9df08eb2e3a1b1ac2a43c5fd9cc00acf84d52c"
+      "size_bytes": 3857,
+      "sha256": "5c78fed2ef869fb7d3ce0a6f8a85abcf897c1c51bd3153d09c60bbac4c20a68c"
     },
     {
       "path": "docs/repository_examples.md",
@@ -303,6 +303,11 @@
       "sha256": "b37bbe06aca125e7160e998d453a46b961f7f35e0b9957c900a6bd17e6ed3d4e"
     },
     {
+      "path": "provenance/supplement_manifest.json",
+      "size_bytes": 1340,
+      "sha256": "1f1252df0e9edaffd9e35d648853bfde176ccba064534a185e3eb92eb9775d27"
+    },
+    {
       "path": "requirements-figures.txt",
       "size_bytes": 51,
       "sha256": "3faa011c74cab838c3697daf0a4819610f8a29b07cf38fe63dd6acd6382222ef"
@@ -328,9 +333,34 @@
       "sha256": "e9a69fe49e57be1b1d3b8d44d4c6ea02257247003341cd2d7ff24db98dcf3816"
     },
     {
+      "path": "supplements/README.md",
+      "size_bytes": 2955,
+      "sha256": "f9116d6dc38a0d5b4c1415224b9b76bf4e877cef279546670ba1d0d2c5e877db"
+    },
+    {
+      "path": "supplements/grras_checklist.md",
+      "size_bytes": 5782,
+      "sha256": "f4e098141cebde31a29e48ac965f3b3382cf86c8a9bf18d8f8474cd2cfdb7a83"
+    },
+    {
+      "path": "supplements/supplementary_methods.md",
+      "size_bytes": 15853,
+      "sha256": "7fcaabea608b80d2592d0e72722f98bc2e83bacd832e3e831dba5d0c210e8481"
+    },
+    {
+      "path": "supplements/supplementary_results.md",
+      "size_bytes": 20074,
+      "sha256": "e8066b7351dfb325d3b961e6807150a46073c8bc6ccc63708ce49410f4a14a33"
+    },
+    {
       "path": "tests/test_statistical_contracts.py",
       "size_bytes": 1544,
       "sha256": "7926d3d93c4e6fc0ade50f425d5a83d3dd5a4df91abf7f9dce36d2d0fb8da9f0"
+    },
+    {
+      "path": "tests/test_supplement_snapshots.py",
+      "size_bytes": 2682,
+      "sha256": "fe69197737046136b333356c1102ca41e576ade9b979d1a5160039ec52547f18"
     }
   ],
   "scope": "Curated numeric/code package, not clinical raw data or original Git history",

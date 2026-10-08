@@ -1,7 +1,7 @@
 # Data Availability and Schemas
 
 **Current access:** private coauthor review. The included derived inputs are candidates
-for a future public release, not publicly accessible data at present. See the
+for a future public release, accepted for author review, not publicly accessible data at present. See the
 [publication-scope plan](publication_scope.md) for the approval boundary and exclusions.
 
 ## Included

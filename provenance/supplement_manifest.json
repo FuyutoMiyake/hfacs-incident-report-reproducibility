@@ -1,0 +1,39 @@
+{
+  "captured_date": "2026-10-08",
+  "status": "draft; private coauthor review",
+  "format": "active-text Markdown snapshots; native collaborative documents unchanged",
+  "transformations": [
+    "omit struck review text and tables",
+    "omit private collaboration links",
+    "use relative supplement links",
+    "omit internal author-confirmation notes"
+  ],
+  "files": [
+    {
+      "path": "supplements/supplementary_methods.md",
+      "sha256": "7fcaabea608b80d2592d0e72722f98bc2e83bacd832e3e831dba5d0c210e8481",
+      "source_native_sha256": "d4b0728f20a10ca8dc44e573086bf286f008751ccafe6daa55932d15bdf1bef8",
+      "tables": 1
+    },
+    {
+      "path": "supplements/supplementary_results.md",
+      "sha256": "e8066b7351dfb325d3b961e6807150a46073c8bc6ccc63708ce49410f4a14a33",
+      "source_native_sha256": "aa1bbf91a42338bc3c1e4d942e8545fe5cf683c7514e838abe8676a886f33913",
+      "tables": 11
+    },
+    {
+      "path": "supplements/grras_checklist.md",
+      "sha256": "f4e098141cebde31a29e48ac965f3b3382cf86c8a9bf18d8f8474cd2cfdb7a83",
+      "source_native_sha256": "4baf36df3cd72774ee2f52e47c57976efff4cafb2ea14f2e06c08e6c1577c8af",
+      "tables": 1
+    }
+  ],
+  "results_tables": 11,
+  "results_cells_verified": 433,
+  "grras_items": 15,
+  "grras_status_counts": {
+    "Pending": 3,
+    "Reported": 5,
+    "Partial": 7
+  }
+}
