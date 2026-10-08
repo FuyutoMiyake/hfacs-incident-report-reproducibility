@@ -14,13 +14,13 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 4002,
-      "sha256": "1f58849553f8dd0ab72cef0e39e9d8b9ef4e49e34583186e08e73d06f6c951b8"
+      "size_bytes": 4929,
+      "sha256": "0f1736c6787e7b8fd3a5d6e3a72b5bb8e2a6fa8003193723b586325982e76af7"
     },
     {
       "path": "README_ja.md",
-      "size_bytes": 1123,
-      "sha256": "8a9d872686c55487cb30d93ed0db78d5fd9548442747b9810d12653f6cd82642"
+      "size_bytes": 1575,
+      "sha256": "fb0f0e2365ed697300336ebe8d56f6b4838028f00d23166951fbafc664c1bae0"
     },
     {
       "path": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",
@@ -239,8 +239,8 @@
     },
     {
       "path": "docs/data_availability.md",
-      "size_bytes": 2993,
-      "sha256": "8e8b79a0f7f48e4eab60c75604e14986853089cb35d7992a178b744a4ad32f17"
+      "size_bytes": 3507,
+      "sha256": "6e73496c230c029aaf4eafbf46877d4dd906c83bbab92d102fea2ee7938fc3f2"
     },
     {
       "path": "docs/limitations.md",
@@ -256,6 +256,11 @@
       "path": "docs/prompt_development.md",
       "size_bytes": 1042,
       "sha256": "2f697ac155479403f29a2f9ecb3bf63fb3e1bf388f988ab7d26900a08abfa15d"
+    },
+    {
+      "path": "docs/publication_scope.md",
+      "size_bytes": 3481,
+      "sha256": "ac7f5ac51d9a5d8a318a3806ad9df08eb2e3a1b1ac2a43c5fd9cc00acf84d52c"
     },
     {
       "path": "docs/repository_examples.md",

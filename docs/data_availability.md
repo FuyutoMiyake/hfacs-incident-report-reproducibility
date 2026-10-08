@@ -1,5 +1,9 @@
 # Data Availability and Schemas
 
+**Current access:** private coauthor review. The included derived inputs are candidates
+for a future public release, not publicly accessible data at present. See the
+[publication-scope plan](publication_scope.md) for the approval boundary and exclusions.
+
 ## Included
 
 Only enumerated categorical/numeric fields are exported. Original case identifiers are
@@ -28,6 +32,10 @@ partial sensitivity admits saved partial-overlap matches. Both-empty cases retai
 undefined F1. Missing classification/resolution codes are not filled in.
 
 ## Withheld
+
+The following are excluded from this companion and its proposed first public release;
+they remain in the controlled research workspace. This is a scoped sharing decision,
+not a claim that JCQHC public source material is categorically prohibited from reuse.
 
 JCQHC narrative text and metadata exports; factor prose and quotations; full individual
 annotation exports; names/contact details; internal coauthor comments; session/activity

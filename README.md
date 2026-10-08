@@ -12,6 +12,7 @@ RS = reference standard. [Japanese overview](README_ja.md).
 - [Reproduction guide](docs/reproduction.md): executable commands and the exact scope of each command.
 - [Analysis map](docs/analysis_map.md): manuscript results, inputs and scripts.
 - [Data availability and schemas](docs/data_availability.md): included numeric units and withheld source material.
+- [Publication scope](docs/publication_scope.md): proposed public package, excluded material and release approval.
 - [Prompt development](docs/prompt_development.md) and [original v6b templates](docs/original_v6b_prompts.md).
 - [Limitations and unresolved provenance](docs/limitations.md).
 - [Source hashes](provenance/source_manifest.json): original versus companion files and transformations.
@@ -56,7 +57,15 @@ script indiscriminately: some require restricted source files not included here.
 
 ## Access, Citation and Licensing
 
-The repository is **private**. No collaborator invitations or public publication are implied.
+The repository is **private** for coauthor review; a write-access invitation has been sent
+to the collaborating reviewer. This is not a public release.
+
+| Destination | Material |
+| --- | --- |
+| Proposed public repository, after team and disclosure review | Analysis/figure code, environment and tests, Markdown methods and reproduction instructions, prompt templates/settings, pseudonymised numeric/category inputs, aggregate results and hashes |
+| Journal supplement | Essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist |
+| Not in the proposed public package | Clinical narratives/metadata exports, factor texts/quotations, complete individual annotations, original model responses and clinical few-shot examples, reviewer identities/contacts and ID mappings, internal comments/logs, credentials and original working-repository history |
+
 Public access, dataset redistribution, code licence, complete author list and an archival DOI
 require the research team's approval. No open-source licence has been assigned in this draft.
 Use the repository URL and an exact Git commit when citing this computational version;
