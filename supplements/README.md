@@ -1,3 +1,9 @@
+# Current Supplements
+
+Use the [7 November Methods and Results](../revisions/20261107/supplements/) for the
+current manuscript. The files described below are retained historical October snapshots,
+not the recalculated results. The draft GRRAS checklist remains available here.
+
 # Manuscript Supplements
 
 **Status:** draft snapshots for coauthor review, captured 8 October 2026. This

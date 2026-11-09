@@ -23,7 +23,7 @@ for rel in sorted(set(names) - {"", SELF}):
     for pattern in patterns:
         assert not re.search(pattern, text), ("potential credential", rel)
     files.append(dict(path=rel, size_bytes=len(data), sha256=hashlib.sha256(data).hexdigest()))
-manifest = dict(prepared="2026-10-08", private=True, files=files,
+manifest = dict(prepared="2026-11-09", private=True, files=files,
                 scope="Curated numeric/code package, not clinical raw data or original Git history",
                 review="Extension/credential-pattern scan; allowlisted exporter and manual scope review also required")
 (ROOT / SELF).write_text(json.dumps(manifest, indent=2) + "\n")

@@ -1,0 +1,207 @@
+"""Offline recomputation from pseudonymised numeric units; no AI/API calls."""
+
+import argparse
+import csv
+import importlib.util
+import json
+import math
+import platform
+import subprocess
+import sys
+from collections import Counter
+from pathlib import Path
+
+import revision_support as support
+from revision_support import rebuild as rebuild_from_directory
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "outputs/current"
+DATA = support.DATA
+CHECKS = []
+
+
+def read(path):
+    return json.loads(path.read_text())
+
+
+def load(name, filename):
+    spec = importlib.util.spec_from_file_location(name, ROOT / "analysis_npj/scripts" / filename)
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+def compare(actual, expected, label):
+    if isinstance(expected, dict):
+        for k, v in expected.items():
+            compare(actual[k], v, label + "." + k)
+    elif isinstance(expected, list):
+        assert len(actual) == len(expected), label
+        for i, (a, b) in enumerate(zip(actual, expected, strict=True)):
+            compare(a, b, label + f"[{i}]")
+    elif isinstance(expected, (float, int)) and not isinstance(expected, bool):
+        assert actual is not None and math.isclose(actual, expected, rel_tol=1e-12, abs_tol=1e-12), (label, actual, expected)
+        CHECKS.append(label)
+    else:
+        assert actual == expected, (label, actual, expected)
+
+
+def run_script(name):
+    subprocess.run([sys.executable, str(ROOT / "analysis_npj/scripts" / name)], check=True, cwd=ROOT)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--include-rsv1-human", action="store_true", help="Recompute all initial reliability analyses (slower)")
+    parser.add_argument("--skip-fta", action="store_true", help="For debugging only; omits FTA verification")
+    args = parser.parse_args()
+    OUT.mkdir(parents=True, exist_ok=True)
+    report = {"python": platform.python_version(), "new_model_calls": False,
+              "scope": "Statistics conditional on preserved categorical ratings and saved semantic correspondences"}
+
+    if args.include_rsv1_human:
+        reliability = load("rsv1_reliability", "02_reliability_analysis.py")
+        reliability.BOOTSTRAP_REPS = 10000
+        reliability.OUT_DIR = OUT / "rsv1_reliability"
+        reliability.main()
+        expected = list(csv.DictReader((support.EXPECTED / "rsv1_reliability.csv").open(encoding="utf-8-sig")))
+        actual = list(csv.DictReader((reliability.OUT_DIR / "reliability_metrics.csv").open(encoding="utf-8-sig")))
+        keys = ["analysis_set", "pair", "domain", "label_version", "node_scope", "granularity", "metric"]
+        index = {tuple(r[k] for k in keys): r for r in actual}
+        assert len(actual) == len(expected) == len(index)
+        for r in expected:
+            label = ":".join(r[k] for k in keys)
+            a = index[tuple(r[k] for k in keys)]
+            for k in ["n_cases", "n_units", "estimate", "ci_low", "ci_high"]:
+                if r[k] in ["", "nan"]:
+                    assert a[k] in ["", "nan"], (label, k)
+                else:
+                    compare(float(a[k]), float(r[k]), "RSv1.human." + label + "." + k)
+        report["rsv1_human_rows"] = len(actual)
+
+    support.human_and_ai(report, compare)
+    rs = support.load(support.BUNDLE / "code/rsv2_statistics.py", "rs2_current")
+    rs.NBOOT = 10000
+    expected = read(support.EXPECTED / "rsv2.json")
+    factors, units, input_report = rebuild_from_directory(ROOT)
+    report["rsv2_input_reconstruction"] = input_report
+    (OUT / "rsv2_rebuilt_factor_case_metrics.json").write_text(json.dumps(factors, indent=2) + "\n")
+    (OUT / "rsv2_rebuilt_matched_classification_units.json").write_text(json.dumps(units, indent=2) + "\n")
+    extraction = {}
+    for mode in ["all", "hfacs_only", "hfacs_or_indeterminate"]:
+        for matching in ["strict", "same_proposition", "partial_sensitivity"]:
+            items = [r for r in factors if r["eligibility"] == mode and r["matching"] == matching]
+            key = mode + ":" + matching
+            extraction[key] = {p: rs.factor_summary([r for r in items if p == "overall" or r["pair_id"] == p])
+                               for p in ["overall", "AB", "CD", "EF"]}
+    compare(extraction, expected["extraction"], "RSv2.extraction")
+    report["rsv2_extraction"] = extraction
+
+    records = read(DATA / "rsv2_analyzability_case_metrics.json")
+    agreement = {}
+    for pair in ["AB", "CD", "EF"]:
+        rows = [r for r in records if r["pair_id"] == pair]
+        agreement[pair] = {}
+        for stage in ["before", "after"]:
+            def metric(items):
+                return rs.agree([r[stage][0] for r in items], [r[stage][1] for r in items], rs.LEVELS, True)
+            value = metric(rows)
+            value["kappa_ci95"] = rs.bootstrap(rows, lambda items: metric(items)["kappa"])
+            agreement[pair][stage] = value
+    compare(agreement, expected["analyzability_agreement"], "RSv2.analysability")
+    transition = Counter((b, a) for r in records for b, a in zip(r["before"], r["after"], strict=True))
+    matrix = [[transition[(b, a)] for a in rs.LEVELS] for b in rs.LEVELS]
+    compare(matrix, expected["transitions"], "RSv2.transitions")
+    report["rsv2_analyzability"] = agreement
+    report["transitions"] = matrix
+
+    paired = {}
+    for p in ["overall", "AB", "CD", "EF"]:
+        before = {(r["source_id"], r["left_id"], r["right_id"]): r for r in units["before"] if p == "overall" or r["pair_id"] == p}
+        joint = [(before[(r["source_id"], r["left_id"], r["right_id"])], r) for r in units["after"] if p == "overall" or r["pair_id"] == p]
+        common = [(a, b) for a, b in joint if all(x[k] for x in [a, b] for k in ["layer_left", "layer_right"])]
+        singles = [(a, b) for a, b in common if all(len(x[k]) == 1 for x in [a, b] for k in ["layer_left", "layer_right"])]
+        def rate(stage, overlap):
+            return sum(bool(set(x[stage]["layer_left"]) & set(x[stage]["layer_right"])) if overlap else x[stage]["layer_equal"] for x in common) / len(common) if common else None
+        paired[p] = dict(n_matched=len(joint), n_both_stage_classified=len(common),
+            exact_before_fixed_denominator=rate(0, False), exact_after_fixed_denominator=rate(1, False),
+            overlap_before_fixed_denominator=rate(0, True), overlap_after_fixed_denominator=rate(1, True),
+            n_singleton_in_both_stages=len(singles),
+            singleton_before_same_units=rs.agree([a["layer_left"][0] for a, b in singles], [a["layer_right"][0] for a, b in singles], ["L1", "L2", "L3", "L4"]),
+            singleton_after_same_units=rs.agree([b["layer_left"][0] for a, b in singles], [b["layer_right"][0] for a, b in singles], ["L1", "L2", "L3", "L4"]))
+    compare(paired, expected["classification_paired_same_units"], "RSv2.layers")
+    report["rsv2_layers"] = paired
+
+    refs = read(DATA / "rsv2_consensus_codes.json")
+    consensus = {}
+    for p in ["overall", "AB", "CD", "EF"]:
+        rows = [r for r in refs if p == "overall" or r["pair_id"] == p]
+        fs = [f for r in rows for f in r["factors"]]
+        consensus[p] = dict(cases=len(rows), factors=len(fs),
+            analyzability=dict(Counter(r["analyzability"] for r in rows)),
+            case_resolution_stored=dict(Counter(r["case_resolution_status"] or "missing" for r in rows)),
+            factor_resolution_stored=dict(Counter(f["resolution_status"] or "missing" for f in fs)),
+            multilabel_factors=sum(len(rs.codes(f)) > 1 for f in fs),
+            multilayer_factors=sum(len(rs.layers(f)) > 1 for f in fs), unclassified_factors=sum(not rs.codes(f) for f in fs))
+    compare(consensus, expected["consensus"], "RSv2.consensus")
+    report["rsv2_consensus"] = consensus
+
+    ai = read(DATA / "rsv2_ai_classification_units.json")
+    single = [r for r in ai if r["singleton_hfacs_reference"]]
+    clusters = [{"source_id": r["source_id"], "pair_id": r["pair_id"],
+                 "units": [u for u in single if u["source_id"] == r["source_id"]]} for r in records]
+    ai_result = {}
+    for name, layer in [("singleton_hfacs_detailed", False), ("singleton_hfacs_layer", True)]:
+        def metric(items):
+            labels = ["L1", "L2", "L3", "L4", "nonHFACS"] if layer else sorted(rs.HFACS | {"CoP", "OTHER", "INAPPROPRIATE"})
+            ref = [u["human_layers" if layer else "human_codes"][0] for u in items]
+            pred = [(u["ai_layer"] or "nonHFACS") if layer else u["ai_code"] for u in items]
+            return rs.agree(ref, pred, labels)
+        value = metric(single)
+        value["case_bootstrap_ci95"] = rs.bootstrap(clusters, lambda items: metric([u for r in items for u in r["units"]])["kappa"])
+        compare(value, expected["ai_conditional_exploratory"][name], "RSv2.AI." + name)
+        ai_result[name] = value
+    for key, rows in [("label_any_hit", [r for r in ai if r["human_codes"]]),
+                      ("hfacs_label_any_hit", [r for r in ai if r["human_layers"]])]:
+        value = sum(r["hit_any_human_code"] for r in rows) / len(rows)
+        compare(value, expected["ai_conditional_exploratory"][key], "RSv2.AI." + key)
+        ai_result[key] = value
+    report["rsv2_AI"] = ai_result
+
+    primary = [r for r in factors if r["eligibility"] == "hfacs_or_indeterminate" and r["matching"] == "same_proposition"]
+    for flag in [True, False]:
+        compare(rs.factor_summary([r for r in primary if r["actor_unclear_either"] == flag]),
+                expected["actor_unclear_association_exploratory"][str(flag)], "RSv2.actor_group." + str(flag))
+    finite = [r for r in primary if r["f1"] is not None]
+    rho = rs.spearmanr([r["f1"] for r in finite], [r["time_mean_minutes"] for r in finite])
+    compare(dict(n=len(finite), rho=float(rho.statistic), p=float(rho.pvalue)),
+            expected["factor_f1_time_spearman_exploratory"], "RSv2.time_correlation")
+    times = read(DATA / "rsv2_recorded_times.json")
+    for stage, key in [("before", "original_time_minutes"), ("after", "phase2_active_time_minutes")]:
+        compare(rs.dist([r["minutes"] for r in times if r["stage"] == stage]), expected[key], "RSv2." + key)
+    trace = read(DATA / "rsv2_evidence_traceability.json")
+    for kind in ["independent", "consensus"]:
+        rows = [r for r in trace if r["type"] == kind]
+        compare(dict(factors=len(rows), all_quotes_traceable=sum(r["all_quotes_traceable"] for r in rows),
+                     improvement_only=sum(r["only_improvement_evidence"] for r in rows)),
+                expected["evidence_traceability"][kind], "RSv2.quotation_flags." + kind)
+    graph = read(OUT / "rebuilt_graph_cases.json")
+    for p in ["overall", "AB", "CD", "EF"]:
+        rows = [r for r in graph if p == "overall" or r["pair_id"] == p]
+        value = {k: sum(r[k] for r in rows) for k in ["left_edges", "right_edges", "shared_directed", "shared_adjacency"]}
+        value |= dict(cases=len(rows), directed_micro_f1=rs.f1(value["left_edges"], value["right_edges"], value["shared_directed"]))
+        compare(value, expected["graph_exploratory"][p], "RSv2.relations." + p)
+
+    support.additional(report, units, records, rs, compare)
+    if not args.skip_fta:
+        support.fta(compare)
+    report["fta_verified"] = not args.skip_fta
+    report["supplementary_tables"] = "Current text snapshots in revisions/20261107/supplements; numerical sources verified here"
+    report["numeric_checks_passed"] = len(CHECKS)
+    report["checks"] = CHECKS
+    (OUT / "recomputation.json").write_text(json.dumps(report, indent=2, allow_nan=False) + "\n")
+    print(json.dumps({k: report[k] for k in ["python", "new_model_calls", "numeric_checks_passed", "supplementary_tables"]}))
+
+
+if __name__ == "__main__":
+    main()

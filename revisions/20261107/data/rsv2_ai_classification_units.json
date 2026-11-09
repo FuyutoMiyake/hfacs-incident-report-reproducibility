@@ -1,0 +1,1847 @@
+[
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "PC_PE",
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L2",
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "factor_id": "rf03",
+    "human_codes": [
+      "PC_PE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "factor_id": "rf04",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "PC_PE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "factor_id": "rf03",
+    "human_codes": [
+      "PC_PE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "factor_id": "rf04",
+    "human_codes": [
+      "OI_RM"
+    ],
+    "human_layers": [
+      "L4"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_PE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_PE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_PE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "PC_TE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_TE",
+    "ai_layer": "L2",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "OI_OP",
+    "ai_layer": "L4",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "factor_id": "rf04",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "PC_CC",
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L2",
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "PC_TE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_TE",
+    "ai_layer": "L2",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "OI_OP"
+    ],
+    "human_layers": [
+      "L4"
+    ],
+    "ai_code": "SI_IS",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IS"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "factor_id": "rf04",
+    "human_codes": [],
+    "human_layers": [],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "factor_id": "rf05",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_PE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "factor_id": "rf04",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "PC_TE",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "factor_id": "rf05",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "OI_OP"
+    ],
+    "human_layers": [
+      "L4"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO",
+      "UA_EV"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_EV"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_EV"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "factor_id": "rf04",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf04",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf05",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf06",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf07",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf08",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "factor_id": "rf09",
+    "human_codes": [
+      "PC_CC"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "PC_CC",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "OI_OC",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L4"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "OI_OC"
+    ],
+    "human_layers": [
+      "L4"
+    ],
+    "ai_code": "PC_TE",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "PC_PE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_TE",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "PC_PE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_PE",
+    "ai_layer": "L2",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "PC_PE"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_PE",
+    "ai_layer": "L2",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "missing",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "factor_id": "rf01",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_PE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "missing",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [],
+    "human_layers": [],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "unresolved",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [],
+    "human_layers": [],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "unresolved",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IS",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [],
+    "human_layers": [],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [
+      "UA_DE",
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1",
+      "L3"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "OI_RM"
+    ],
+    "human_layers": [
+      "L4"
+    ],
+    "ai_code": "OI_RM",
+    "ai_layer": "L4",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [
+      "SI_IO"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "factor_id": "rf05",
+    "human_codes": [
+      "PC_CC"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_CC",
+    "ai_layer": "L2",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "OI_OP"
+    ],
+    "human_layers": [
+      "L4"
+    ],
+    "ai_code": "UA_PE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_EV",
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_PE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_DE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_DE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "PC_CC",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "factor_id": "rf05",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_PE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "PC_PL"
+    ],
+    "human_layers": [
+      "L2"
+    ],
+    "ai_code": "PC_PL",
+    "ai_layer": "L2",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_PE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "SI_IS"
+    ],
+    "human_layers": [
+      "L3"
+    ],
+    "ai_code": "PC_PE",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [
+      "UA_DE",
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "UA_PE",
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "UA_SE",
+    "ai_layer": "L1",
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "source_confirmed"
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "OTHER",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "PC_CC",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "INAPPROPRIATE",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "factor_id": "rf01",
+    "human_codes": [
+      "CoP"
+    ],
+    "human_layers": [],
+    "ai_code": "CoP",
+    "ai_layer": null,
+    "hit_any_human_code": true,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "factor_id": "rf02",
+    "human_codes": [],
+    "human_layers": [],
+    "ai_code": "OTHER",
+    "ai_layer": null,
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "not_hfacs_target"
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "factor_id": "rf03",
+    "human_codes": [
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "SI_IO",
+    "ai_layer": "L3",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": true,
+    "stored_resolution": "rule_adjudicated",
+    "llm_resolution": "unresolved"
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "factor_id": "rf04",
+    "human_codes": [
+      "UA_PE",
+      "UA_SE"
+    ],
+    "human_layers": [
+      "L1"
+    ],
+    "ai_code": "PC_AM",
+    "ai_layer": "L2",
+    "hit_any_human_code": false,
+    "singleton_hfacs_reference": false,
+    "stored_resolution": "source_confirmed",
+    "llm_resolution": "unresolved"
+  }
+]

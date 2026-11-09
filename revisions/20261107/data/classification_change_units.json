@@ -1,0 +1,3908 @@
+[
+  {
+    "source_id": "RS2_033",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO",
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_033",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_033",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_033",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_004",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "OI_RM"
+    ],
+    "after": [
+      "OI_RM"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "PC_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f05",
+    "before": [
+      "OTHER"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f06",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "PC_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_018",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f07",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_053",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_053",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_053",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_053",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_015",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "PC_PL",
+      "SI_IO"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "OTHER"
+    ],
+    "after": [],
+    "changed": true,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": true
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_041",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "PC_PL",
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_032",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_032",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_032",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_027",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_027",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_027",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_027",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_DE",
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_023",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_023",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_023",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_023",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_023",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_023",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "PC_PL",
+      "SI_IO"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "OTHER"
+    ],
+    "after": [],
+    "changed": true,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": true
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f05",
+    "before": [
+      "OTHER"
+    ],
+    "after": [
+      "OTHER"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f06",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_013",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f07",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_006",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_006",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "PC_TE"
+    ],
+    "after": [
+      "PC_TE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_006",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_006",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_006",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "PC_TE",
+      "UA_PE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_006",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "PC_CC",
+      "UA_DE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "OTHER"
+    ],
+    "after": [],
+    "changed": true,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": true
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE",
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "OTHER"
+    ],
+    "after": [],
+    "changed": true,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": true
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f05",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f06",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_049",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f07",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_043",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_043",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": true
+  },
+  {
+    "source_id": "RS2_043",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "PC_TE"
+    ],
+    "after": [
+      "PC_CC",
+      "PC_TE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_060",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_060",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_060",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "OI_OP"
+    ],
+    "after": [
+      "OI_OP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_060",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "SI_IS"
+    ],
+    "after": [
+      "SI_IS"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_060",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f05",
+    "before": [
+      "OTHER"
+    ],
+    "after": [],
+    "changed": true,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": true
+  },
+  {
+    "source_id": "RS2_060",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f06",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_A",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f04",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f05",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_036",
+    "annotator_id": "annotator_B",
+    "pair_id": "AB",
+    "factor_id": "f06",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_009",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_009",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_009",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_009",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_009",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_009",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_046",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_046",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_046",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO",
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_040",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_040",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_040",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_012",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_012",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_012",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO",
+      "UA_SE"
+    ],
+    "changed": true,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_012",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_014",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_014",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_056",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_056",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "OI_OP"
+    ],
+    "after": [
+      "OI_OP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_056",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_056",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_056",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_035",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f05",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f05",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_055",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f06",
+    "before": [
+      "PC_CC"
+    ],
+    "after": [
+      "PC_CC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f05",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f06",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f07",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_054",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f08",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_005",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_005",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_005",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_005",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "OI_OC"
+    ],
+    "after": [
+      "OI_OC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_005",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_005",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_026",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "PC_CC"
+    ],
+    "after": [
+      "PC_CC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_026",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_026",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_026",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "OI_OC"
+    ],
+    "after": [
+      "OI_OC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_058",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_058",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "OI_RM"
+    ],
+    "after": [
+      "OI_RM"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_058",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "PC_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_058",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_058",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "PC_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_058",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_008",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "PC_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_008",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_008",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f04",
+    "before": [
+      "PC_PE"
+    ],
+    "after": [
+      "PC_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_008",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "OI_RM"
+    ],
+    "after": [
+      "OI_RM"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_008",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "OI_OC"
+    ],
+    "after": [
+      "OI_OC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_039",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_039",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_039",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_003",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_003",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_003",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_003",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_047",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_047",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_007",
+    "annotator_id": "annotator_C",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_007",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_007",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_007",
+    "annotator_id": "annotator_D",
+    "pair_id": "CD",
+    "factor_id": "f03",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_037",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_029",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_059",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_059",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_042",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_042",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_042",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_042",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_042",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "OTHER"
+    ],
+    "after": [
+      "OTHER"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_042",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "PC_CC"
+    ],
+    "after": [
+      "PC_CC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "OI_RM"
+    ],
+    "after": [
+      "OI_RM"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_034",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f05",
+    "before": [
+      "PC_CC"
+    ],
+    "after": [
+      "PC_CC"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_016",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_016",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_016",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "OTHER"
+    ],
+    "after": [
+      "OTHER"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_016",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_057",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_011",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_011",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_011",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f05",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_EV"
+    ],
+    "after": [
+      "UA_EV"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f05",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f06",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f07",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_001",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f08",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_028",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "PC_PL"
+    ],
+    "after": [
+      "PC_PL"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_028",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_028",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "OTHER"
+    ],
+    "after": [
+      "OTHER"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_024",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_024",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_024",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_024",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "UA_DE"
+    ],
+    "after": [
+      "UA_DE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_052",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_052",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_052",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "SI_IS"
+    ],
+    "after": [
+      "SI_IS"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_052",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_052",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f04",
+    "before": [
+      "INDETERMINATE"
+    ],
+    "after": [
+      "INDETERMINATE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_020",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_020",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_020",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_020",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_031",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_031",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_031",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_010",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "SI_IO"
+    ],
+    "after": [
+      "SI_IO"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_010",
+    "annotator_id": "annotator_E",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_010",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f01",
+    "before": [
+      "CoP"
+    ],
+    "after": [
+      "CoP"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": false,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_010",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f02",
+    "before": [
+      "UA_PE"
+    ],
+    "after": [
+      "UA_PE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  },
+  {
+    "source_id": "RS2_010",
+    "annotator_id": "annotator_F",
+    "pair_id": "EF",
+    "factor_id": "f03",
+    "before": [
+      "UA_SE"
+    ],
+    "after": [
+      "UA_SE"
+    ],
+    "changed": false,
+    "baseline_primary_eligible": true,
+    "empty_before": false,
+    "empty_after": false
+  }
+]

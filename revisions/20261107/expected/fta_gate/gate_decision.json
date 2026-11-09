@@ -1,0 +1,9 @@
+{
+  "conditions": {
+    "recall_difference_ci_lower_gt_zero": false,
+    "fta_top5_min_selection_rate_ge_0_70": true,
+    "fta_top5_differs_from_frequency": false,
+    "no_improvement_leak_flags": true
+  },
+  "overall_pass": false
+}

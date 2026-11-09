@@ -1,0 +1,4192 @@
+[
+  {
+    "source_id": "RS1_001",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_AM",
+      "PC_CC",
+      "SI_FK",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_002",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IS",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_003",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_004",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_005",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AM",
+      "PC_CC",
+      "PC_PL",
+      "SI_IO",
+      "SI_IS",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_006",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_AP",
+      "PC_CC",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_007",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_008",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "PC_PL",
+      "SI_FK",
+      "SI_IO",
+      "SI_IS",
+      "UA_DE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_009",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PL",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_010",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_011",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "SI_IS",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_012",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_CC",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_013",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_014",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "SI_IO",
+      "SI_IS",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_015",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_016",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_CC",
+      "PC_PL",
+      "SI_IO",
+      "SI_IS",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_017",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_018",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_019",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_CC"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_020",
+    "status": "success",
+    "factor_set": [
+      "PC_PE",
+      "PC_TE",
+      "SI_IO",
+      "SI_IS",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_021",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_CC",
+      "PC_PE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_022",
+    "status": "success",
+    "factor_set": [],
+    "factors": []
+  },
+  {
+    "source_id": "RS1_023",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": false
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_024",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_025",
+    "status": "success",
+    "factor_set": [
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_026",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_027",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "SI_IO",
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_028",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "SI_FK",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_029",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "PC_TE",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_030",
+    "status": "success",
+    "factor_set": [
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_031",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_032",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_033",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_034",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IS",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_035",
+    "status": "success",
+    "factor_set": [
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_036",
+    "status": "success",
+    "factor_set": [
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_037",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_038",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_039",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_CC",
+      "PC_PE",
+      "SI_FK",
+      "SI_IO",
+      "UA_EV"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_EV",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_040",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_041",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_042",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_043",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_AM",
+      "PC_TE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_044",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PL",
+      "SI_IS",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_045",
+    "status": "success",
+    "factor_set": [
+      "SI_IO",
+      "UA_DE",
+      "UA_RV"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_046",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PL",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_047",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "SI_FK",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_048",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_CC",
+      "SI_IS",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_049",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_050",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "UA_PE",
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_051",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_PL"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_052",
+    "status": "success",
+    "factor_set": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_053",
+    "status": "success",
+    "factor_set": [
+      "OI_OC",
+      "OI_OP",
+      "PC_CC",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_054",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_AP",
+      "PC_CC",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_055",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": false
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_056",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_057",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_058",
+    "status": "success",
+    "factor_set": [
+      "OI_OC",
+      "OI_RM",
+      "PC_CC",
+      "PC_PL",
+      "PC_TE",
+      "SI_IO",
+      "SI_IS",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_059",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IS",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_060",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_CC",
+      "PC_PL",
+      "SI_IO",
+      "SI_IS",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_061",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_062",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_063",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PL",
+      "SI_IS",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_064",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_065",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "SI_FK",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_066",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_RV"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_067",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PE",
+      "PC_PL",
+      "PC_TE",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_068",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_069",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "SI_FK",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_070",
+    "status": "success",
+    "factor_set": [],
+    "factors": []
+  },
+  {
+    "source_id": "RS1_071",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_TE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_072",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_073",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "PC_TE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_074",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_075",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_076",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "OI_RM",
+      "PC_CC",
+      "PC_PL",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_DE",
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_077",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_078",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "SI_IO"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_079",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "SI_IS",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_080",
+    "status": "success",
+    "factor_set": [],
+    "factors": []
+  },
+  {
+    "source_id": "RS1_081",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IS",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_082",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_083",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_084",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "PC_PL",
+      "SI_IO",
+      "SI_IS",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_085",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_086",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_087",
+    "status": "success",
+    "factor_set": [
+      "SI_IS",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_088",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_089",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_090",
+    "status": "success",
+    "factor_set": [
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_091",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_092",
+    "status": "success",
+    "factor_set": [
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_093",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_FK",
+      "UA_DE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_094",
+    "status": "success",
+    "factor_set": [
+      "PC_PE",
+      "PC_TE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_095",
+    "status": "success",
+    "factor_set": [
+      "SI_FK",
+      "SI_IO"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_096",
+    "status": "success",
+    "factor_set": [
+      "PC_PE",
+      "PC_TE",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_097",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "SI_IS",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_098",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AM",
+      "PC_PE",
+      "PC_TE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_099",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_100",
+    "status": "success",
+    "factor_set": [
+      "SI_IO"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_101",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AM",
+      "PC_AP",
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_RV"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_102",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_103",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_104",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_105",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_106",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_107",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_108",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_CC",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_109",
+    "status": "success",
+    "factor_set": [],
+    "factors": []
+  },
+  {
+    "source_id": "RS1_110",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_111",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "SI_IO"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_112",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_CC",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_113",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "SI_IS",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_114",
+    "status": "success",
+    "factor_set": [],
+    "factors": []
+  },
+  {
+    "source_id": "RS1_115",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_116",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AM",
+      "PC_CC",
+      "PC_PL",
+      "SI_IO",
+      "UA_PE",
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_117",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_CC",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_118",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AP",
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_119",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PL",
+      "SI_IS",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_120",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_PL",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_121",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_122",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_123",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AM",
+      "PC_CC",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_124",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_CC",
+      "PC_TE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_125",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_CC",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_126",
+    "status": "success",
+    "factor_set": [
+      "SI_FK",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_127",
+    "status": "success",
+    "factor_set": [
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_128",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_DE",
+      "UA_RV"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_129",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_130",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_131",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_RV",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_132",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_133",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "SI_IO",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_134",
+    "status": "success",
+    "factor_set": [
+      "PC_TE",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_135",
+    "status": "success",
+    "factor_set": [
+      "PC_AM",
+      "PC_AP",
+      "PC_PL",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_136",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IS",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IS",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_137",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_138",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "PC_TE",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_139",
+    "status": "success",
+    "factor_set": [
+      "OI_OP",
+      "PC_CC",
+      "PC_PL",
+      "SI_FK",
+      "SI_IO",
+      "UA_DE",
+      "UA_PE",
+      "UA_RV"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_OP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_RV",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_140",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PE",
+      "PC_TE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_141",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_142",
+    "status": "success",
+    "factor_set": [
+      "PC_AP",
+      "PC_TE",
+      "UA_DE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_143",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_144",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "PC_PL",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_145",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_146",
+    "status": "success",
+    "factor_set": [
+      "PC_PL",
+      "PC_TE",
+      "SI_IO",
+      "UA_DE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_147",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_148",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "SI_IO",
+      "UA_PE",
+      "UA_SE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_SE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_149",
+    "status": "success",
+    "factor_set": [
+      "OI_RM",
+      "PC_AP",
+      "PC_CC",
+      "PC_PL",
+      "PC_TE",
+      "SI_FK",
+      "SI_IO",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "OI_RM",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_AP",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_PL",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "PC_TE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_FK",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "SI_IO",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  },
+  {
+    "source_id": "RS1_150",
+    "status": "success",
+    "factor_set": [
+      "PC_CC",
+      "UA_DE",
+      "UA_PE"
+    ],
+    "factors": [
+      {
+        "hfacs": "PC_CC",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_DE",
+        "normalized_grounded": true
+      },
+      {
+        "hfacs": "UA_PE",
+        "normalized_grounded": true
+      }
+    ]
+  }
+]

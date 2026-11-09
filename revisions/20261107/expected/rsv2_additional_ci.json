@@ -1,0 +1,60 @@
+{
+  "matched_detailed": {
+    "estimate": 0.4458149779735683,
+    "ci95": [
+      0.24203301278048375,
+      0.631861203408231
+    ],
+    "valid_replicates": 10000,
+    "units": 37,
+    "records_with_units": 23,
+    "cluster_records": 60,
+    "seed": 20261107
+  },
+  "matched_layer": {
+    "estimate": 0.6392914653784219,
+    "ci95": [
+      0.4020521502825346,
+      0.855917272084074
+    ],
+    "valid_replicates": 10000,
+    "units": 32,
+    "records_with_units": 20,
+    "cluster_records": 60,
+    "seed": 20261107
+  },
+  "fixed26_before": {
+    "estimate": 0.6675191815856777,
+    "ci95": [
+      0.378370138431114,
+      0.8915081576745567
+    ],
+    "valid_replicates": 10000,
+    "units": 26,
+    "records_with_units": 16,
+    "cluster_records": 60,
+    "seed": 20261107
+  },
+  "fixed26_after": {
+    "estimate": 0.6675191815856777,
+    "ci95": [
+      0.378370138431114,
+      0.8915081576745567
+    ],
+    "valid_replicates": 10000,
+    "units": 26,
+    "records_with_units": 16,
+    "cluster_records": 60,
+    "seed": 20261107
+  },
+  "directed_relation_f1": {
+    "estimate": 0.2911392405063291,
+    "ci95": {
+      "low": 0.1875,
+      "high": 0.38578680203045684,
+      "valid": 10000
+    },
+    "cluster_records": 60,
+    "seed": 20261107
+  }
+}

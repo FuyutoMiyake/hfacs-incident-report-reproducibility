@@ -221,4 +221,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    if "--historical" in sys.argv:
+        sys.argv.remove("--historical")
+        main()
+    else:
+        from reproduce_current import main as current_main
+        current_main()

@@ -1,73 +1,83 @@
 # Reproduction Guide
 
-## Offline Statistics
+## Current Manuscript Revision
 
-Create a fresh environment and install `requirements.txt`, then run:
+The default runner uses `revisions/20261107/`, not the historical October aggregates.
+Use Python 3.14 with `requirements.txt` (author verification: Python 3.14.6, NumPy 2.4.4,
+pandas 3.0.1, SciPy 1.17.1).
 
 ```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python scripts/verify_integrity.py
 .venv/bin/python scripts/reproduce.py --include-rsv1-human
 ```
 
-Without `--include-rsv1-human`, the slower initial RSv1 human reliability analyses are
-skipped; all other implemented unit-level statistics and table checks still run.
-The runner imports the original statistical functions rather than introducing a new
-kappa or bootstrap implementation. It compares numerical outputs at absolute/relative
-tolerance 1e-12 with preserved outputs. All table cell text must match exactly.
+No API calls or model inference are performed. Calculations compare against frozen expected
+values at absolute/relative tolerance 1e-12. Default outputs go to `outputs/current/`.
+Without `--include-rsv1-human`, the full initial pair-specific RSv1 reliability CSV is
+skipped; pooled RSv1 human agreement and all other current analyses still run.
+`--skip-fta` is a debugging option and is not a complete reproduction run.
 
-- RSv1 initial reliability: 2,000 record-cluster bootstrap replicates; original script's
-  deterministic condition-specific seeds, derived from seed 1500714.
-- RSv1 final classification: 5,000 replicates, seed 20260722. Original source-ID ordering
-  is preserved by ranked pseudonyms so cluster draws remain comparable.
-- RSv2: 3,000 record-cluster bootstrap replicates, seed 20261001, stratified by pair.
-  Empty case clusters are retained for conditional AI confidence intervals.
+## Calculation Scope
 
-The runner now rebuilds all 540 RSv2 count rows and both stages of 37 classification pairs
-from all 244 baseline factor IDs and their after codes, plus the 55 saved alignment decisions.
-It verifies full content against preserved snapshots before computing aggregate statistics.
-Actor-difficulty flags and mean times are reused from the preserved case summaries.
-See [input schemas and offsets](rsv2_factor_inputs.md).
+- RSv1 pooled human agreement: 81 records/731 leaves; pair-stratified record bootstrap,
+  10,000 draws, seeds 20261014-20261016 for detailed/layer/binary categories.
+- RSv1 pair-specific human estimates: original record-cluster procedures, 10,000 draws,
+  condition-specific seeds derived from 1500714; optional slower full CSV verification.
+- RSv1 final AI classification: 37 records/306 leaves per model; pair-stratified record
+  bootstrap, 10,000 draws, seed 20260722. Ordered pseudonyms preserve cluster order.
+- FTA ranking and direct classification: original statistical procedures with pair-stratified
+  record bootstrap, 10,000 draws; ranking seed 1500716 and original comparison-specific
+  seeds derived from 1500718. Code-only trees and category sets are included.
+- RSv2 independent extraction: 120 pre-consensus-viewing responses/248 factors; 55 saved
+  correspondence decisions reconstruct 540 count rows and 37 matched classification pairs.
+  Extraction/AI/reassessment pair-specific CIs use 10,000 draws and seed 20261001.
+- Reassessment: the actually presented 244-factor baseline remains separate. Pooled linear
+  weighted kappa uses pair-stratified record bootstrap with seeds 20261024/20261025.
+  Within-reviewer classification changes use these same 244 existing factors.
+- Additional matched-factor and fixed-26 layer kappa intervals and relation F1 interval:
+  10,000 draws, seed 20261107, retaining all 60 record clusters, including empty clusters.
 
-Outputs: `outputs/recomputation.json`, rebuilt RSv2 inputs under `outputs/`, and regenerated
-tables under `analysis_npj/manuscript/supplementary_results_20261005/`. Inputs are not
-overwritten. Initial RSv1 human reliability output is redirected to `outputs/rsv1_reliability/`
-and compared with the immutable expected CSV; the tracked reliability snapshot is unchanged.
+The independent-version selection restores four CoP-only factors excluded from primary
+extraction. Primary micro-F1 is unchanged, but the all-factor denominator changes from 244
+to 248 (0.320 to 0.315). Relation counts and elapsed-time summaries also use the pre-viewing
+independent responses.
 
-## Figures
+Current Supplementary Methods and Results are text/table snapshots in
+`revisions/20261107/supplements/`. The runner verifies their underlying statistical
+outputs, not Word formatting. Numerical outputs are recomputed; expected files are
+comparison targets, never substitutes for calculation.
 
-Install `requirements-figures.txt` and Poppler (`pdftoppm` must be on PATH), then run:
+## Interpretation and Access Limits
 
-```sh
-.venv/bin/python scripts/reproduce.py --figures
-```
+Passing checks establish numerical reproduction conditional on saved human decisions,
+model category predictions and correspondence decisions. They do not independently
+validate those decisions or reproduce human annotation/model generation. Quotation
+fingerprints and grounding flags are preserved checks: without obtaining the original
+sources, a reader cannot independently verify narrative evidence. Clinical narrative,
+factor prose, quotations, reviewer identities and internal review logs are not distributed.
 
-Four SVG/PDF/PNG figures and a combined PDF are generated. Fonts use macOS Arial when
-available, with a bundled ReportLab Vera fallback elsewhere. This is a rendering fallback,
-not a change in statistical definitions. Figure manifests check populations, 120 responses,
-transition margins, input integrity, PDF pages and font embedding.
+The repository remains private. Coauthors with access can reproduce the statistics;
+public release, redistribution permissions and licensing still require team approval.
 
-## What a Passing Check Does Not Establish
+## Historical October Version
 
-This checks computation **conditional on saved ratings, matching decisions, classifications
-and traceability flags**. It does not regenerate human annotations, establish the correctness
-of semantic matching or assess full evidentiary support. No model is invoked.
-The decision-file creation was traced to a `gpt-6.1-sol` Codex session; the standalone
-matching prompt and earlier AB/CD candidate-table creation remain unresolved. See
-[semantic matching provenance](semantic_matching_provenance.md). Source acquisition
-and restricted material are documented in [data availability](data_availability.md).
-
-Full FTA added-value recalculation, prompt selection and model inference need additional
-controlled inputs. Historical scripts `06`, `09`, `79`, `83` and `110` are preserved for
-inspection, but their standalone main routines may require source files not distributed
-here. The supported entrypoint is `scripts/reproduce.py`. Future model reruns may differ
-from preserved predictions and must not replace this computational snapshot silently.
-
-## Integrity
+`data/`, `analysis_npj/` and `supplements/` retain historical snapshots. To reproduce
+the earlier computational version explicitly:
 
 ```sh
-.venv/bin/python scripts/verify_integrity.py
+.venv/bin/python scripts/reproduce.py --historical --include-rsv1-human
 ```
 
-`provenance/source_manifest.json` documents the original source hashes and all package
-transformations. `provenance/file_manifest.json` records the packaged snapshot. Rerunning
-historical scripts may change output formatting or headers; run integrity checking on a
-fresh checkout before regeneration. Generated output folders are ignored by Git.
+That historical command uses the old 244-factor independent dataset and old bootstrap
+counts (2,000/5,000/3,000); it must not be reported as reproduction of the current manuscript.
+The old `--historical --figures` option similarly renders historical figures, not current ones.
+Do not execute historical main routines indiscriminately: some require restricted inputs.
+
+## Integrity and Provenance
+
+`provenance/file_manifest.json` covers the packaged files. The revision's `provenance.json`
+records hashes of approved local sources and the allowlisted transformations.
+Original study files are not overwritten. Generated outputs are ignored by Git.
+Frozen comparison values and the verification receipt identify the current computations.

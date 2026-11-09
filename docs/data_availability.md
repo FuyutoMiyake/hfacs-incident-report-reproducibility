@@ -6,6 +6,11 @@ for a future public release, accepted for author review, not publicly accessible
 
 ## Included
 
+**Version scope:** the table below describes the retained October package. The current
+manuscript uses [the November revision](../revisions/20261107/README.md), including a
+separate 248-factor independent dataset and 244-factor reassessment baseline, code-only
+FTA trees and current expected results. Do not mix the two versions.
+
 Only allowlisted IDs, categorical/numeric fields, quotation offsets and hashes are exported.
 Analysis identifiers remain ordered pseudonyms (`RS1_001`, `RS2_001`, ...). The private
 package now includes the linkage to official JCQHC case IDs for 150 RSv1 and 60 RSv2 records.

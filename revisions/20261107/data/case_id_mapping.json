@@ -1,0 +1,3365 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "source_id": "RS1_001",
+      "jcqhc_case_id": "A01C8730505FE3628",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "55d13b0e58ffa0fb3b9c5c6a01463794a9e076606f43df41da420b7dda55d660",
+        "background": "58c4a806b6eec93793f0c4e49ae9c27a02b1ccd4d13162beaa24c781ecc3cba3",
+        "improvement": "cf1b1544772d649e073a60c7769fc2a7a2affced6beb02d0b2e559a27c2762d1"
+      },
+      "narrative_lengths": {
+        "main": 420,
+        "background": 204,
+        "improvement": 28
+      }
+    },
+    {
+      "source_id": "RS1_002",
+      "jcqhc_case_id": "A046BE1C1BCE59592",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "97c7c2e58eb0de56b75c8b10c845413a8cede0961d25680adb1030a809a16f9d",
+        "background": "eecb99ad5f47dc62b97d38ab133c26fd1e50059e0d726dd12ed540e1fa3a231a",
+        "improvement": "95493fce6d2a38d9672838e60bdb6345fcf8bdfc2266345f092a2238907f4ceb"
+      },
+      "narrative_lengths": {
+        "main": 523,
+        "background": 182,
+        "improvement": 242
+      }
+    },
+    {
+      "source_id": "RS1_003",
+      "jcqhc_case_id": "A0B7E4AF9D490AD89",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "6e635646c1469cb936f5aa76ad9ff2d9b5517bf35a5513e115cf8d4365542e16",
+        "background": "81d2bde0ab860e212434da37abdf203e2cc0ce2451e624b9b70eb0575a02b434",
+        "improvement": "7838526ab4aae2ef970dc1828bab95bfaed8aa0cc5f81d4fcb78e6fab01b27c2"
+      },
+      "narrative_lengths": {
+        "main": 132,
+        "background": 264,
+        "improvement": 102
+      }
+    },
+    {
+      "source_id": "RS1_004",
+      "jcqhc_case_id": "A0DADB9A7D128D466",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "d623730f6649f0145a9d27e85eb46d07599ca40e714cef9bc5ef921a1baa830d",
+        "background": "e90630db45db4e70fefa89047ec3e19c303c31f07147a28f12c9e71b81b7cecd",
+        "improvement": "6b03e910e55dee51b65294f6ad4938a6652a763637a86b19461eeddd541d3c34"
+      },
+      "narrative_lengths": {
+        "main": 286,
+        "background": 118,
+        "improvement": 146
+      }
+    },
+    {
+      "source_id": "RS1_005",
+      "jcqhc_case_id": "A0DD1DBA501B794BB",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "20a886b9cdc88e8d7337993c67b721e049b8aa287d7dc54322d237baccb6b7a9",
+        "background": "d80c69603c1963346e9f6269a7a5b59eabb9d3066a84fb029a12b75a1e487a74",
+        "improvement": "38313775275bccd51531b771a82e65e374d22cc0a1353ea07945437b4bfef1d9"
+      },
+      "narrative_lengths": {
+        "main": 282,
+        "background": 155,
+        "improvement": 177
+      }
+    },
+    {
+      "source_id": "RS1_006",
+      "jcqhc_case_id": "A0E575D6C1115BADA",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "1aca769fb60c9aea131101076a7f84a04d831d0da0edc1dd31628183461bccde",
+        "background": "bcb6d4876e4ebe61c6bf79b09c6ad7bc630f004c6a75c2375156bd21b98c1408",
+        "improvement": "5a2d06eb13556aa35908ce4528b00157ffed3fc0b6fc19aef4ca622f511ef6f3"
+      },
+      "narrative_lengths": {
+        "main": 288,
+        "background": 396,
+        "improvement": 196
+      }
+    },
+    {
+      "source_id": "RS1_007",
+      "jcqhc_case_id": "A10228B1EC6106292",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "f47fca780635877f80c8f14fe7de62531e3778e414291d7f8a2770cc4edd8a6e",
+        "background": "547eea33ffd8ccd4e2fcb8675a3aabb6aad42ddb10a6a51f7da39343cb78d2f9",
+        "improvement": "c653cfd6b841c9e320572f729a636f48cd5ab7b391ede6ad400e4df62e4a3e89"
+      },
+      "narrative_lengths": {
+        "main": 234,
+        "background": 69,
+        "improvement": 40
+      }
+    },
+    {
+      "source_id": "RS1_008",
+      "jcqhc_case_id": "A1165A53D0DF079FD",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "75aaf48f54148c3560dbb9da73d76012a1767b5892305be22e9c52e3beba05a8",
+        "background": "56434ddb08b5554a9785a9db5056eae302db3d9881bc5154a6c44f83251a6495",
+        "improvement": "2896de8b45b4d50576c7b6dc97d5646d11a36f2ba2d0fd62ca934595f2b725ec"
+      },
+      "narrative_lengths": {
+        "main": 204,
+        "background": 201,
+        "improvement": 96
+      }
+    },
+    {
+      "source_id": "RS1_009",
+      "jcqhc_case_id": "A15729C34A647A2C7",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "eeeef314007caeda827bc7bb76233b7548e7539994da15a81285924a0641c9a3",
+        "background": "9f27964b61ab3bdb93f98d10d9aa6c85a65f4dd0019a4c9c594f7c898dc4911d",
+        "improvement": "3e9805a013ce980ecae6180379ae4bae86d55cb9b4b21c8acd2376924b124cda"
+      },
+      "narrative_lengths": {
+        "main": 240,
+        "background": 136,
+        "improvement": 78
+      }
+    },
+    {
+      "source_id": "RS1_010",
+      "jcqhc_case_id": "A157348A0D5BA25FA",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "5eaf9b57a9035631313ef40fb1408cd5adeafe6807262946ef51406a6683b2e1",
+        "background": "9760c5f88b6cdc18d30de4ad31920885f42338fad38a480b5f57fb5d48a0d238",
+        "improvement": "9e66f6a54e3c13c86adb4b2571cfdd5c6fe56d456f2564cc614aaf9339f42821"
+      },
+      "narrative_lengths": {
+        "main": 91,
+        "background": 25,
+        "improvement": 34
+      }
+    },
+    {
+      "source_id": "RS1_011",
+      "jcqhc_case_id": "A16F7F0BDD0B531C5",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "cc10bd015424a35451a535b4f0005fa5f8ed48612e0de9ed36c361fbba23cfe4",
+        "background": "c74735107414f24dec359905fed873cae2feb4a4c6692a9b4c2756e491810bed",
+        "improvement": "fbd06054afef248a902070ad8f12ac240664d48c948d9258fecd1a58898aa098"
+      },
+      "narrative_lengths": {
+        "main": 383,
+        "background": 284,
+        "improvement": 104
+      }
+    },
+    {
+      "source_id": "RS1_012",
+      "jcqhc_case_id": "A19CC62DAB220A3F7",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "00e9211825c2766b5c6beee233dbc13eaa7af4dda3500b8ae6b8480e98cc46ce",
+        "background": "0ba57bdc7b769ace51ae5ab02a555ee0fb6069c707a7c1d385762bb8728d81e0",
+        "improvement": "ba856cbe484276d3661000cbd208cc600cc5cf25c0a449cf08b4a269aa2ef4a4"
+      },
+      "narrative_lengths": {
+        "main": 210,
+        "background": 82,
+        "improvement": 120
+      }
+    },
+    {
+      "source_id": "RS1_013",
+      "jcqhc_case_id": "A19D99B516A23F6E8",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "258723948ea02143ed965e59227ca31d4f8efffcb068367f187772757f6aef1b",
+        "background": "103a68d7a0ccbd72558f024c20c08ae17f4f1361dfaa414b5c15e0d315ca9d61",
+        "improvement": "337d7ea5c17e71e8aaa74c0a998134ae424efa24968179cc71c93b1c9e9af7e9"
+      },
+      "narrative_lengths": {
+        "main": 348,
+        "background": 127,
+        "improvement": 90
+      }
+    },
+    {
+      "source_id": "RS1_014",
+      "jcqhc_case_id": "A1B7515197D17BD57",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "bd41c3a4549cebe9c20667c7fc816ca50cb49c8437ba9b6b6073a77aff02a832",
+        "background": "721f8eba9f68b6645cb40a82395daa8b15d3c83a7baa790b1ca32a44e48994a1",
+        "improvement": "82e5459030a3da567834c6275731cef548635365eb5bd01fd9c0dc2f1dbb042b"
+      },
+      "narrative_lengths": {
+        "main": 69,
+        "background": 122,
+        "improvement": 279
+      }
+    },
+    {
+      "source_id": "RS1_015",
+      "jcqhc_case_id": "A1CE192FCFB3F7B5B",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "7a57d5ca12a4b84601b94819e3b0dea1f06ed5e112e03720575b2d56a4de4102",
+        "background": "e1c4cf7d95178869449fda2166855eba1cf9c8a6450a5ccafa5f071cb976c98b",
+        "improvement": "69bf682bc23e0788358f2daee753cd6e3055c8b543c049e5329381c1497f653b"
+      },
+      "narrative_lengths": {
+        "main": 157,
+        "background": 223,
+        "improvement": 199
+      }
+    },
+    {
+      "source_id": "RS1_016",
+      "jcqhc_case_id": "A1FC84B5658360142",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "be3a984f586d9ab68d446077d18b0e8e0f168558ef139ab92a18b557110bf286",
+        "background": "75e7d03a693103d66d5ec0faebe4164768e8859ba4377b6d0da97562eb4ee8ef",
+        "improvement": "b0e020c9dbb42a23263e1d5c4f67c2964f285bf4d4e2bcd09e564f5139bdf361"
+      },
+      "narrative_lengths": {
+        "main": 294,
+        "background": 226,
+        "improvement": 179
+      }
+    },
+    {
+      "source_id": "RS1_017",
+      "jcqhc_case_id": "A2091716A1BE7DC9B",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "6b7a170b4551c67d057413c411e860521d063fac58d06d4dc07bc5a71c3391d0",
+        "background": "dca96143197d2f331335f0a5ac28ca2a473ce85bba1fc4a52699417cc9e43135",
+        "improvement": "a91c282208609b305eb18ef71fccedd7182fe32a390dfb6c4ee46d5f7aca02a6"
+      },
+      "narrative_lengths": {
+        "main": 205,
+        "background": 47,
+        "improvement": 40
+      }
+    },
+    {
+      "source_id": "RS1_018",
+      "jcqhc_case_id": "A21F8501A2DE9C7B9",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "ce023f99e06ff5960259fa43b1fd185c83ca89390c9297d9eb5cfac7b746c066",
+        "background": "0ab51594c95f36946e27369fa78a2b316485678b285268056a80d26e4ffa45c9",
+        "improvement": "d53398666be6560d065b07aa2b0631b2287cf6860a2b2579d6fb181df594d08c"
+      },
+      "narrative_lengths": {
+        "main": 295,
+        "background": 151,
+        "improvement": 67
+      }
+    },
+    {
+      "source_id": "RS1_019",
+      "jcqhc_case_id": "A248658A315CA1796",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "962dbeb29234c2b7c921d1ee052276d8abf5a0a47199d351969d119584a3c138",
+        "background": "6fadc451cd3fd94d2639f5c2802b60dc1e9d1cbd3152d385984c9ef006473983",
+        "improvement": "f1e6aa98624a20b2ff9baa59d33f1df2b0e2acc9c281ca7605924dfe22ff8079"
+      },
+      "narrative_lengths": {
+        "main": 128,
+        "background": 90,
+        "improvement": 70
+      }
+    },
+    {
+      "source_id": "RS1_020",
+      "jcqhc_case_id": "A27B0030DC972C42C",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "62c614ded54f919629eaffb1a5cb46c2024097f094a2d3f0c35d62026ba76599",
+        "background": "7529d21c5b59f101382a5810b42f09932f2e48d2390f1b5784da5ca0e86f6ad3",
+        "improvement": "dad4d072102248a9e6f25c55b3b67075e91e3aafd0f29c0c084497e233a368e3"
+      },
+      "narrative_lengths": {
+        "main": 151,
+        "background": 86,
+        "improvement": 121
+      }
+    },
+    {
+      "source_id": "RS1_021",
+      "jcqhc_case_id": "A2863F0527075422D",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "c819a90f02f96ec4d639e3c5c7a2466d2b738333dc4810e064bc0b514aab3ad6",
+        "background": "1ff85fac8e6da8edd71cad77549882509c7f1715ddee1f310aacb4e0cb847253",
+        "improvement": "bc6a17ab5ae25254466b16592a1bb44a59d6224b91f163a6a571803ee38b21ab"
+      },
+      "narrative_lengths": {
+        "main": 139,
+        "background": 124,
+        "improvement": 54
+      }
+    },
+    {
+      "source_id": "RS1_022",
+      "jcqhc_case_id": "A28C30C53F09D2100",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "0a0cd0b4c35d8484747c1bbd06654a76c57145e7b77d53c566c3c31f953e339c",
+        "background": "02e6b7219fe65b63b3585a9a3f3f1e1a9b4f999d143b3325cbe494d095584388",
+        "improvement": "e0605eddfdcdd9e85c26d76d465f272968da865adefb0f8ea817744e4a418241"
+      },
+      "narrative_lengths": {
+        "main": 196,
+        "background": 18,
+        "improvement": 78
+      }
+    },
+    {
+      "source_id": "RS1_023",
+      "jcqhc_case_id": "A29B4C8BEF6317D17",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "880dc85cacc94f8551ed3b4ebe4d142c16096dfae303d95c7c802359d8d8a4d2",
+        "background": "234eae10aff8c7a9aea588d12c788a509c0916c74c9b760e9ec80ca23075baae",
+        "improvement": "a15535b3e6016a5ed5314354762d0563fa800aba340777b8af1af6bf84302dc8"
+      },
+      "narrative_lengths": {
+        "main": 626,
+        "background": 242,
+        "improvement": 37
+      }
+    },
+    {
+      "source_id": "RS1_024",
+      "jcqhc_case_id": "A2AFB05DB32D9369C",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "99583da1d2ce41c6c29b22748aa15658598b0b23c2e96d6e115d8b6e5c6127d4",
+        "background": "d67b8e1d383b380c72b8c130401edc53a0ddb6553716347268a957ee59319475",
+        "improvement": "380352c64ba337164e91eba51ccf62dca430a5f8563723555a2534a561e59580"
+      },
+      "narrative_lengths": {
+        "main": 69,
+        "background": 151,
+        "improvement": 67
+      }
+    },
+    {
+      "source_id": "RS1_025",
+      "jcqhc_case_id": "A2BDDD4526619B6C1",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "42ab2a87c68db21cfefd3fc6ae97f2db1f0d6618b45226368986c96189d421e5",
+        "background": "89ecd56e735095b45624da28173827d4c6659c9c69e52196d30e2ab31d4972bd",
+        "improvement": "95ca55d1492728bd00d2879637f96c15d5d0733ac34d56632aa168b24c09a66c"
+      },
+      "narrative_lengths": {
+        "main": 65,
+        "background": 22,
+        "improvement": 22
+      }
+    },
+    {
+      "source_id": "RS1_026",
+      "jcqhc_case_id": "A2CE9A0608B4B2477",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "8d03bc3aa00c832b4a006cbbacfdde7481ddce356ac8645b775ad3d1270ca04e",
+        "background": "e25549ba67b5512ab937024ed4e52483d3755f18d8e5ae4411539bd05d4d3255",
+        "improvement": "c854a9adfce7048b1e414242133b44dd1d48462a779d71f8280b22b95ee4bcdd"
+      },
+      "narrative_lengths": {
+        "main": 264,
+        "background": 196,
+        "improvement": 130
+      }
+    },
+    {
+      "source_id": "RS1_027",
+      "jcqhc_case_id": "A2EB862A0CA074019",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "d644accdec6d1c87311314c7b097a6389ef315b458cdc501eac7184f79787e5d",
+        "background": "bb8f3283ef4de89d084d651ef23f6c8da2cde6e14bdf40b668146db4baeec70f",
+        "improvement": "198baba09bd9152e6048d0e7659edf6c0bf8577531221247ac1497c2abb1d9d9"
+      },
+      "narrative_lengths": {
+        "main": 134,
+        "background": 237,
+        "improvement": 113
+      }
+    },
+    {
+      "source_id": "RS1_028",
+      "jcqhc_case_id": "A2F4DA2F9DB7D5E63",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "3f339484a36b83540b5852a86263d79f5a6a681d760c9e6176db0a6d68b16503",
+        "background": "74f210e2378e245b556f92c64afafa72fc351473f2434270514dd8a11177159e",
+        "improvement": "95dc87b4780ce650435ea1511fdcd91e05c054799416042eaca6b5b89486c8b8"
+      },
+      "narrative_lengths": {
+        "main": 206,
+        "background": 152,
+        "improvement": 106
+      }
+    },
+    {
+      "source_id": "RS1_029",
+      "jcqhc_case_id": "A3193B95EDE53F442",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "2ffc799700eb0018e82bbc92d7bb4001e5c0a18ca882c1b8c17b412b22a6c753",
+        "background": "936553d75c41df0c857325fc9f6a396414e334b0743e7361609dc1d50d901676",
+        "improvement": "0e731ddf6902cfaa69b700865ff0d86d6bb1cc7df889508f994d964848226055"
+      },
+      "narrative_lengths": {
+        "main": 261,
+        "background": 125,
+        "improvement": 130
+      }
+    },
+    {
+      "source_id": "RS1_030",
+      "jcqhc_case_id": "A3481A7E9339005FD",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "8dd4c4e27e60cf7de61b49957dca906d159a302927425300b77b275d772a82aa",
+        "background": "c0e2914170355de90cb9d578527dba3cbda241cef606262cf7456cffc3ab8474",
+        "improvement": "8701d982d4663df8a4b21f681205347b4f99c15729e1c19df1f95d89781c3193"
+      },
+      "narrative_lengths": {
+        "main": 90,
+        "background": 25,
+        "improvement": 20
+      }
+    },
+    {
+      "source_id": "RS1_031",
+      "jcqhc_case_id": "A34F5EF3AB8B1613A",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "2d437fac50c876a3051ab32bdb1d5412d390fe9d9f77857eebaa6f848288007c",
+        "background": "d03497d9d4046f8059a8e3caa30e2c294e767b48d0ac54607b13ac29cfc6b26e",
+        "improvement": "405329899ca42621e8b422efb2bcf42870c79d44742c16f32f9b21591350202d"
+      },
+      "narrative_lengths": {
+        "main": 176,
+        "background": 113,
+        "improvement": 188
+      }
+    },
+    {
+      "source_id": "RS1_032",
+      "jcqhc_case_id": "A35BEAD72BE86072B",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "1cf514d5e69a177fcabbecf9aecf97571798a579cdf0ec1c03f1f02b3620155f",
+        "background": "c9a760d4712d80320d4c7f76f549df47f9eb66a98c0bc86acdbe263c6730dc5c",
+        "improvement": "9346fea07a2e82b19f3dfe652dff3bd7c17867fcc13d060e52138279840af8c0"
+      },
+      "narrative_lengths": {
+        "main": 931,
+        "background": 248,
+        "improvement": 358
+      }
+    },
+    {
+      "source_id": "RS1_033",
+      "jcqhc_case_id": "A36EF1C97EB68A4AB",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "546dc324554909b5d0e18eaa2dbde85640ceb7b25d8e93fa642c9ee96f57885f",
+        "background": "31a5ca1db2a57beeb3854be981d5569279e1333b02749eeefa666ad57c742b44",
+        "improvement": "170d46ed2c73fa69406977c896253c2fcb79a3082708d1c1cdcb9370d922b1b6"
+      },
+      "narrative_lengths": {
+        "main": 199,
+        "background": 94,
+        "improvement": 52
+      }
+    },
+    {
+      "source_id": "RS1_034",
+      "jcqhc_case_id": "A38DF0F2DA30F7BF7",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "7e4f0c41f79329c62539638f7cf949c26b3b44286d5663a65aa1eb4d2edfe25c",
+        "background": "384c3b219fcdad1ab6e1d226e10a1ed7384b9693b751e8dcbe0a765155ac5cf4",
+        "improvement": "354425f2d279909db11df8189d9676a02513957d99ff97edf09ad8b94c164d64"
+      },
+      "narrative_lengths": {
+        "main": 607,
+        "background": 38,
+        "improvement": 40
+      }
+    },
+    {
+      "source_id": "RS1_035",
+      "jcqhc_case_id": "A3940628FE12EFA72",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "56aa1a3f89f56bc89f70f78bfe77bc2f2068faecbd922eb5ceaa0a78f0663b70",
+        "background": "661a6d741636e13cc15f7c812bf927cbfa9a37d084aa2ce4bdfbcd8779c5843c",
+        "improvement": "49504bd846172621dc85151e6452d2caa838e4dc3d2655c5b330dac758e45d1e"
+      },
+      "narrative_lengths": {
+        "main": 86,
+        "background": 37,
+        "improvement": 54
+      }
+    },
+    {
+      "source_id": "RS1_036",
+      "jcqhc_case_id": "A3A599313DC12660E",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "0d0567bf82cfc3541ca2d25b13ab17a0feb3fc3450543e0ac76f9946c7319693",
+        "background": "7f0c14ae2ecee60d28d31bfbfa1e231ff121bd899e6eebb8161b1ca115720930",
+        "improvement": "26b605f6b111f955eb8c37e42c32f8f611b1e70613328d054065433d2f142fc1"
+      },
+      "narrative_lengths": {
+        "main": 19,
+        "background": 47,
+        "improvement": 11
+      }
+    },
+    {
+      "source_id": "RS1_037",
+      "jcqhc_case_id": "A3BEDFAB4D56E36A1",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "0d855d20eff901a23e826804d09b9da66cbb3af562af64f2b5c86458621035e3",
+        "background": "ec6d4c0b465388d8b79f505a39da6e81c6d8afb2a61445a681a6d4af258a1039",
+        "improvement": "a571eb642fae60860e97a72120ac8e0956479f9bb4dd2b898d0ee875b8a66e7e"
+      },
+      "narrative_lengths": {
+        "main": 170,
+        "background": 64,
+        "improvement": 47
+      }
+    },
+    {
+      "source_id": "RS1_038",
+      "jcqhc_case_id": "A3C47F10C2CC4DD2F",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "2315d8a07853544fc94e6d9c5f6e4743a3a54571467d0f23ea85d59198093062",
+        "background": "e497cd609b8ede13998000747db0b11d489aa98992ee7b3954ad88b9f9d04d75",
+        "improvement": "f2c103130740bacd78e11be628c8007c924aded226398a50092a2f22782435cd"
+      },
+      "narrative_lengths": {
+        "main": 166,
+        "background": 105,
+        "improvement": 15
+      }
+    },
+    {
+      "source_id": "RS1_039",
+      "jcqhc_case_id": "A4085AC6948523B3F",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "70d95df84ba33240973e56b404e89a15c85fd6a3ee6b6c0ac840300d360e834e",
+        "background": "7bda41ed92792f44c70428a3b1eaf67c25d926a59633fbad9708129d12c87d6d",
+        "improvement": "f369e1487354e890f43e8887ee1efc07e4c098de02034d5cb31044f1e710f4fc"
+      },
+      "narrative_lengths": {
+        "main": 83,
+        "background": 170,
+        "improvement": 109
+      }
+    },
+    {
+      "source_id": "RS1_040",
+      "jcqhc_case_id": "A437B007DFE77FAAA",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "d2358b5349eb82377d092a8592e4cbb096ea9726091ec7f3d4b31d88cb25d097",
+        "background": "0d38c33f8393d502579e28d6e3c7e60d455f35c0b1e056a05a6d5a05863e4261",
+        "improvement": "434c98d34b3c2f01c1f49bc2e6ead9b55b7ef3288d0d6d26f1614ebf580b9fc2"
+      },
+      "narrative_lengths": {
+        "main": 170,
+        "background": 22,
+        "improvement": 23
+      }
+    },
+    {
+      "source_id": "RS1_041",
+      "jcqhc_case_id": "A4568CAE05D94C1C0",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "10208f4ce4652cc1130bdf842c1092ba701c9088e046fc12fc26f9add1947bcd",
+        "background": "eaa5a3826f05fe1e074744c880a583c74b960c5ee545f56a73a859e9a9034dc9",
+        "improvement": "cccf9e567e2ca924c8f13878312e418d8614af696e56a3c251b5197b5de98582"
+      },
+      "narrative_lengths": {
+        "main": 420,
+        "background": 133,
+        "improvement": 52
+      }
+    },
+    {
+      "source_id": "RS1_042",
+      "jcqhc_case_id": "A46D53FDBC2BED189",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "2ac5081d0c4c2617d62545925ca5f432850ae3d2f2c4a836ea1127d5535ad5e3",
+        "background": "bd716302d13dbc52106f0d4e2a5e262be6a197956103260402a3a073af41f4f4",
+        "improvement": "72d9f85adb06bc1cf1c342a6b998bf72761a17f98373259765452fe94ed58727"
+      },
+      "narrative_lengths": {
+        "main": 312,
+        "background": 581,
+        "improvement": 193
+      }
+    },
+    {
+      "source_id": "RS1_043",
+      "jcqhc_case_id": "A478473E6D6A4211F",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "3fcd02ef23436b63dd7bc346505dd1fcbb94534a68cc17e4b5fe28ea31137518",
+        "background": "336cb9cf1541ef7610247d6df4c0c710350dbc002bc7e819f152406371d33353",
+        "improvement": "f0e95c82341039e8f94e8628abd4770cd6cff06b1ce420e75e0c1c529a4ea63f"
+      },
+      "narrative_lengths": {
+        "main": 250,
+        "background": 57,
+        "improvement": 72
+      }
+    },
+    {
+      "source_id": "RS1_044",
+      "jcqhc_case_id": "A47936033AE395E58",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "3ee1e3e14682a199071345b92adbe05f150ba87cf219a8ebd4f021efdbc30261",
+        "background": "db7c697b863d34b09fff48c5755c06e446881bacb670940360f64c1637383695",
+        "improvement": "59e57a401f3e13ed2d34dad296948b1a127d2d2622dac51f5cea8b298a83b601"
+      },
+      "narrative_lengths": {
+        "main": 320,
+        "background": 211,
+        "improvement": 202
+      }
+    },
+    {
+      "source_id": "RS1_045",
+      "jcqhc_case_id": "A48F2419E1870A4E4",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "82ba3685acb727890d73bf6f7bfb2809ba5c44b934bc003afde7ac136c3f9207",
+        "background": "2680f36fb160bfe27dccad404b796dd05c7e60ed302b9d5cccb5ea8b00df7986",
+        "improvement": "a7671a5c7f47a766ac3a05cf244305534b915124783f53261eb1e1cbc6d52bf2"
+      },
+      "narrative_lengths": {
+        "main": 104,
+        "background": 37,
+        "improvement": 44
+      }
+    },
+    {
+      "source_id": "RS1_046",
+      "jcqhc_case_id": "A504FD4F51B5E75E8",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "7bc543d8cead5a2ba29b15a56cbef4150c4e3e4779b093affd3770379ff22b3d",
+        "background": "8a53fd9c44bacf8bbbaf804327d19cbb0d871b8562b7e0150e22dc30fca2000d",
+        "improvement": "cc5cf45fedf6fbfa23805d8a70aeef0618ea0afabba112f3b6d6cbe337da89e8"
+      },
+      "narrative_lengths": {
+        "main": 500,
+        "background": 164,
+        "improvement": 178
+      }
+    },
+    {
+      "source_id": "RS1_047",
+      "jcqhc_case_id": "A514D1D93107719E7",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "1023f92e8c4b6c511081f05ac5b01b1cca4e7b67df3a425445d07aaca04e25b7",
+        "background": "a8f452d5aba28d733b15d66e4d05a4c182be46bd3872b9f08c5be508a8a38708",
+        "improvement": "30bdf42849dd9ffb7627ffd94bd9b53ed1af1f74e5518b722c39cf7e24cf1503"
+      },
+      "narrative_lengths": {
+        "main": 112,
+        "background": 127,
+        "improvement": 165
+      }
+    },
+    {
+      "source_id": "RS1_048",
+      "jcqhc_case_id": "A553C504F128F35E8",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "7ece79b9e04808decefb9541d820f95285a789f03ae7e9b177976a393622297a",
+        "background": "ef8d8e61c4aed17d6667166694e9b158d2c5738ee68acbe6a8e27e066e249fa4",
+        "improvement": "486e76e11f1717ed7d49c8d5bd109af351a9f5f4fde45bcd98a470d6744b49ea"
+      },
+      "narrative_lengths": {
+        "main": 249,
+        "background": 170,
+        "improvement": 165
+      }
+    },
+    {
+      "source_id": "RS1_049",
+      "jcqhc_case_id": "A58975CC00EF050D6",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "66b0b2e666b1774203521f528a31f28b40241de5da2f580607ac446ce23fc602",
+        "background": "50e7dd1009692a8fb437653390b2525eb6a3b3f2d5eeb8b969e2ea31f33531fc",
+        "improvement": "d000716f8251908c34d15e69f2d2ae5a1741b982b0e1e65aea00a2d078952dc0"
+      },
+      "narrative_lengths": {
+        "main": 395,
+        "background": 101,
+        "improvement": 37
+      }
+    },
+    {
+      "source_id": "RS1_050",
+      "jcqhc_case_id": "A5A1109F54EF7F034",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "2456ea8d55c640b8a46f09a90bd5b990033ac448ca6d681e0211f1567c5e750c",
+        "background": "afa2cd9c53f09a19727c89ea9154f1527005140fa4b1cffb8001d786a5a3f5cb",
+        "improvement": "86fad62ae9ec8101a083dd961d701b2676596c23dab3b42af1c4de1547e02810"
+      },
+      "narrative_lengths": {
+        "main": 205,
+        "background": 70,
+        "improvement": 64
+      }
+    },
+    {
+      "source_id": "RS1_051",
+      "jcqhc_case_id": "A5A9E22FA6E64803A",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "e5c78874a1d4be54ff24ee283a545d276ce08a03dd2e05084b0c218109b63a64",
+        "background": "b372b2a4debac857bbee55f00a702e481e9be24b1a0ff860e47716d7cfe915dc",
+        "improvement": "7c8861fe6a242e88bad2301ef7b756b18965af1985bf2eaf9d21865bf8b629fe"
+      },
+      "narrative_lengths": {
+        "main": 80,
+        "background": 102,
+        "improvement": 39
+      }
+    },
+    {
+      "source_id": "RS1_052",
+      "jcqhc_case_id": "A5B0112419D72F4F1",
+      "source_file": "MedicalReportPubA_2015.csv",
+      "source_file_sha256": "2732ff9c4cb093d6d61f1af2d19d2c4f5378f6ec810cf6924a316365983a7ea4",
+      "narrative_sha256": {
+        "main": "5ea5fa7dd1890f1b18dfc4223f5f3b15164cda749882f8fb1470f96e33e2cb7d",
+        "background": "932afb4ae405d8c69250bf17e4b5a240ffa3d86044dd8873ae66e3f9a0379c57",
+        "improvement": "a94887e00364a52aa8c263679b06e36a6eb8f25b67458419391e88c79fe7649f"
+      },
+      "narrative_lengths": {
+        "main": 286,
+        "background": 259,
+        "improvement": 91
+      }
+    },
+    {
+      "source_id": "RS1_053",
+      "jcqhc_case_id": "A5D02D13FE253F82F",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "4150a47735e844145a3e16bd7d88aa5c9d0832ebeeb4cbc2ecb9ce8224771d0e",
+        "background": "47cafcba80f3a995dd8050ce5c68c930313407b6403c63e3812d57582e1a974c",
+        "improvement": "edf672a5a5f79e6e5efdcb728c685df9f4efe69dbc6dd763f02d38378ae712a1"
+      },
+      "narrative_lengths": {
+        "main": 92,
+        "background": 332,
+        "improvement": 44
+      }
+    },
+    {
+      "source_id": "RS1_054",
+      "jcqhc_case_id": "A5DDBE7752009B803",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "d8b211f2d0d51ad0633218829b3350bcb9ac2e0a6dd8d0b7940d2279654beeeb",
+        "background": "4ca6c8ae5aed43bd1b5063d34724fb74ee5e84cc0d5d0b217959be3aa3cbe1d5",
+        "improvement": "b8c77a68e568cf4b34d291c5df7b87d907fe03061e2d12140d39585745da76c4"
+      },
+      "narrative_lengths": {
+        "main": 339,
+        "background": 43,
+        "improvement": 52
+      }
+    },
+    {
+      "source_id": "RS1_055",
+      "jcqhc_case_id": "A6459B3FB5D4E3DBF",
+      "source_file": "MedicalReportPubA_2015.csv",
+      "source_file_sha256": "2732ff9c4cb093d6d61f1af2d19d2c4f5378f6ec810cf6924a316365983a7ea4",
+      "narrative_sha256": {
+        "main": "035ea4e171393cfb39b0d756d8b08f223a7989651202a5ee920ab76e790448c3",
+        "background": "ba18daca3012a1f4d4295c1e1da75627d2748952725b9dc6ecc7b5f97a628ad9",
+        "improvement": "aaa4ccdf4e60f3c60dea20719dff267c17edcf036b4f3d96ca33eccaa51dae04"
+      },
+      "narrative_lengths": {
+        "main": 332,
+        "background": 345,
+        "improvement": 65
+      }
+    },
+    {
+      "source_id": "RS1_056",
+      "jcqhc_case_id": "A67F2CD4A33E589BC",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "0361c6fb5a028d5a6630090537b10e59e99821e91979d83d3de7b6546a2d2f1f",
+        "background": "7b71651251ee93764f6f01d40e1919cbe59b826c530380b7b4c03d519fe854ee",
+        "improvement": "6d749afa98db8065f841b3703db6005e38fca3dc90fc0edd3041291555a4f815"
+      },
+      "narrative_lengths": {
+        "main": 280,
+        "background": 465,
+        "improvement": 189
+      }
+    },
+    {
+      "source_id": "RS1_057",
+      "jcqhc_case_id": "A6819EFE14D542D5A",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "501ed7ade7421d03d45bf0a8d34229b42f5552961f7120a99610ea99c989b00e",
+        "background": "993b518dfa50c966f1738475272f1e2ac624ebbcb7f2261a10e4f1e231a9fb09",
+        "improvement": "f867d141dc745ca13d4b0a574a99d912ef6ef37755622994b7d4153f1145e116"
+      },
+      "narrative_lengths": {
+        "main": 601,
+        "background": 161,
+        "improvement": 64
+      }
+    },
+    {
+      "source_id": "RS1_058",
+      "jcqhc_case_id": "A6DB97EE793CFAD0B",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "8d42935b5f3945af2de3a7a0bc9c280323f88dc0a55202cfd982bb68c3d8f26f",
+        "background": "2e6f44656f0dbe0377528c226c22059bc22b5b9ff096c9ea552899bc8e9e239d",
+        "improvement": "536958f8dc03b0807c3a33042748706374d72f526751dde80fcfca4ca621059e"
+      },
+      "narrative_lengths": {
+        "main": 315,
+        "background": 331,
+        "improvement": 59
+      }
+    },
+    {
+      "source_id": "RS1_059",
+      "jcqhc_case_id": "A6DBCF44AB9DD9150",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "82000c503e59da117c5c98c734c5f737f19992519b8c270d2c6deeac3335efb8",
+        "background": "c3cdf879fe843fd39cb098be031fbf03c3c5baea618bac33e5011666eaec4581",
+        "improvement": "9f9102d10e3050441b5906353f25c99f552c106c924854cccad3640315656558"
+      },
+      "narrative_lengths": {
+        "main": 120,
+        "background": 83,
+        "improvement": 101
+      }
+    },
+    {
+      "source_id": "RS1_060",
+      "jcqhc_case_id": "A6EFCE90572A513F0",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "04aa4cdfcd0781939aeda83fb03c24d7a9a99207eea9cf6e24ec3dd80c025067",
+        "background": "880ec3ebbd8a31b90b98444b596798a8d33a44274bebeda95ba6d641267bfc51",
+        "improvement": "f04daeb6f5dc936ed5f7087af8f4c0d1b94758d2732f62c65168afe3eeab2c8b"
+      },
+      "narrative_lengths": {
+        "main": 466,
+        "background": 217,
+        "improvement": 208
+      }
+    },
+    {
+      "source_id": "RS1_061",
+      "jcqhc_case_id": "A6F0408237E52F27E",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "2096be98e04fc1f09590e18fc6cfb500b748b91ae16b446ce0126d7d5c21c019",
+        "background": "1c0c2f67ea08a71915d18fdb6c40aab2892a4b8a582d9f052cd0acf8988f9593",
+        "improvement": "6aeab9494c9b134e5b4fea650456f7d2845a598e1be35c71b21c4d5d39326802"
+      },
+      "narrative_lengths": {
+        "main": 123,
+        "background": 64,
+        "improvement": 59
+      }
+    },
+    {
+      "source_id": "RS1_062",
+      "jcqhc_case_id": "A7120F393428E90DA",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "d771bb02b6304e104d2e0f18e3a0c4ee896db70df80a402ba8dfe7396002c302",
+        "background": "68b6cf25821b7050d9c8cf332b65c0db3f0cdab14fc171e2ee131dd40ee699e8",
+        "improvement": "9c5cbabb4b78baeecb6b469b295df1353b127ba520d872d431a22ace2d70d54b"
+      },
+      "narrative_lengths": {
+        "main": 176,
+        "background": 46,
+        "improvement": 25
+      }
+    },
+    {
+      "source_id": "RS1_063",
+      "jcqhc_case_id": "A72B5D1869DD09EEC",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "49ceb96e4448d4a65a6bf5b5c760985535f1c84c1ca9404c69845c70f6d90d98",
+        "background": "97c672c85559342d752444210fa0531ceffba822f25e62a5a4559054c155c3ea",
+        "improvement": "50b253c0d7d3ebfcca773ac04892eff1a174a2c3521c82384861fbbfa16210e5"
+      },
+      "narrative_lengths": {
+        "main": 272,
+        "background": 171,
+        "improvement": 441
+      }
+    },
+    {
+      "source_id": "RS1_064",
+      "jcqhc_case_id": "A72CAA218927D8238",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "db530ac97968b2a1c59a5d101202a1f3d271b5caf3865115bf697c7e12200401",
+        "background": "30069ddbd70a13c88448ec6fd79fa10a6bdff7f1c568d463d2a506c458c0ac3f",
+        "improvement": "e45443d280aa8879f8a964afc33bbf7ef4270480b2c17aabb91d5080f8c3c00a"
+      },
+      "narrative_lengths": {
+        "main": 252,
+        "background": 39,
+        "improvement": 71
+      }
+    },
+    {
+      "source_id": "RS1_065",
+      "jcqhc_case_id": "A7358C56A861760F4",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "34dacc6ec101141714ac901e7dd5834bda475ceab0160bfb6fb43251eeb1af8c",
+        "background": "57ff51a62b4829960726a14252c42e8e38f468f786a7f7c9c2089608e3608cd2",
+        "improvement": "396394ad3eb2b7da4dc877d023886896c309a68f6cbbc0df1007080c6af1c3ce"
+      },
+      "narrative_lengths": {
+        "main": 122,
+        "background": 365,
+        "improvement": 188
+      }
+    },
+    {
+      "source_id": "RS1_066",
+      "jcqhc_case_id": "A738F5F87EC445DA8",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "a35241e76eb027093f898ee6e03f7c9169f6b8722e2865d93de83861d44f03c5",
+        "background": "af025b23998fa7998d0fada07fc18cb1b98bf0dc36b92cb796d03f02c63dd55a",
+        "improvement": "d6c7daef2c3126e481c25a8357a3446edbcbf03344faccbe880dc83adc340095"
+      },
+      "narrative_lengths": {
+        "main": 394,
+        "background": 202,
+        "improvement": 248
+      }
+    },
+    {
+      "source_id": "RS1_067",
+      "jcqhc_case_id": "A7631AC7BA2B8287C",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "1e0656aa385576b224931abfc3d0b69702c5173b97227a83a43efdc630c721ef",
+        "background": "c390a399f1319d205a057e4d649364d86ec93e01aa7dc93de6b6107b21c1ab02",
+        "improvement": "e523ae8caf3926c8fdd8ec008f4c2d5c5f0186fce9a00741345188ff8cc9e5a7"
+      },
+      "narrative_lengths": {
+        "main": 297,
+        "background": 65,
+        "improvement": 47
+      }
+    },
+    {
+      "source_id": "RS1_068",
+      "jcqhc_case_id": "A78B3C055BD148223",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "bb1e0b7a740aa1d1390aad3ad2bbeba0cb8b23b58e910530c99972616be20959",
+        "background": "be71242e934a25294fabdb6db5fe3359c54ef55cabf4e43266a96a87901bcced",
+        "improvement": "a41b8d6b6d671325382c00f9a4f81dcd40edf54eade8d827dfc157f360826c45"
+      },
+      "narrative_lengths": {
+        "main": 1142,
+        "background": 115,
+        "improvement": 145
+      }
+    },
+    {
+      "source_id": "RS1_069",
+      "jcqhc_case_id": "A7C19A86498C4B79B",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "f7fa31a3de051abe545ba4201becc7393a44f5d89eee33728a96ee41979ba239",
+        "background": "77e534655f76a66c19a0c05e717324e33a5dbc1b83d62e61318292cf293e95d5",
+        "improvement": "72458543b0d27d8fd2c42f12e150e529f75213052e6d128c7776586decf90f7b"
+      },
+      "narrative_lengths": {
+        "main": 347,
+        "background": 196,
+        "improvement": 95
+      }
+    },
+    {
+      "source_id": "RS1_070",
+      "jcqhc_case_id": "A7C9750B3CA35AFE8",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "b7c7e27ed9ba4f9d6fff1d2765e3b838e7d90c1786ee300c23ea5afc44b2f50b",
+        "background": "cc90073400535121086c719287b9223245a1b7a631e35410853395ad4053226d",
+        "improvement": "c52355d349d23d80e9a384fe6ca34a6a7ce7b335c0f378bcec4594432de19f6f"
+      },
+      "narrative_lengths": {
+        "main": 74,
+        "background": 15,
+        "improvement": 38
+      }
+    },
+    {
+      "source_id": "RS1_071",
+      "jcqhc_case_id": "A81C14E73D4C49648",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "08cb84329e74dcd289fa1865b8cc565e1e0d7fc8120718c7dcbec4021c656d3d",
+        "background": "c451213f9fb155d8b387cbeea67a48b5c606eb3ec413b2d178f84dc02da85e89",
+        "improvement": "95aebf0d44195ea279e8ecc963ba0a698b4c47adad10f099bfa42dec9c0b9b67"
+      },
+      "narrative_lengths": {
+        "main": 178,
+        "background": 66,
+        "improvement": 76
+      }
+    },
+    {
+      "source_id": "RS1_072",
+      "jcqhc_case_id": "A828D86C70B56E6CF",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "7384f91f7ec76936f1efb1e91a9a15f638bb0b516bc70072ee9cd7cbf9d63f2b",
+        "background": "f3f67b245d5815812f3337e9f2a2353a224f794b0c29c39abe2527619cc6934f",
+        "improvement": "7af364a16e60d762fb7719ab5da185a418941702a3100cbf6e867171d5d70cf5"
+      },
+      "narrative_lengths": {
+        "main": 168,
+        "background": 93,
+        "improvement": 241
+      }
+    },
+    {
+      "source_id": "RS1_073",
+      "jcqhc_case_id": "A8335A9FEEDFB6560",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "68bbf44d6d5375fee5956dea6b593c7818059b342ecd6678933c280480499f5e",
+        "background": "c605256cbfe319ea250683e18fee2ccf6e5293baeb8d343ab460048f53eccd4d",
+        "improvement": "23a13b697278e08c94c9941192465d33fc52895f20de9c3bcaed8d3efbbaf885"
+      },
+      "narrative_lengths": {
+        "main": 200,
+        "background": 99,
+        "improvement": 51
+      }
+    },
+    {
+      "source_id": "RS1_074",
+      "jcqhc_case_id": "A83A61A6AC64F9D94",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "a9861cd103b90d9d6b81e0fb0194fbac889794c844e8d065cef2de582ef211ad",
+        "background": "3165fe64adc6cbaac6b9ba0b4dd12c04e6f4e574be8f9ff6d8bc597bd730578f",
+        "improvement": "feb9a8b056e4447737b3729e96201ab893026521a2f2737d1ec2b3df498c5c9a"
+      },
+      "narrative_lengths": {
+        "main": 119,
+        "background": 32,
+        "improvement": 22
+      }
+    },
+    {
+      "source_id": "RS1_075",
+      "jcqhc_case_id": "A85863E1EA206C13C",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "dd21b78378a4cef70a6f3bb917e78cba49a90815b4d44d61342ffd2da326a76a",
+        "background": "fce6b0a417c0971f74a5789b1266a11a9626bc1a82b09068956f16aef06144da",
+        "improvement": "d929697c9f03bcf1bfe654996460fa73f657f1771e1258137854dcd260eef58d"
+      },
+      "narrative_lengths": {
+        "main": 677,
+        "background": 316,
+        "improvement": 366
+      }
+    },
+    {
+      "source_id": "RS1_076",
+      "jcqhc_case_id": "A86A68D8976A01797",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "5f4f6cd208d9e206f4ebf7e8879d42b3062cb671500ea183b3dc912e5cd84c91",
+        "background": "a18c36222f5e3f4bfcf9248fd95e574d1163a269eb8f75a8afd136353ed7f7c1",
+        "improvement": "ef0442eabfad059b3b065aadf82994655d11b7a2d0f51b373be26e98c05b0f95"
+      },
+      "narrative_lengths": {
+        "main": 207,
+        "background": 200,
+        "improvement": 117
+      }
+    },
+    {
+      "source_id": "RS1_077",
+      "jcqhc_case_id": "A871AAAE777E78F03",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "f3b009ab749958a9f20a982925c6570cb7900042ba34cbe226ca890c54c43648",
+        "background": "a855b97a9db6ee3416629a9acae41ee1e40263451e52ccafc13aaea000eee638",
+        "improvement": "59ac932f4f58978c11445fc80e5462931392a0383465ee92285ae7e38b8c1c04"
+      },
+      "narrative_lengths": {
+        "main": 152,
+        "background": 105,
+        "improvement": 5
+      }
+    },
+    {
+      "source_id": "RS1_078",
+      "jcqhc_case_id": "A87BC861FFBFB5B3D",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "c0b7a9af2d3d215eb998a44bae160d89de8b407b2618c2f90ca87aa38aeb4aec",
+        "background": "211b2806f4afed5364ae05a7f3b1c720e0d0e940bcbee0fc3aebf9402cc1bb14",
+        "improvement": "1030e3a66abb58c68b5786013fe603187910936b7e647c700a99f0bf34f72dc8"
+      },
+      "narrative_lengths": {
+        "main": 267,
+        "background": 146,
+        "improvement": 60
+      }
+    },
+    {
+      "source_id": "RS1_079",
+      "jcqhc_case_id": "A88203E6F467D2F30",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "8fb2c9593b91facc10bb555893469263d68a8b03f5fbbc5fbec4463c27d55b61",
+        "background": "297037dd82df30e07be1edeb2bb38b8ab5542446c109891a9fef243bb2678663",
+        "improvement": "d519de67ac08704bde51573f08c8581abb49e35fc196479a56f797e229f38862"
+      },
+      "narrative_lengths": {
+        "main": 77,
+        "background": 60,
+        "improvement": 46
+      }
+    },
+    {
+      "source_id": "RS1_080",
+      "jcqhc_case_id": "A891A11961A78DDCE",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "5cbc0f6840b4d3aabaff57dc86cc5d6e8420f4d065b3e3264917051c8e470502",
+        "background": "93d0e7ea4dd8aad0b9c9351b53f3fb569c13ca30cdf33afacbe7d980f2d00791",
+        "improvement": "249d6da1cae1081a37542ca5ea3af04c8ff9fc42444034304074904f65195ecd"
+      },
+      "narrative_lengths": {
+        "main": 69,
+        "background": 20,
+        "improvement": 31
+      }
+    },
+    {
+      "source_id": "RS1_081",
+      "jcqhc_case_id": "A8A765C632AD3C2DD",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "989ef8d7dc3c967c914f202f1e1eb2772873c529a3bf2cb0ef6f3bfee8c8b302",
+        "background": "0270736f22591732b175599eeb1319069cccf0c76198ce7ae341e1fdf07203cc",
+        "improvement": "d87823e4164d3d42b3b399b62a9d8a0afcd8abd549939befba7b3098eb25b9f1"
+      },
+      "narrative_lengths": {
+        "main": 266,
+        "background": 39,
+        "improvement": 52
+      }
+    },
+    {
+      "source_id": "RS1_082",
+      "jcqhc_case_id": "A8D535792DAE380B2",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "f57b25781d48f5abc02c1a084aadb5c65eb5f567b7414719e58bc65a336e45f1",
+        "background": "91800abd80a1f1bf7844b8969ea202962e4810e4963deee19fc9c535b6d246a9",
+        "improvement": "0a85546bee8f16d5bfcad81f9a76f6c9d891922325d26b32138eee6865b901fb"
+      },
+      "narrative_lengths": {
+        "main": 281,
+        "background": 468,
+        "improvement": 68
+      }
+    },
+    {
+      "source_id": "RS1_083",
+      "jcqhc_case_id": "A97798A5DC86B2713",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "c879aaeaec0d9f004b87d920cd9b80c59d5fa8c5818ad0b040c4a649b9c61efb",
+        "background": "3a1c7116065ccc8ff076df39a19b8a2b7f43be8a0600e1b445295a23ffbad6b3",
+        "improvement": "51fac2600f162ad01d46e023639986ad84495962d1ff39582f13faf48edca5aa"
+      },
+      "narrative_lengths": {
+        "main": 181,
+        "background": 95,
+        "improvement": 25
+      }
+    },
+    {
+      "source_id": "RS1_084",
+      "jcqhc_case_id": "A983B3F796A938106",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "760db10509fa29ce422e483e398cf242b490f13a49aab827369afa986baadc32",
+        "background": "7210b163bc3ff31e5804903a67e5e822be39b353244878ce24b6f65e5da6ac3b",
+        "improvement": "99c41e17445f386aef348560de6282d9a738c36458be6ad4718c2cfb3556edec"
+      },
+      "narrative_lengths": {
+        "main": 193,
+        "background": 223,
+        "improvement": 143
+      }
+    },
+    {
+      "source_id": "RS1_085",
+      "jcqhc_case_id": "A98D9D6A5BEDAABA6",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "0c118ab18584050c15cafc3f841ee89082bafce292c029d54a4c8e296fd79c7c",
+        "background": "5ff4cc375bdf03cf69c4fbf02dd812c19dd9ed29cfa2e368ad3ad1ba582722e0",
+        "improvement": "f8056f1607890b763e7476f6f438aae9356c0ff6fd9d2e00e3fec42b6d1ba3ee"
+      },
+      "narrative_lengths": {
+        "main": 223,
+        "background": 318,
+        "improvement": 93
+      }
+    },
+    {
+      "source_id": "RS1_086",
+      "jcqhc_case_id": "A9908FED25328EC1C",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "7a4d9f6fd05b9708fe7c76b15146b4b685727a007c4ba1ca1789170e16bf96a3",
+        "background": "cc0841ec46fba7609ef6f5d1b4b0fc9fcc8f5bb3a17f56d494b5ef4a6e4aae09",
+        "improvement": "90889f147e76ea9118bea42f02d3402e4472cb269a4f32ee578f188024b21d9e"
+      },
+      "narrative_lengths": {
+        "main": 140,
+        "background": 68,
+        "improvement": 47
+      }
+    },
+    {
+      "source_id": "RS1_087",
+      "jcqhc_case_id": "A99E9089CA2B3F54D",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "32a8dad732a7ca9f5b5ec9c7ad62cc92f68450b3942ab5336056d8430f4e4704",
+        "background": "2b8c62353f44a32299fc3ad744dd19fcac92da2288a01fc69f7e0f376a5369d6",
+        "improvement": "eb0d2d4d8e91e982dbcb2d93e5aa320eab017f45d5ca6ee36cde4deca4d73383"
+      },
+      "narrative_lengths": {
+        "main": 60,
+        "background": 45,
+        "improvement": 11
+      }
+    },
+    {
+      "source_id": "RS1_088",
+      "jcqhc_case_id": "A99F7B4393F066616",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "71c7e60a51d104704bcdccae85234647f71d477be731c4559d903ccbb20d939c",
+        "background": "d1aeea7585e8e2a782bb82a516f7e96794e1365addeda31cb3f336820177e6e6",
+        "improvement": "9d893b2488a53622a73de8975f671abfefc891496674cabb1d179640797f19d7"
+      },
+      "narrative_lengths": {
+        "main": 213,
+        "background": 14,
+        "improvement": 33
+      }
+    },
+    {
+      "source_id": "RS1_089",
+      "jcqhc_case_id": "A9AAD45D25E3840EC",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "6daaffd67809faa621e22135d8d05e9f82c39b2a7e8af1d9f401848b28277d6c",
+        "background": "722f0baa2a63d443dca64d5a8240deaccfdbd75aee8a2bd3b1f6ec22d454ee81",
+        "improvement": "49bdcb49afafbaa8dcca58f0e16be27d4dd6ced2e28cb94e689c5de3e0977102"
+      },
+      "narrative_lengths": {
+        "main": 289,
+        "background": 87,
+        "improvement": 58
+      }
+    },
+    {
+      "source_id": "RS1_090",
+      "jcqhc_case_id": "A9C7015F3C7C6A45E",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "005a2219beacb5f7ca4cbdde264c6f2d435fb8adec8e10a8232e8a6779bb3f95",
+        "background": "908f4198c8d845a11b4fb208818d35e7c30d07d92a3dbb552e807719900634c0",
+        "improvement": "4c7ac88636e90e88d15afbc664575d4640846e144214e4dfd1d97e61f02717ba"
+      },
+      "narrative_lengths": {
+        "main": 169,
+        "background": 5,
+        "improvement": 251
+      }
+    },
+    {
+      "source_id": "RS1_091",
+      "jcqhc_case_id": "A9D23ECD2E165FA62",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "a051065f415502fc27da37f74bf3f17386b99831ef5af53f8a9b637b9987c0a1",
+        "background": "da180b7781afaf4b9a31c673daa5f675d68b83a8ade4c9320de199e1b0d8f7c4",
+        "improvement": "3f887625c979b6cd3a29ca526fe12d69fc570ac680e6754155ab735fd8580e0b"
+      },
+      "narrative_lengths": {
+        "main": 121,
+        "background": 103,
+        "improvement": 68
+      }
+    },
+    {
+      "source_id": "RS1_092",
+      "jcqhc_case_id": "A9DDC7C9AC601F4BF",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "a12b1f4f6b70b3c4cd2e7e0fc32a7437f45f7b57199eee4eee4a70e61334717c",
+        "background": "0ead77ff553dd93483ff09e6989a80f76465de11cb74dad28479d90623942ebb",
+        "improvement": "7667e7213382e9cddc3f402f1187a795ca47264307f07f5f65d42dbc979a2387"
+      },
+      "narrative_lengths": {
+        "main": 125,
+        "background": 86,
+        "improvement": 59
+      }
+    },
+    {
+      "source_id": "RS1_093",
+      "jcqhc_case_id": "A9F014970043B794B",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "89119ff47b662086f2c3139c15732229914c57bb904ffbaaf9c847a680e0c6dc",
+        "background": "afcecb3bd5a8dda107b59f4dba0d7b55aec62b2a1f32d4e8e777f44efceb5254",
+        "improvement": "b27757a1c09f955211f006c6737592003446813f744f00073ab250ae82a86a60"
+      },
+      "narrative_lengths": {
+        "main": 218,
+        "background": 35,
+        "improvement": 184
+      }
+    },
+    {
+      "source_id": "RS1_094",
+      "jcqhc_case_id": "AA0E861062D3083F4",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "ac809de4d7340a00fdbde2fd03b951521d67cec0e5a9ed5b24237f26eca2b66e",
+        "background": "89fcca2df7e2ef2226c4e8db7adb870624df7df5f1f271654c64f7796fa63d7e",
+        "improvement": "9ac8966205f8f568b0a7ea022bfdd568a95973743de0e75e41ecf3d99eb9967b"
+      },
+      "narrative_lengths": {
+        "main": 48,
+        "background": 133,
+        "improvement": 10
+      }
+    },
+    {
+      "source_id": "RS1_095",
+      "jcqhc_case_id": "AA18984431D3D3809",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "9fe2394aeef36b34e30acce0a309d11e7598ace323d3109d73f391476d70f5ee",
+        "background": "69cc5330606b9890ac2415b56fa39edf7b8c746800bae02654b49841a9b36383",
+        "improvement": "5661c850de8f1315b268917a500e66a049d448f0c8ae8ad28119d762386b7b48"
+      },
+      "narrative_lengths": {
+        "main": 82,
+        "background": 188,
+        "improvement": 216
+      }
+    },
+    {
+      "source_id": "RS1_096",
+      "jcqhc_case_id": "AA299CCB8CB0AC19D",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "3f53cc4fb1603674d1c15ba825fc0e3fd430427dbe8a80b3098690d170071121",
+        "background": "e3f58f9fb8754776e897e6486d9fb47b483d3abd1277045f99fbf4b09af245c5",
+        "improvement": "ef8ea48db444cee5f1118307d05e7cc3c52738bc04f6e9568d910f14a118a422"
+      },
+      "narrative_lengths": {
+        "main": 244,
+        "background": 68,
+        "improvement": 106
+      }
+    },
+    {
+      "source_id": "RS1_097",
+      "jcqhc_case_id": "AA7CC4B2F209D5422",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "aa9196a3fd4cc37c39e53936615cb74855b7dd7229199d112682fad5d9cd7f9c",
+        "background": "6b45ad39587989a54002fcb3e0d22e844e36cc5c5b1ce3092ae29e5574ca1988",
+        "improvement": "2ceb0f18706f73421eb0440bea04a9983b4e74c3069d05d6f4ba7a50398e1ca4"
+      },
+      "narrative_lengths": {
+        "main": 498,
+        "background": 79,
+        "improvement": 43
+      }
+    },
+    {
+      "source_id": "RS1_098",
+      "jcqhc_case_id": "AA8E109C7ECE092AC",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "ec509aa88710b3f7324a4f30c820c36ab19572900c4ce61a2aab0aa5c5dc2821",
+        "background": "073b651784c90c7169b0470629422d75ed3fe29b8416cab96209fec9538f590c",
+        "improvement": "4cdd861b1ce16ddbb7aaaa5b281666e31f1830718a2791e16b5ce2f8ee27b82d"
+      },
+      "narrative_lengths": {
+        "main": 180,
+        "background": 203,
+        "improvement": 137
+      }
+    },
+    {
+      "source_id": "RS1_099",
+      "jcqhc_case_id": "AABD5597ECEF5DE8D",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "7877f8204e8be24c758404286faa5a8a1c0f4389ef95613c80946099c26db732",
+        "background": "2aa9d49417375895bf8657a15a95c736a7a5894d282f9a6156609a370921d2c4",
+        "improvement": "e417eaa857b12ff5d31940a10bacc839497c77edb586d016df3af733aa5c9e68"
+      },
+      "narrative_lengths": {
+        "main": 171,
+        "background": 101,
+        "improvement": 50
+      }
+    },
+    {
+      "source_id": "RS1_100",
+      "jcqhc_case_id": "AABFDB2A6188721C9",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "3de64f2aab647362da6fdeeb0078549261aa145dff7d54f5a02e9dadd67503ca",
+        "background": "7eb5ae9886cb0ce5ac6fbc98ae3b8bab910c861e091d7366c3380982db3d5f8e",
+        "improvement": "516c5d25ffa78678b8f14140eaa7e1670510441d7d2831f5d07894fe45880719"
+      },
+      "narrative_lengths": {
+        "main": 81,
+        "background": 48,
+        "improvement": 80
+      }
+    },
+    {
+      "source_id": "RS1_101",
+      "jcqhc_case_id": "AAC96C57F0180EAB3",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "d4642d08d3d8baa745fdcf4164a9edd0f1907f812f5140ca285bcfbc0d774f39",
+        "background": "30a60fa3abd6ea6b7b343e5f3a67ff6eb1893b2d85fccd81cab8a7791102fe32",
+        "improvement": "ac001205d49eda19463df7ea9ae7c71cd2819b7e0b4eec95aa7d7ee3081ee934"
+      },
+      "narrative_lengths": {
+        "main": 289,
+        "background": 424,
+        "improvement": 253
+      }
+    },
+    {
+      "source_id": "RS1_102",
+      "jcqhc_case_id": "AAF7CBDCD02D0DD51",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "0b525031a9b75aa53b741a81b089f91102ddf7cc2f2c33976060eb82377a32fb",
+        "background": "c809afaafbb8580f083a5ea3cfa4cbf88a71e1129f30b0f45c33bfe8e6826b9e",
+        "improvement": "309184ea047bbca61c76313951276752002416e251af251bdf908710b9c0be43"
+      },
+      "narrative_lengths": {
+        "main": 197,
+        "background": 41,
+        "improvement": 141
+      }
+    },
+    {
+      "source_id": "RS1_103",
+      "jcqhc_case_id": "AB102157A16AC39D1",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "c8040cc32e69c3996ffcd0f70374e5c04402f8ba7cbecf5c0f31b3a1e6c5af0c",
+        "background": "0b67d8c18c2dfde3bd74eb07a67af95724d953a44b3449d756a3a24be63bfb6f",
+        "improvement": "9460b8c7eda399584b10c3b2246456b79de748b87c20bb3d4bb43fef9522d200"
+      },
+      "narrative_lengths": {
+        "main": 999,
+        "background": 503,
+        "improvement": 59
+      }
+    },
+    {
+      "source_id": "RS1_104",
+      "jcqhc_case_id": "AB126FA5733D3B591",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "91a3226c7f5082788acc774c50cef63123a57aab0bfc0655d7080b840caad914",
+        "background": "1e60732b389e2bad793212727a78fd378cb23b3a088267e897d3d11ea145bb99",
+        "improvement": "3c169f7b2b7fc021f6a7f8dcf159c1ae268581a554281a23da9595e71741639f"
+      },
+      "narrative_lengths": {
+        "main": 139,
+        "background": 430,
+        "improvement": 56
+      }
+    },
+    {
+      "source_id": "RS1_105",
+      "jcqhc_case_id": "AB50AAF95AA2BDF9F",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "316455f15c8a09b32d3aad87c6d8ab768dbc2072bc66a80b8ca3d1b23025c7be",
+        "background": "ecbb10a061000abaa5c906c982f91556acd3e02a75845bafbe020d484230edc5",
+        "improvement": "c7d89471da365dc1212978da54c10e38f33ec70d83657b7c63bc7652e9fc5762"
+      },
+      "narrative_lengths": {
+        "main": 309,
+        "background": 349,
+        "improvement": 199
+      }
+    },
+    {
+      "source_id": "RS1_106",
+      "jcqhc_case_id": "AB559A8E4ED51E1F1",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "7bf86750c8e1cae43846c1060b2e79894e7fa82512ec89e0b4980d4da20c0457",
+        "background": "1a42ddb99b2f31030960a066787407a47cba64f4bcc2c1f41050ffbecd7ecc37",
+        "improvement": "0d5b9c98199118607aaf3137b98f0dab4246b5cf17512f19dba4a4e3ff7a31df"
+      },
+      "narrative_lengths": {
+        "main": 447,
+        "background": 245,
+        "improvement": 188
+      }
+    },
+    {
+      "source_id": "RS1_107",
+      "jcqhc_case_id": "AB81BF5DEF7B95706",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "1661c99556514cda6df14733c0fa1cbd06625fa309b6fee71fc1a418701e79a2",
+        "background": "5f4a5f5aae8a51c8dfaf51d770006e4c3479872735301f1c15ef531ace023de9",
+        "improvement": "911929409baee6b3bbb8f5f853ee4595cac187d7505ac3a02db329551d8b23a3"
+      },
+      "narrative_lengths": {
+        "main": 347,
+        "background": 587,
+        "improvement": 112
+      }
+    },
+    {
+      "source_id": "RS1_108",
+      "jcqhc_case_id": "ABABB8A9BDE1C4081",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "33223da2c3ac21b2987673ed8b9777e4a4e113f85ea049f57ced6381a59b6f79",
+        "background": "fbfc2923af2a690079dfaff9a0c522f96a36d549c38ca59bc0ef10c1eecee012",
+        "improvement": "fd979a6142d63fd3f5f3eb39306a4c956bbfed04a4679640b94f00ddf0879031"
+      },
+      "narrative_lengths": {
+        "main": 780,
+        "background": 382,
+        "improvement": 92
+      }
+    },
+    {
+      "source_id": "RS1_109",
+      "jcqhc_case_id": "ABAD21B62880DF9AE",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "332aab0b0f7029d7c623fe13e6a94e5f9fbbc2206ff5b6c08bc577f485c64c20",
+        "background": "dddeccbb248e6729e7c4122dc09fbc2d81ca3e9450ec7aa76d476daaad248cf7",
+        "improvement": "b0735050f62ed7e3d3e4332d044c5704892a937482a5a4fd7b7448d7f441e276"
+      },
+      "narrative_lengths": {
+        "main": 185,
+        "background": 15,
+        "improvement": 29
+      }
+    },
+    {
+      "source_id": "RS1_110",
+      "jcqhc_case_id": "ABB01193B84146426",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "1afb119d838de5e3d4dfecb37166ca6186d3afb1ccfcb9373a30b022d34639d5",
+        "background": "163c83812658e8cb5e14131c78252c38c0acc97aaa1c3bb5ad41b4f39426ab5c",
+        "improvement": "9d2455eaa99ad73bd8c01ff573cd21e32db4f17ec547d86489e9277f11bfcf4d"
+      },
+      "narrative_lengths": {
+        "main": 198,
+        "background": 157,
+        "improvement": 56
+      }
+    },
+    {
+      "source_id": "RS1_111",
+      "jcqhc_case_id": "ABB18DF0E7309D8EF",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "4aee4917c61a350db37a5678c7f4ad1a990cefea2fde8409068f8ce66847d685",
+        "background": "a402b0d351c200d56174f7d5c04081c340579cbd169d54b72fbc1804117705e6",
+        "improvement": "86af6da7fa9ba8f19c6126620e4e3e6dfe4c37d8e3a8cae4b4015b07d53b2ddd"
+      },
+      "narrative_lengths": {
+        "main": 140,
+        "background": 100,
+        "improvement": 20
+      }
+    },
+    {
+      "source_id": "RS1_112",
+      "jcqhc_case_id": "ABBA92101A0BD08E4",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "490b5b543933a475dbc3b794eef74a4818a32b2b9c49f403e61f648a21a01c83",
+        "background": "6c154114bcbcc7163f449bbf2b921682a77733a0ff243a4d95d0d66ccfcf37e0",
+        "improvement": "88688836e54d893a4cd13ef36930517f0fc942537bfbd08d9321db5f702b2574"
+      },
+      "narrative_lengths": {
+        "main": 354,
+        "background": 143,
+        "improvement": 83
+      }
+    },
+    {
+      "source_id": "RS1_113",
+      "jcqhc_case_id": "ABC9F136C03DC67DD",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "7caef2cd0faac70eb41a3dcde52527dce694a9095875dfe37404c53b30ea1ce2",
+        "background": "86e910c248109a369a41e66ec4ab39e9bd9e165da8c1f122d6f8537ccf99d312",
+        "improvement": "830c07a43c238c70bcc81c5f2cbd265f964406403a1f1e8f00ae9bd89e6b4d6f"
+      },
+      "narrative_lengths": {
+        "main": 443,
+        "background": 242,
+        "improvement": 112
+      }
+    },
+    {
+      "source_id": "RS1_114",
+      "jcqhc_case_id": "ABD1CA796A1B1792D",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "3e5fb116345e8f8a204fe7b75cfcd86aeef6d9c9c9d0f674fc9427ff30c6b3a8",
+        "background": "47ca2c2f0de054dd6c250253da892076d7be202ed98ea450e97300d72b056049",
+        "improvement": "31c3ef4b1d1958daf3d6ad194e52ef2ff57e0f29b3292229f2bd0fc0dab0d6bb"
+      },
+      "narrative_lengths": {
+        "main": 238,
+        "background": 78,
+        "improvement": 50
+      }
+    },
+    {
+      "source_id": "RS1_115",
+      "jcqhc_case_id": "ABFED3A5F62AD13D6",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "4f95b102e9908eb52eb49e19466726cbe0880ccf3e42ec5eb1f861cf77924a88",
+        "background": "645e4a5965d4b1b81241ea361311536fd78dd173b0071f742829f147590cfff9",
+        "improvement": "8469958272a0c24aa076454862cce9bd63bb2886c331462e702d9504de2d1adb"
+      },
+      "narrative_lengths": {
+        "main": 169,
+        "background": 64,
+        "improvement": 65
+      }
+    },
+    {
+      "source_id": "RS1_116",
+      "jcqhc_case_id": "AC0928FBBAD1EFE24",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "82b492e06caaa1c84b1cd5088c3928be99760dcd27a9650906a4fcdb1b474a0c",
+        "background": "1798ae06ea60ba0d10ece298aca7afd26cc3b490d82d0e978739b1dc158be4d7",
+        "improvement": "e0f8a306da11099f0ca323315af1bb524187bef70923d6f4450d195418cb8393"
+      },
+      "narrative_lengths": {
+        "main": 226,
+        "background": 180,
+        "improvement": 116
+      }
+    },
+    {
+      "source_id": "RS1_117",
+      "jcqhc_case_id": "AC13E772B3E44336A",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "8bc749af1fe6564280ee6153d1d75e983155ec2efdec7e6c6d2ab30cd6ad3897",
+        "background": "a4a7a955b118fbc24c1e4cd81fa0b0cf896037ec101d246d75cb9ec7967f9b53",
+        "improvement": "698b0b5067da66353d078730e7b3372762850e7564b0d966f6e7c794a2779f68"
+      },
+      "narrative_lengths": {
+        "main": 132,
+        "background": 89,
+        "improvement": 59
+      }
+    },
+    {
+      "source_id": "RS1_118",
+      "jcqhc_case_id": "AC38BC6056FA88163",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "e1903979dddc8b1079313b22e95e0472ab41694ce4c6e587bb0241402bdc2d5a",
+        "background": "7c8272f2df6d33ea39d1c4bbd27aa7eb87464212372fac85664dca12f3c15932",
+        "improvement": "3d599e474e887966c20fea8860a20aed802c1a1d290d578e2f27690a4d6a7b89"
+      },
+      "narrative_lengths": {
+        "main": 981,
+        "background": 880,
+        "improvement": 127
+      }
+    },
+    {
+      "source_id": "RS1_119",
+      "jcqhc_case_id": "AC3D3A53243D44B84",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "5a858a576803f7f69666f3f7fdde64b91ff9f784751222c1a2467efe940cbd6a",
+        "background": "17e3b5ac5a30b8ff9729966a8f5ca8e7db2a29a818a37d14724f43fd0e848da7",
+        "improvement": "55e0288dc5b9a0d464c518bca8450d73ce510d43a5b37c6c79c1454b4a62d44d"
+      },
+      "narrative_lengths": {
+        "main": 316,
+        "background": 85,
+        "improvement": 97
+      }
+    },
+    {
+      "source_id": "RS1_120",
+      "jcqhc_case_id": "AC809B3CBB24E8876",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "9901419e95a1f66c170f5bd3d57d5055f88fba4d2a0a804c6fd4c61bee766af2",
+        "background": "16ea994cea0dd028f34c65fe8223ab8fba3742db552e3b4e07daaf7885f65d48",
+        "improvement": "e522a1a97e62d4b2ffbe4d149f389dfed785590fadcde70643930f7f5b1dcbd6"
+      },
+      "narrative_lengths": {
+        "main": 187,
+        "background": 131,
+        "improvement": 167
+      }
+    },
+    {
+      "source_id": "RS1_121",
+      "jcqhc_case_id": "ACAC561D86F1ADEB7",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "0f2db36afa1917fee5b3fe54070ef80e8cf76e8159e81e4dbce926b8c4c8c02f",
+        "background": "4db5f023815343685bdc2df4a1f784bc2eef6eb1ab265699667c8899a5657a7a",
+        "improvement": "3b2ffc17e34703263e9a2194e14903a47521e89546b2103a49ccfe9c3891170e"
+      },
+      "narrative_lengths": {
+        "main": 465,
+        "background": 171,
+        "improvement": 35
+      }
+    },
+    {
+      "source_id": "RS1_122",
+      "jcqhc_case_id": "ACBBF04264FE478AA",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "2e4b5cb2e453a02dabaaa3d7e42e842af49fefb4162a7ef1865ab3ab4a8afbed",
+        "background": "8abfe0eeb20af8031bb9bda3c1618fadb685fbb3fc2e368658d531212de6d40f",
+        "improvement": "bc15d2cf9664c262f2698a0a69dcfd97eaf71b6a2341bec1ed42443d8264d75d"
+      },
+      "narrative_lengths": {
+        "main": 217,
+        "background": 141,
+        "improvement": 42
+      }
+    },
+    {
+      "source_id": "RS1_123",
+      "jcqhc_case_id": "ACC79784E0AC0853E",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "6295b2cd68557846c472f944af614ee922bc35497ace62d75f8532fe04d16945",
+        "background": "d35e8db2cd56d09ad04ded0a9b263b7b9d84cf4f9d2ad8fb6313d87b8ed99979",
+        "improvement": "820896316a949eb5942f42910a9e3b771a3624e76d39b638e6378b116dc0c550"
+      },
+      "narrative_lengths": {
+        "main": 825,
+        "background": 243,
+        "improvement": 220
+      }
+    },
+    {
+      "source_id": "RS1_124",
+      "jcqhc_case_id": "ACE80DBC04E54836C",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "8989fee67d227bf6a3d85e00bc8e1b1582ad1abccf80d2668676551fcda8d5f8",
+        "background": "d55272668ad2df5b57f4a86388cf7c93b116f1347e2d3ffc78f365e2f9788fc3",
+        "improvement": "25469cbd3eec5f694ccf42b2c2b3b64c1dd1c85bc3d87d5af92ad3e8a58d3078"
+      },
+      "narrative_lengths": {
+        "main": 298,
+        "background": 120,
+        "improvement": 103
+      }
+    },
+    {
+      "source_id": "RS1_125",
+      "jcqhc_case_id": "ACEDC91E563E06EE6",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "ef698929db85fadd7c2b01e420afe97b12e9d6d928479d77d21eb57da67188f9",
+        "background": "fb673c087abc1e86a183601ea00c4481489f34e58db5f9f802ce775b5ed71445",
+        "improvement": "aac44ffb68df202fa98792e34c67fdae61500b14575212a7fd49b4a37d0edc06"
+      },
+      "narrative_lengths": {
+        "main": 211,
+        "background": 365,
+        "improvement": 129
+      }
+    },
+    {
+      "source_id": "RS1_126",
+      "jcqhc_case_id": "AD2CCC3FA49E462A7",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "3bec1b075ba5ec934d3bdaee088953ab02c34d3b9f2fc2875d46e66181524e4b",
+        "background": "a7f81771e85900995863bf6adda3399e7dc57bae148b54782e78518eac3d681f",
+        "improvement": "8f352ee5f6299ca0d4f86cb0e971da4c3b36557f509f9650ff9110532a4b05be"
+      },
+      "narrative_lengths": {
+        "main": 276,
+        "background": 102,
+        "improvement": 121
+      }
+    },
+    {
+      "source_id": "RS1_127",
+      "jcqhc_case_id": "AD3877F6464FFFE35",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "2f83129ed6ca715713427313ac97edd6b9a6ebc9d2d754fc1906c52d0536708a",
+        "background": "53a0d129d6dbcc65a5ff82706b566b3970a2939c15d1066e3968b9fc2e699594",
+        "improvement": "58f68677401a24d590bd5101f0bdd61016296eda046fa725e3b965fab2ae17b8"
+      },
+      "narrative_lengths": {
+        "main": 147,
+        "background": 128,
+        "improvement": 43
+      }
+    },
+    {
+      "source_id": "RS1_128",
+      "jcqhc_case_id": "AD408F3A4D5243B9C",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "46909004f2b12173196cdb0e38c35ee3ccf39324655318a06f2076522e4c6fc8",
+        "background": "e165d1101fffb14b910e2dd6c98080ac34f4c2d6e27cda9178a490516d4d7c53",
+        "improvement": "399cc22871a8d989fe0f397b67c1358ed50122be7ac2fca3f23346e83fc85ec8"
+      },
+      "narrative_lengths": {
+        "main": 265,
+        "background": 88,
+        "improvement": 81
+      }
+    },
+    {
+      "source_id": "RS1_129",
+      "jcqhc_case_id": "AD756819EBADDBCCD",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "bbbdd9a97c9ba3f675094c67faf95c97df830a0cb1ee7d4c0478fad07c40d0e6",
+        "background": "cb5583794ad46d232a646f2fd456b6c67163ca31f2055d19d567d8c3c63e46cd",
+        "improvement": "51028efdf5c8ee4372a1f77d285e63755ba6570a78ca7d19f4ff369ce252e991"
+      },
+      "narrative_lengths": {
+        "main": 185,
+        "background": 71,
+        "improvement": 88
+      }
+    },
+    {
+      "source_id": "RS1_130",
+      "jcqhc_case_id": "ADA1C3AA4456EB040",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "846a4f1df16b09b55a7a0fb9468d9e0a9c96aa456abc190b97eb68f757019e6f",
+        "background": "5fafbc57ba895f0427c9338198ecec4f79bfd63e62ade14eca746127f23590c3",
+        "improvement": "8caaaad6e71b4c9be6fc5a3b8e82747622b731d95abf4a3c3707d53458073b23"
+      },
+      "narrative_lengths": {
+        "main": 636,
+        "background": 59,
+        "improvement": 56
+      }
+    },
+    {
+      "source_id": "RS1_131",
+      "jcqhc_case_id": "ADA93D7093651A50A",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "de196f03a3fdf2913724a8cfacbfd9decd1e03e2db490e7d7934bf48c654e1fe",
+        "background": "f2cef6dbf2befcdecbf10e23bd789d12187790ddcbde0fd8bf2c9674c4320740",
+        "improvement": "4fabf4d7b16b1eeda9dbfb2559a20ee11331d5e3ac27e35c750466bc080cbfbb"
+      },
+      "narrative_lengths": {
+        "main": 461,
+        "background": 128,
+        "improvement": 67
+      }
+    },
+    {
+      "source_id": "RS1_132",
+      "jcqhc_case_id": "ADAB7AEED8577D957",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "f77c96a09e73940c0ec886ebcd61890da6b6bf1f1b79fd7a213859c0b2f202b6",
+        "background": "ce75c6270e737717fc41bacb4bb2239ea5b7d54411ff05c369adfcf98ecbc3bf",
+        "improvement": "34999a55ce3aecd34815bea15d695f6581339ae090a92989c7b6b89adb22af8f"
+      },
+      "narrative_lengths": {
+        "main": 167,
+        "background": 96,
+        "improvement": 120
+      }
+    },
+    {
+      "source_id": "RS1_133",
+      "jcqhc_case_id": "ADB852AA49336A4B6",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "8635ac0f2c9a7db68c003fd78f578e2275e54e52b6a80f8b49f27cad9f72a8dc",
+        "background": "57d46f2192229b3a4848ae6cd38c7b069e541f38729d6eb8d0f99de2dda7190a",
+        "improvement": "a5806089ef3d586270353579041c73357834366fceae9556e027135d6ed12129"
+      },
+      "narrative_lengths": {
+        "main": 200,
+        "background": 208,
+        "improvement": 180
+      }
+    },
+    {
+      "source_id": "RS1_134",
+      "jcqhc_case_id": "ADD1D30D5D5122434",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "69495d11e4c0fe7d2f9db4087d65c745af9e21eccbc363dc91ffd0f162193d3a",
+        "background": "8ffd256ce40d7d2f7bdfd777192b26fdb67006eccea2dd7d4c3ef1263b9588fa",
+        "improvement": "55bf1339bd324cf6c8db86dbe2296d84fdafb646dc65b4f089db9ad1798af788"
+      },
+      "narrative_lengths": {
+        "main": 172,
+        "background": 27,
+        "improvement": 19
+      }
+    },
+    {
+      "source_id": "RS1_135",
+      "jcqhc_case_id": "AE1368425B100135A",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "97e48fbb657cc3199da1b7e809d673ee4c88b9fb4a7374bc5f7c4064d59fcbcb",
+        "background": "e0877890f13786fe3e3c2c1d9c091e06a3d3d157dd27943a298adbba7c26add6",
+        "improvement": "9ce7285f9b3c6fb21130845647038a0d61d80b0aa65aa3216d6f4985c748d602"
+      },
+      "narrative_lengths": {
+        "main": 143,
+        "background": 176,
+        "improvement": 87
+      }
+    },
+    {
+      "source_id": "RS1_136",
+      "jcqhc_case_id": "AE3850BE47840C767",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "91273b9cb34bdf594c59d2fe529b7515ae42031c17dd55571a5a1df68e5f2a92",
+        "background": "838b67dd5dabcd538f4d6b1c716bcccddccb3cf7f8c88a358f07722b64c5474d",
+        "improvement": "e1c6b840a34d588d02813f956ee93ae971d9a8d995c52a845b0ada89e6971ebe"
+      },
+      "narrative_lengths": {
+        "main": 129,
+        "background": 149,
+        "improvement": 122
+      }
+    },
+    {
+      "source_id": "RS1_137",
+      "jcqhc_case_id": "AE552AA3ED2176C19",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "682ea1730bad331cdcdc9f76e065cc8206d7ad88fa46bd2f44fb9416e32f9f7c",
+        "background": "8054883f992e645da41863525fd05ad463d15474bd7b862bee2738af16f28a67",
+        "improvement": "ce817025ec59ee3ab58af847d225efb9b334fa289795d62291c050f99dac73cc"
+      },
+      "narrative_lengths": {
+        "main": 90,
+        "background": 43,
+        "improvement": 42
+      }
+    },
+    {
+      "source_id": "RS1_138",
+      "jcqhc_case_id": "AE69176DCD4CE72A3",
+      "source_file": "MedicalReportPubA_2018.csv",
+      "source_file_sha256": "0a720f18185fd2204c3459baa846272534cb2fd593dfb938d061308e4f015f04",
+      "narrative_sha256": {
+        "main": "34541a88805f7f585e71db13383ab7d86cd57946d47572b077d5d1ddb69f3e6e",
+        "background": "34d9fac9410b3c94b83805f3eb09f8f5249cb91a9c7d8d1fe62c6f647f09dae3",
+        "improvement": "f6c452bc946a9e2dbee3f67ddf3baf0a22256cfe43540dcedc59ed80942b154d"
+      },
+      "narrative_lengths": {
+        "main": 180,
+        "background": 107,
+        "improvement": 50
+      }
+    },
+    {
+      "source_id": "RS1_139",
+      "jcqhc_case_id": "AE6D75BFD807E75C0",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "6a3a4d321a3825dc39acdd73579de9e34f7eeaefe60fefaddecc3ebb5bea15ec",
+        "background": "cc2dac1a272f6cdf3471a343a70959250105f3f925e37ccf93a548bccaa02afe",
+        "improvement": "c9569b9a7399e47d5887a28887eaa84fe533597d837698a07a5b52850a2ab7ca"
+      },
+      "narrative_lengths": {
+        "main": 1047,
+        "background": 353,
+        "improvement": 238
+      }
+    },
+    {
+      "source_id": "RS1_140",
+      "jcqhc_case_id": "AE8CEC22A96D69615",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "897a9aa4dbdea470fb76c41ff0209ed95718c8672c2994f9a6dca4f78bf29486",
+        "background": "36fb9804fe3d9dddfebbc7c18747d6d1894c1ab43d3f4e564156f022e65bd597",
+        "improvement": "16beb1e774bf229829eda67a8a1008e5e2cf31847514eeb5978e8f13e71b200a"
+      },
+      "narrative_lengths": {
+        "main": 109,
+        "background": 78,
+        "improvement": 44
+      }
+    },
+    {
+      "source_id": "RS1_141",
+      "jcqhc_case_id": "AE9FE360EF6EA869C",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "304c19c515e89b57150b39cec2056385ab91d79679eecd64863d64f805d956ee",
+        "background": "e49d4f52fcce9ffac264558a4e993a68265b47212d9dedc38779bf59914dd8f7",
+        "improvement": "7face80a6268882e6fff24d1307e5754c71eb2340d743306d1c18eb67e02cf44"
+      },
+      "narrative_lengths": {
+        "main": 365,
+        "background": 76,
+        "improvement": 190
+      }
+    },
+    {
+      "source_id": "RS1_142",
+      "jcqhc_case_id": "AECCEE787A6356B72",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "afdecd96aac8068552f9bd700bc6a3d120692ab28a249f971a78038099831898",
+        "background": "f6ec608ca59c5f14cbde3d1bb47d15736346a214fca22a3b9425cc2301c50d65",
+        "improvement": "dcedb0872f7d0f5596368051a7fb116c6a9d33c01039547e9cd9d80755db9c5d"
+      },
+      "narrative_lengths": {
+        "main": 58,
+        "background": 49,
+        "improvement": 16
+      }
+    },
+    {
+      "source_id": "RS1_143",
+      "jcqhc_case_id": "AEE0219080AF346B8",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "1542dd13c8eca6f08951b956e5c12c6fe5a84e97f9d21997af26f5dbbfc97eaa",
+        "background": "3a777d340852c8bb143f296ae05d32f361be943cc5f886d3a4a81ac9d2e34cc4",
+        "improvement": "bb204e3e3ebbfa3f75d2ff62f284fc3e860b3763d90f6698ffd1dceb4acdff00"
+      },
+      "narrative_lengths": {
+        "main": 531,
+        "background": 28,
+        "improvement": 136
+      }
+    },
+    {
+      "source_id": "RS1_144",
+      "jcqhc_case_id": "AF0178D0676B5A83A",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "c5043057fa38837cd0b097d5f044b8d977f535184359aa3fcd8d5ac9e7c19473",
+        "background": "72c181d77d5e1c3e0c72f0dd1967c438e32a5bb319bb181c098d6ea4f85b3203",
+        "improvement": "b9aa0ba0e9f8df1fd30842e3c538c0ecef9f8cad1efbc4f3a97dc8de7137c28a"
+      },
+      "narrative_lengths": {
+        "main": 318,
+        "background": 199,
+        "improvement": 121
+      }
+    },
+    {
+      "source_id": "RS1_145",
+      "jcqhc_case_id": "AF05843F614DAD29D",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "76ff313df64ad954ea63385e30327ba6ee92691e1d213a5df0e9af386467d48d",
+        "background": "86a0ff051d9f4ce5f8dd56b747070ff6db10f4fb6b45c3138fb7f4b506735651",
+        "improvement": "c90df17a42a4a5de196a60f1c9a3526812cb6a991e98f4a7ae7caf50796ac24c"
+      },
+      "narrative_lengths": {
+        "main": 282,
+        "background": 170,
+        "improvement": 208
+      }
+    },
+    {
+      "source_id": "RS1_146",
+      "jcqhc_case_id": "AF0A7966084B1CA03",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "a287c1134b2b48f775a1bdb11c19b8e64d6a9f579e3deac60e8d5df79d2c1926",
+        "background": "781ed2baee9155d568e0b2107c79a392a0c02d06ce7cb45a2747c5627e9f1572",
+        "improvement": "ca317cdd1931cc4c57f4994e9b7b26f09d0e52a710c1ceeeb55b6040dbe65915"
+      },
+      "narrative_lengths": {
+        "main": 174,
+        "background": 149,
+        "improvement": 167
+      }
+    },
+    {
+      "source_id": "RS1_147",
+      "jcqhc_case_id": "AF3D66338C508DC95",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "176a118d92b108a2a8b30501dda7e87b75cc1a2d4bf0016bd2d306f7bbcfd282",
+        "background": "de701a248fa0ca5dca56d0d9c9349c1e0a9e25f84633a6235de07f824422365b",
+        "improvement": "148903306b87ab0bd19740c6487b9c414a86535d7145999e9c9980cd05cb76bd"
+      },
+      "narrative_lengths": {
+        "main": 85,
+        "background": 26,
+        "improvement": 79
+      }
+    },
+    {
+      "source_id": "RS1_148",
+      "jcqhc_case_id": "AFAE8DA101508FA2D",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "b74428cd9bf058c6204342c7b53733d1a4e71b631c56a97244a87c29e7698a3b",
+        "background": "0fbe6c6b9f0e7a86970c46fdf8ddb47c1e8a3fccea82ffd1e67fbf2fd1a42597",
+        "improvement": "82cb8141ea51ee11ce97e80e6dc92140c6adf2f369ee40715e6e91bbe7d44004"
+      },
+      "narrative_lengths": {
+        "main": 727,
+        "background": 145,
+        "improvement": 104
+      }
+    },
+    {
+      "source_id": "RS1_149",
+      "jcqhc_case_id": "AFB593FD0A07CECAE",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "53f8a9474368cd4a2fcf6c520fa1eec3101c4cc9244a8be1554ffe188c8feb57",
+        "background": "868c24b0036f4db880d76d2d36c8c668ea03cf224df545196b895907490f6f26",
+        "improvement": "8917918b27c1f52279c1d3cae65c4568e8e62e6de1b9902082759eb0a7f4aaaf"
+      },
+      "narrative_lengths": {
+        "main": 220,
+        "background": 534,
+        "improvement": 212
+      }
+    },
+    {
+      "source_id": "RS1_150",
+      "jcqhc_case_id": "AFC322EE8EC6E8327",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "01045ffca9a098ea128c6f15f7d3fc4916f7814fd33664f259015ddf116b6c16",
+        "background": "478870c84b8aaf0b96817ced5900fb51d296a588f5fb1a6b30a8855c20800c9e",
+        "improvement": "fabed991e7b9ccd03094148f12244c73d6efbc4d2ab1c211099fdf503f8a4fb8"
+      },
+      "narrative_lengths": {
+        "main": 370,
+        "background": 100,
+        "improvement": 54
+      }
+    },
+    {
+      "source_id": "RS2_001",
+      "jcqhc_case_id": "A07DCD061B83BBB07",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "d6061b5777c2f1aaa196e55d3b524d093137b285d69207291e34daa9b8612719",
+        "background": "b2041f563533a6fffd7fc37b1feeae2737f986b7a4cee68b0d7ee22a3a7e5f89",
+        "improvement": "0ce94cbab86daa7a9279579911ef417cce6c89fed0f4cfd4878fa0d25856b5f8"
+      },
+      "narrative_lengths": {
+        "main": 125,
+        "background": 432,
+        "improvement": 141
+      }
+    },
+    {
+      "source_id": "RS2_002",
+      "jcqhc_case_id": "A0DA3683AC246D567",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "9e4f49fa7a47a042ccd4569147e2834c6f0f9a08c68e0b4e8160267919ca2966",
+        "background": "9d2be0022bc7d2678b16997342aef5c1c21a8f1565e7f0c1cc4aff842f9e5860",
+        "improvement": "143aa02557831f493f670060de00ca49307d7c4f3310e4f8d980129c14488095"
+      },
+      "narrative_lengths": {
+        "main": 589,
+        "background": 307,
+        "improvement": 167
+      }
+    },
+    {
+      "source_id": "RS2_003",
+      "jcqhc_case_id": "A11F8799C16877B18",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "713055d561fb2f953c7369cfb820c61dcd5ec408f9409718713760a7a2dda1df",
+        "background": "a7d40f6110aa36e1f83d4a87555669d132bb663b6558767728cfee2ca4d6c011",
+        "improvement": "5c7d3b6278a9e2be69f33f499bf4bc24014066d90bb74e01d4d1b08ac03e859f"
+      },
+      "narrative_lengths": {
+        "main": 220,
+        "background": 38,
+        "improvement": 67
+      }
+    },
+    {
+      "source_id": "RS2_004",
+      "jcqhc_case_id": "A13DDFD83672683CB",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "d054246c8219e4f5b356d35409f443d39f9259030bbdb1738b5366597c86e33e",
+        "background": "ebe2a5c2d8dad71c635d7ef2b8ac521db8f096b7ade0071bef192e285f2a157b",
+        "improvement": "764084c2ac1bd7fd7772b7ddebbc5ef347e3f0280d7138058c3ac4e2deda1b35"
+      },
+      "narrative_lengths": {
+        "main": 139,
+        "background": 198,
+        "improvement": 20
+      }
+    },
+    {
+      "source_id": "RS2_005",
+      "jcqhc_case_id": "A171479BA38E38329",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "75401cf67a5891081dc22763dcec189dc03347577062fcb3282e34efae070e7d",
+        "background": "c2487be9a9ac8030f96ad74cffde2b4f149fe2cb0546e099f2e30a82a884037f",
+        "improvement": "7b070062dfc4778f1c764d5fcfe0626b0b3cd1bfc601ca74ee3f94ebd4dadba6"
+      },
+      "narrative_lengths": {
+        "main": 350,
+        "background": 45,
+        "improvement": 205
+      }
+    },
+    {
+      "source_id": "RS2_006",
+      "jcqhc_case_id": "A180F1C43F0309845",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "60dd92fa3b4e89e527d8e7ec9071bae926af0209da8f28c5745a398c0b03df73",
+        "background": "a94c160678c18cf0e3b2298375635ed8ef4a49823176c11af2246f8b1424b456",
+        "improvement": "676beb82adfa5e38da9d4275feefdfed33d7d9acdbbe8bd6e60349e155c06dc6"
+      },
+      "narrative_lengths": {
+        "main": 143,
+        "background": 106,
+        "improvement": 157
+      }
+    },
+    {
+      "source_id": "RS2_007",
+      "jcqhc_case_id": "A190705BD272351E6",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "4a96106e80ae8aa4ae67e98dee2257a08c9a03cdefe11cfa6184b9f940b2684b",
+        "background": "08c84156cec57213a894c53dd313cf1239089f5af4f30cf246e50d95b056a0e4",
+        "improvement": "5836799e099339e82cba0d0c8b2349512fcf5356b2432284d7265cfc2fef0c40"
+      },
+      "narrative_lengths": {
+        "main": 327,
+        "background": 150,
+        "improvement": 124
+      }
+    },
+    {
+      "source_id": "RS2_008",
+      "jcqhc_case_id": "A1A6ECC81FBF423E0",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "b7f77757b8b95ee2bb944204e29385103c2e5531b25b08b4a162e3819e6c7163",
+        "background": "c3d3f1006d28810b88f5e06a795fe75cd9b78c3e1006dba7c628897d665727d9",
+        "improvement": "f344e57be714425d053799da039f0286cd48d37955008df5b77de7eb27b41827"
+      },
+      "narrative_lengths": {
+        "main": 431,
+        "background": 118,
+        "improvement": 98
+      }
+    },
+    {
+      "source_id": "RS2_009",
+      "jcqhc_case_id": "A279A2A5DEF1F2E06",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "53b3e54fbfdffd43224faeda676b5a4a696fe200ac1ae750b2283dda9e34f4ed",
+        "background": "e9c07dc1bb25b3dd3f421590873d500737841f1faeb426db1d0f84e591d8fe0d",
+        "improvement": "289b484bb4799d236613388bafdb799c3ae8fb67be013b26aaef8c8664452605"
+      },
+      "narrative_lengths": {
+        "main": 133,
+        "background": 93,
+        "improvement": 87
+      }
+    },
+    {
+      "source_id": "RS2_010",
+      "jcqhc_case_id": "A27AF8666ABA447F9",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "18becf6f2684bd7a74362fef5915b0d1d241907b0915735fb68a3e724984fae4",
+        "background": "594e112b5d43e4c95b77a554024118d61dfce16c347ff0f955b1eb720e8b41f0",
+        "improvement": "6623d216c3c3393da4d832d474ee2df2ef84b11160af7f75179721876f92b7ad"
+      },
+      "narrative_lengths": {
+        "main": 33,
+        "background": 94,
+        "improvement": 46
+      }
+    },
+    {
+      "source_id": "RS2_011",
+      "jcqhc_case_id": "A2A034A9F0FFF2D42",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "21c99a2b23dd62f3c21ffcd189a2ae19b45b74b91686b9dff9029f2bdae3eb6f",
+        "background": "dc4bf22eda3df37276dd02bc8e030955160a4059ebab308bbdb3896e69aeb289",
+        "improvement": "fa78eeab5091c371101d2f356d5fa4ee7f3d1e1c4705bd9e4c4d5f5eeddbb155"
+      },
+      "narrative_lengths": {
+        "main": 356,
+        "background": 132,
+        "improvement": 143
+      }
+    },
+    {
+      "source_id": "RS2_012",
+      "jcqhc_case_id": "A2CA4DC3AE786B530",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "3cd90e86a958ea97ed7650e2ce2d9a3572e55cb16dd701b2620f70658511cc35",
+        "background": "8cba46652dd89c7edac608ccb9f013ca510c15cac1ac8f860e349fdccb349ebd",
+        "improvement": "f3c6d965f9e43d70b346b6d1481475d05c916ba6e62257bbabd4055fa380ccbf"
+      },
+      "narrative_lengths": {
+        "main": 264,
+        "background": 83,
+        "improvement": 87
+      }
+    },
+    {
+      "source_id": "RS2_013",
+      "jcqhc_case_id": "A2E3C23E46E11A6D3",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "61808c87a5a5eb7cbc76b7406741516e0a49362aab302206fe18df7ae442e664",
+        "background": "15a61cb245321bd45e748d47aeb04d1a16080ac91877f511c87399ce30b670a9",
+        "improvement": "afa687d80d6cd4db3d28827db4d0fbb145eb47569d3646efbe18737c5c670c55"
+      },
+      "narrative_lengths": {
+        "main": 534,
+        "background": 163,
+        "improvement": 118
+      }
+    },
+    {
+      "source_id": "RS2_014",
+      "jcqhc_case_id": "A2F944B409850B4BE",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "21517ee99039ffa177f6bca45e0e6c333aae5180fadb7bdbb08372ed780b0836",
+        "background": "07dd438e7670a291c9e6baffcbc316fed5a51eae8cfd0c37cffc68af728e8fc8",
+        "improvement": "c710d78261c7cb49fdcbcb5b07f52ed01b339006a4d7571c684f9dbc1c03b788"
+      },
+      "narrative_lengths": {
+        "main": 393,
+        "background": 86,
+        "improvement": 62
+      }
+    },
+    {
+      "source_id": "RS2_015",
+      "jcqhc_case_id": "A32E9C1FA059E3117",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "95b4c35e4e0685fb851a2f0c16cc30af9057b124cf27cb499a1f62ae067bd692",
+        "background": "44508aa2b0f650985cf15ad9e54d39f1a137bc8272e6982ed0aa72be54dfc6bc",
+        "improvement": "013f3549145e2a007ff9c1b84bcc905d7da9bb249b41f78d1e8032b76eb3dd4f"
+      },
+      "narrative_lengths": {
+        "main": 285,
+        "background": 22,
+        "improvement": 91
+      }
+    },
+    {
+      "source_id": "RS2_016",
+      "jcqhc_case_id": "A338AF50A0498D45D",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "05815a0f1286407e149270bbf490bef0e2d50c9539c4ce5bf9c8f964c06a9839",
+        "background": "8804504d0874c7be192a70f630d9ca613654a4c1d65d0e9e051c1d6f42ebc62e",
+        "improvement": "652eb92e4b508b9b77d36e11d4b2b644571e1cb96e27d046e6c060948813abe4"
+      },
+      "narrative_lengths": {
+        "main": 366,
+        "background": 294,
+        "improvement": 240
+      }
+    },
+    {
+      "source_id": "RS2_017",
+      "jcqhc_case_id": "A37D024E84A4B71E5",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "e819a1b727cfa42ff20e222367213542f0b3316c07057cb8cc95085cf1f59635",
+        "background": "887ca1862880bd4b5c8bdb8882dac54592583c4899795ba8e219329b650494d2",
+        "improvement": "5bdaaa743c85daa34e20f82c919400d36d2e40e5e1617ed949e04598a753f50f"
+      },
+      "narrative_lengths": {
+        "main": 439,
+        "background": 329,
+        "improvement": 33
+      }
+    },
+    {
+      "source_id": "RS2_018",
+      "jcqhc_case_id": "A40D30D579ACFD5E4",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "60273d26db50ebe0c20116d536a6f47ecc5ef5e5a74893657a674e8438f8aebc",
+        "background": "c33ca51ef680505d7dcf4bdf22456f506d67a6bfb4215c3fd35014f02a943c41",
+        "improvement": "ddd46155e696eb7291181a6dcb7219ba67cdbd8002259ba9c4c6bb17cfd71003"
+      },
+      "narrative_lengths": {
+        "main": 259,
+        "background": 258,
+        "improvement": 75
+      }
+    },
+    {
+      "source_id": "RS2_019",
+      "jcqhc_case_id": "A439C185131B6A4B4",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "e26886cfcb930bedee3ea72bc0a504fc3f32490ad46d8d1b68d7dd4f8cf3c50e",
+        "background": "2cc38a7bb1729ec180b222bb93c34e5a69b32b9907e2360422a883ad6f3b2c8c",
+        "improvement": "edc46e672c5d1685496841f34e5d1d3e5146ab36f79f8c49275d669b50c77609"
+      },
+      "narrative_lengths": {
+        "main": 214,
+        "background": 134,
+        "improvement": 106
+      }
+    },
+    {
+      "source_id": "RS2_020",
+      "jcqhc_case_id": "A4BD55883003F817D",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "e05b29d471d239e527f0325821f605abf284f13a76cd6372a489bd4dc77947ea",
+        "background": "dbeaaf588eaf71377baf638dde072b823651ed15dbba9cea17b3364d6d61149f",
+        "improvement": "546176194ca815f0bac2ad8b67991fa80ddd77485faac257cad6cc48a854cafa"
+      },
+      "narrative_lengths": {
+        "main": 339,
+        "background": 89,
+        "improvement": 111
+      }
+    },
+    {
+      "source_id": "RS2_021",
+      "jcqhc_case_id": "A4D427277ABA0CB27",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "4f12b11d5789853e3261beb2bc292f0c5531c1e584878ff9edc62b0547acfcee",
+        "background": "a8def694fc4e12fd9fdb70727047eb211a41bd4f022ac2b3d1add9fb3f845ac4",
+        "improvement": "729dc62250af6251d8a9fa3d64b4906d979ef4f04e7145029e4f6c3847370bfa"
+      },
+      "narrative_lengths": {
+        "main": 241,
+        "background": 58,
+        "improvement": 56
+      }
+    },
+    {
+      "source_id": "RS2_022",
+      "jcqhc_case_id": "A4DA3950BBE840A6F",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "9560c7704b9cfee58e000ef6f8c9972b59cab2615354c114fc055db40ed89125",
+        "background": "767a7ae4558a69e7c5e1a3bda8ca2bcad2f530439d81cf964b952c2bbeee2638",
+        "improvement": "30fa44d07ef1ecb77bfb1b1f6c8e1bf8cba2f45fd48088a7f4883548d48f4cc6"
+      },
+      "narrative_lengths": {
+        "main": 799,
+        "background": 328,
+        "improvement": 351
+      }
+    },
+    {
+      "source_id": "RS2_023",
+      "jcqhc_case_id": "A4F2CECB48BF671B3",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "02a48380c7d00e9be41d9d71a0e3c41e6a100c3a54083d09cc8aee90ea9bcb6c",
+        "background": "a6b53bdeb4de3beb01e5ab33c64088e75b417535e5fc6d601a934c4c2b510cf9",
+        "improvement": "bbe2f2aac7a1d16b953bfca03b5a8d6f8e1a98d6810cffacd11404631c410d0a"
+      },
+      "narrative_lengths": {
+        "main": 283,
+        "background": 218,
+        "improvement": 153
+      }
+    },
+    {
+      "source_id": "RS2_024",
+      "jcqhc_case_id": "A4F3E5E0A9A29B38F",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "023f81a36bbdd44ac9b01cb6803bd2423b838306f49b9cb3ed1f91842f67abd4",
+        "background": "32c3812ca962923b13ed886c3f0c5790013ea33b7533ac4a3541665440436bb1",
+        "improvement": "c7a317d8f482f1942ce82e7ad4bc139ee1b0ad13b7c815a647264400a11be5aa"
+      },
+      "narrative_lengths": {
+        "main": 25,
+        "background": 210,
+        "improvement": 48
+      }
+    },
+    {
+      "source_id": "RS2_025",
+      "jcqhc_case_id": "A503F9A13CF4FBB0C",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "6a95c8bf2cf0badba2095bbbe56466a98082522b02568a6b38b7687c5790aa1b",
+        "background": "5d30b51aee764523d88ffc0b53197097a58a1e37347b83e1fa73ac73745f778e",
+        "improvement": "9df30d24ca44855407420b21d5e383c53022517cb1d40ca52df24d8fbf5711e4"
+      },
+      "narrative_lengths": {
+        "main": 936,
+        "background": 531,
+        "improvement": 57
+      }
+    },
+    {
+      "source_id": "RS2_026",
+      "jcqhc_case_id": "A51FB827BF450FC10",
+      "source_file": "MedicalReportPubA_2012.csv",
+      "source_file_sha256": "d0ff09be4cc60aa2edf224ad7a972cd3856e2bf6568ddf357fbd07ba6ea61b2c",
+      "narrative_sha256": {
+        "main": "ebc6f1b6995a727d659934d322347f97db3f1296a9c555658e82f342dfbcb0d0",
+        "background": "e84fdf576b5b3e58898d59a7e19e98e5889cf29d22f4eece80a511e0af7c1d6b",
+        "improvement": "2ae07cb6b9d906a6081851ea42d6a3a24562d5ce65a7b5a6d12440ac5f8a3c11"
+      },
+      "narrative_lengths": {
+        "main": 87,
+        "background": 127,
+        "improvement": 54
+      }
+    },
+    {
+      "source_id": "RS2_027",
+      "jcqhc_case_id": "A532BD849551A0230",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "f4567d00c610b2e0a0ce723e0089a3e92038c4492f82482ba77d2fa59f959560",
+        "background": "a6dadbb89d28f518b8c65a172f68b87e98867cf2835ae15727a291e55d09d098",
+        "improvement": "bc9dbd1d356573626f5ab8b7a7aa255f0ebb2900d7f308d388829a0d6d3cbc22"
+      },
+      "narrative_lengths": {
+        "main": 253,
+        "background": 209,
+        "improvement": 59
+      }
+    },
+    {
+      "source_id": "RS2_028",
+      "jcqhc_case_id": "A6286AEBB5857D034",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "51e03444d06b166b17fb897e7d454cc56536dcff2451bf91e7c184143a2d1d66",
+        "background": "6c40d0e8074ea457ff4eea615d66e32b2c5a5a64bd74c71ab49b157e7f01ef53",
+        "improvement": "81c27ce508c4c7f2c29fdcac7a5e699d437c9fe7ddffc3d2a177cbab2391a87f"
+      },
+      "narrative_lengths": {
+        "main": 150,
+        "background": 180,
+        "improvement": 267
+      }
+    },
+    {
+      "source_id": "RS2_029",
+      "jcqhc_case_id": "A65D4A656F8F1EA54",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "e3bd3c8b5021b26b33ddf5b8ab9982ddac495fb3537e5d7f220f9f92d4ee0a7c",
+        "background": "48c531fe695e76231281e46d91f1b53f15620d3eb5c9e4c6ddc0ce485875c34a",
+        "improvement": "eb0822020609fd4364486db5cb321ce423879265b6b045af20d76cb3a8ff7e09"
+      },
+      "narrative_lengths": {
+        "main": 194,
+        "background": 168,
+        "improvement": 297
+      }
+    },
+    {
+      "source_id": "RS2_030",
+      "jcqhc_case_id": "A6D93609426DA880B",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "4a12193a056998a46d124433cd77603004a9d2e8faf4006452ee06b9294b11f1",
+        "background": "8573f87882f2081471cad82b2f934a238156189fac10c25aea92c1883a2bc5c3",
+        "improvement": "4925bdcb5de7e0b71156a0a0d615563f73b08271775cc35f25575b8d32ce804c"
+      },
+      "narrative_lengths": {
+        "main": 22,
+        "background": 462,
+        "improvement": 335
+      }
+    },
+    {
+      "source_id": "RS2_031",
+      "jcqhc_case_id": "A8974A0D70BFE8234",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "c0cf8f361e74ca1d66f9ae594fcfd0e26b76504c8d88d3e1b0cdd96554b39000",
+        "background": "4bac3ed0c06f044991275c68390c9aef0b12bb4f8e42ff45696de4a2002f5ed8",
+        "improvement": "ab6de3f058aedba44afd01b61c13f091e2d49cd17f372a204a41cc19c64931ce"
+      },
+      "narrative_lengths": {
+        "main": 412,
+        "background": 108,
+        "improvement": 48
+      }
+    },
+    {
+      "source_id": "RS2_032",
+      "jcqhc_case_id": "A89E4E3E58095AFFF",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "9c4199e14d7ad6e58a742ed4462279376b75ce85654c9ad0d3b00435f59f79e6",
+        "background": "0cb72c143c3b9840abee6c9beb4fcb6e5f032e45ad70f329063a8bde0b506602",
+        "improvement": "566bc432fa6d07a7fd293553532efbf5da789028f07ac9d702c0bfd1abd85b7f"
+      },
+      "narrative_lengths": {
+        "main": 347,
+        "background": 230,
+        "improvement": 88
+      }
+    },
+    {
+      "source_id": "RS2_033",
+      "jcqhc_case_id": "A8D659ACD18F4EA59",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "5fc4df75ed76f2aed34214a89d913268bd82f64b1279a4118a0a2d6aea5289d9",
+        "background": "356b85c86dfdccc1cffc58235e8785868d67dc5fc7815514961b1ec51b1ad1a7",
+        "improvement": "4ea42f5790c68636729eb48a4e63c4dbce1fcfe5e9de772ec03f237fb0e86a31"
+      },
+      "narrative_lengths": {
+        "main": 174,
+        "background": 70,
+        "improvement": 77
+      }
+    },
+    {
+      "source_id": "RS2_034",
+      "jcqhc_case_id": "A8E622C2722ADBF83",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "675a2387a9a0f1e51bf2ab9c181d5e27b7ee24c553eb0d7100c835b9f66ddf1c",
+        "background": "1b87df9f3fa64380a296d1fde4632d4b42ee6421b6400807e3830c250b8a9767",
+        "improvement": "669e2ce416babe1d3957a793fc845d31b747ca6146acb88f4a1f438276c0b8f4"
+      },
+      "narrative_lengths": {
+        "main": 684,
+        "background": 402,
+        "improvement": 140
+      }
+    },
+    {
+      "source_id": "RS2_035",
+      "jcqhc_case_id": "A94F8EF490846EC33",
+      "source_file": "MedicalReportPubA_2015.csv",
+      "source_file_sha256": "2732ff9c4cb093d6d61f1af2d19d2c4f5378f6ec810cf6924a316365983a7ea4",
+      "narrative_sha256": {
+        "main": "84b9b7bb2c53b5ced03b0f0dd760c16642d8d8a93f99c0281502ed3c9d13e8d7",
+        "background": "3a4208d241cdb795e223e9d1d0614951ed711512312bb71752b50c165bbbff97",
+        "improvement": "0b88bbb7af4530c88b06dd42562761e0cf63d5e45308d5cadbe0a20f71bd3fc0"
+      },
+      "narrative_lengths": {
+        "main": 293,
+        "background": 65,
+        "improvement": 33
+      }
+    },
+    {
+      "source_id": "RS2_036",
+      "jcqhc_case_id": "A9C66313D18CD73FF",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "238d63ce5fa218bfda9e4065a5aaab2ae6ad930b92acef2cdbcb97e74ee05740",
+        "background": "6832dbac00f9922fe5d84d52332cc4b79dac1716b591ebdeb995badd431ebfc4",
+        "improvement": "73323abf17d3be3ef8a0002607ec6f147a366e70f0c33b7270b962cc0b488fad"
+      },
+      "narrative_lengths": {
+        "main": 307,
+        "background": 75,
+        "improvement": 161
+      }
+    },
+    {
+      "source_id": "RS2_037",
+      "jcqhc_case_id": "AA2104C80CB01941B",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "08a775f5752c5de52168abae92baf25ea731bd2ff95ccd60852abd730a4dbff3",
+        "background": "0bb987025184c0c1236854f77696674a9caf48128ed42b2a7aebf9b5a3d08bc5",
+        "improvement": "05994123377d5a41f43128b4f63d3bd3f01bef63642f019297e44743081c8660"
+      },
+      "narrative_lengths": {
+        "main": 422,
+        "background": 516,
+        "improvement": 204
+      }
+    },
+    {
+      "source_id": "RS2_038",
+      "jcqhc_case_id": "AAA7E5D95E5376CE2",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "e938f1a3cfb183da854af62540300f70d48d26487a2c5f1fe3114dbb0fe72401",
+        "background": "ae931ea8906431ced7b3a8b41638d021b1830f26398610cf8bcc4d6066e7e5eb",
+        "improvement": "9267110272027cf71bfbebe115fcfd28bb1c2cc3f132aee46a6e3e4662b080e8"
+      },
+      "narrative_lengths": {
+        "main": 358,
+        "background": 45,
+        "improvement": 55
+      }
+    },
+    {
+      "source_id": "RS2_039",
+      "jcqhc_case_id": "AB8968D81DD5CC333",
+      "source_file": "MedicalReportPubA_2019.csv",
+      "source_file_sha256": "ab48825eff8a1d7f14e787edff0cf3f581d4bd9d0f3ffe04dc8c30d7435b5805",
+      "narrative_sha256": {
+        "main": "e5eee4351ba5638ff29e8693272f37cfc6d6578f87682adf70a6a772b744d014",
+        "background": "ccb8167e039088a5733206cefd74fb8b19571c2bf1579adffe24c08dd91eae91",
+        "improvement": "62878b065af11dabac0eb6f2ad5931d36453e09ca7449c315db189086c6cc86b"
+      },
+      "narrative_lengths": {
+        "main": 76,
+        "background": 18,
+        "improvement": 69
+      }
+    },
+    {
+      "source_id": "RS2_040",
+      "jcqhc_case_id": "ABA2744E6933D9727",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "170e533ac06b5bdb6d0696d1823bbeb61de5011cd5ed2de7d86b4933c3b0c840",
+        "background": "23cb66e57e17dafa0b6da4fe1d4a0f3adca6a07e6a7bd214367288efe6bfaf3b",
+        "improvement": "ad2cb79cb340a9c7edc8943e69accebe5774273f7f04879506be5a17f34a92d1"
+      },
+      "narrative_lengths": {
+        "main": 323,
+        "background": 34,
+        "improvement": 80
+      }
+    },
+    {
+      "source_id": "RS2_041",
+      "jcqhc_case_id": "ABC12A76141E3B86D",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "522c275f9d0753d5a3c87669dd8e8091a7a28ca604ae854332deac9b55001db6",
+        "background": "576765594719c47b503778f3d25be2fb9f9af05973685a92b6099de963680dbd",
+        "improvement": "bde5c416a436dc28e74c0eec84b2b6f2b04777389bd8724d9582e43eba93b31f"
+      },
+      "narrative_lengths": {
+        "main": 302,
+        "background": 182,
+        "improvement": 91
+      }
+    },
+    {
+      "source_id": "RS2_042",
+      "jcqhc_case_id": "ABE2C206CEF75761D",
+      "source_file": "MedicalReportPubA_2014.csv",
+      "source_file_sha256": "e8d2235f9b97b48eae7b7b615cfe0a79a93fb2a10f7708514a63ac9bb46221a4",
+      "narrative_sha256": {
+        "main": "b60ef9c325d3f88588c2f58d72c240e4f79128da3513b4b451754881e27b9b61",
+        "background": "c26220ac29361948185f166f34534c97292b449f681e81232b4755c7bf16d0ad",
+        "improvement": "ba8646985d1dd7def9e8033c47c051c1240100558ca6702f708a1494fe8feab0"
+      },
+      "narrative_lengths": {
+        "main": 401,
+        "background": 200,
+        "improvement": 71
+      }
+    },
+    {
+      "source_id": "RS2_043",
+      "jcqhc_case_id": "ACABFA8ACD69E23D9",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "e58136ee74bc788c72b8b041681bf3c68b8ab3015948b48a9635b31de69925b8",
+        "background": "72c5943f9ab790cafb5366d20de90f253edc6d5f0217b17e24b9f599f504a287",
+        "improvement": "f80eb9f223c0b5491cadf8c6040bc38120347981016e29f0762335961d8cf3b7"
+      },
+      "narrative_lengths": {
+        "main": 62,
+        "background": 39,
+        "improvement": 27
+      }
+    },
+    {
+      "source_id": "RS2_044",
+      "jcqhc_case_id": "ACAD4988C64D8A527",
+      "source_file": "MedicalReportPubA_2023.csv",
+      "source_file_sha256": "53a6aecc45fe5a8b883e041f1e554a1900de2ca36b07b18e23357f2537e8ad4e",
+      "narrative_sha256": {
+        "main": "0e110c878ca890b40e723f1bf54dc7b9e8eb2122c5c7e2b28f4bd15577bd1ec8",
+        "background": "cbc6d2998fa7ea21c06be3a1e315a608de14167d0a7092efdd3fffc206c714ad",
+        "improvement": "64e5f564b7ed4a96215621378135a30eb2ea34b1a02f88608a1ab8709f16dadd"
+      },
+      "narrative_lengths": {
+        "main": 1074,
+        "background": 18,
+        "improvement": 41
+      }
+    },
+    {
+      "source_id": "RS2_045",
+      "jcqhc_case_id": "AD7FFED73E3AEF8FB",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "69cc5b1320bcf31499b17b7ca08b21fec2d86ae69b7c30f54dc2a325d3aabee9",
+        "background": "f5fa4e59183cf2962e430c6ef28b283f450e7aa7c3ab278b43f2ac761cd32604",
+        "improvement": "a256d78c6690c5573e9aea6282925846a35a89882e633c763089ada435aa1132"
+      },
+      "narrative_lengths": {
+        "main": 142,
+        "background": 13,
+        "improvement": 40
+      }
+    },
+    {
+      "source_id": "RS2_046",
+      "jcqhc_case_id": "ADAC94AC7EC1BA0AE",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "3a20d19ddacd3cf0af0a944852b67154477fc7ba2e47a7fbf270c1fdf38b8398",
+        "background": "0db8e1e3ff4eebdd4c7e8d19646a863fbc0600df6e3f1228934a18ac834da050",
+        "improvement": "262ba4d585e45b94212939166ae6ce8e0896c7cdb668f2734dbadea6fd49d895"
+      },
+      "narrative_lengths": {
+        "main": 362,
+        "background": 180,
+        "improvement": 315
+      }
+    },
+    {
+      "source_id": "RS2_047",
+      "jcqhc_case_id": "ADD565FF76036592D",
+      "source_file": "MedicalReportPubA_2016.csv",
+      "source_file_sha256": "70a26ac6cf6caf42788cd203b23a98e9f83b522a7de92a625bc2733f01252eaf",
+      "narrative_sha256": {
+        "main": "da3bfc6842c511e7670e4a7263fb04ba0c13de6c32edbc302cb8c064830d2494",
+        "background": "1edfa3eee59dee6e299f4823d6822fc1c5b24f87316976efaba6d7e674871351",
+        "improvement": "0b0650dcb137326f193c15e341e0903e8cfe310d63c86ce4c2ce1f9a4638e911"
+      },
+      "narrative_lengths": {
+        "main": 211,
+        "background": 74,
+        "improvement": 35
+      }
+    },
+    {
+      "source_id": "RS2_048",
+      "jcqhc_case_id": "AE04FA4360DF5D680",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "4d82e218f7be7f8a23991fd75b9c17fc1f63943063b91113a0b9963b89cc6228",
+        "background": "4c70a8d6985425e84878c04e91cee33688d02f8f806643d7ece716af542c4cd2",
+        "improvement": "6c4d729e41015fee954b45d98b1f3656ed46fd29637dbe55a1e2bc015a0a32ca"
+      },
+      "narrative_lengths": {
+        "main": 84,
+        "background": 74,
+        "improvement": 90
+      }
+    },
+    {
+      "source_id": "RS2_049",
+      "jcqhc_case_id": "AE05C1D0C771F01A9",
+      "source_file": "MedicalReportPubA_2013.csv",
+      "source_file_sha256": "b7cc09a68dcfb89815790f3627458e27c3f0ecf4ce71aeda338b877609edc144",
+      "narrative_sha256": {
+        "main": "f27943bde5de71c5a9660901e56c91a8b08e6b0a9062a75e1c420b3ed8e022e7",
+        "background": "05de0e7980244b5109e56e11d8c55b6f727e82f1f8a8cbf9d13a8b34f2f7a333",
+        "improvement": "6abc52922ef1679f173eb5fc064e9e4a5456a8f953fbc93ba978dcbb236ee7d5"
+      },
+      "narrative_lengths": {
+        "main": 365,
+        "background": 56,
+        "improvement": 75
+      }
+    },
+    {
+      "source_id": "RS2_050",
+      "jcqhc_case_id": "AE10E806B8E9C30DD",
+      "source_file": "MedicalReportPubA_2020.csv",
+      "source_file_sha256": "9ddc5c2c4b28afdc5334bb155c50b3d9b4a2a0c32933d0e776bdf9c83d43f48a",
+      "narrative_sha256": {
+        "main": "78921f74b82322e7298ed1ec6ab57560e93a9691190f43009a38386cf76468a5",
+        "background": "5d040d64d88ad406919f1f3c9efae1ca5642252de23eb71bf7b34a890c8897d4",
+        "improvement": "015acbccf63b76d4cbe137e5f0eb3c6dc99ca73ee3bdef901b1e2578e6193124"
+      },
+      "narrative_lengths": {
+        "main": 158,
+        "background": 67,
+        "improvement": 47
+      }
+    },
+    {
+      "source_id": "RS2_051",
+      "jcqhc_case_id": "AE362DA7DCAEC913C",
+      "source_file": "MedicalReportPubA_2021.csv",
+      "source_file_sha256": "96f4e0dae5acf7042929fcb929c08b0f68e10c182627d88c998512a44246508e",
+      "narrative_sha256": {
+        "main": "d6b6a2f93298a51ee8e4315422e01c502bd04026f7ed01a1784f02cd49e4aed5",
+        "background": "350bd50921a0c1ab08d2e0b98aa90e2ae589faa4a5a1db79cf7a4dffecd1b448",
+        "improvement": "e395414b9ccc1c3d8136968f0d1d178dfea53d0157af492c57c6e64537a017dd"
+      },
+      "narrative_lengths": {
+        "main": 147,
+        "background": 89,
+        "improvement": 86
+      }
+    },
+    {
+      "source_id": "RS2_052",
+      "jcqhc_case_id": "AE4C6248D525BFDF3",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "63a05a2705c82ce888e6d97c96768e7656d0be17e639d426730a40e2568bb6e9",
+        "background": "a1cdc560e46a37acaf1503e4bf3ad87ba6ff7548afa307175626fc9e0a75b321",
+        "improvement": "c1883834097e7dcec89cf5b8cd4dc8b84229281cee51434c064394d90050d89b"
+      },
+      "narrative_lengths": {
+        "main": 193,
+        "background": 162,
+        "improvement": 48
+      }
+    },
+    {
+      "source_id": "RS2_053",
+      "jcqhc_case_id": "AEF3FB9DD21D40293",
+      "source_file": "MedicalReportPubA_2010.csv",
+      "source_file_sha256": "220c155a731fb53b7ac7293395cf63c6b0fbb63ee2b1cd61ce4eaad90a8caf97",
+      "narrative_sha256": {
+        "main": "76ac48f44b1c2c1abd11aa60d0f458131acd68e847972e64d29fc9d07016de28",
+        "background": "f029e26a3b1855bda0ab4a8cb28c71e0acfbf7727b673ef42eb25596f5573358",
+        "improvement": "db961e99c25f359c4f9d1fd0a8a03996afab9388356ca78f752d7b5c09d39d28"
+      },
+      "narrative_lengths": {
+        "main": 200,
+        "background": 59,
+        "improvement": 67
+      }
+    },
+    {
+      "source_id": "RS2_054",
+      "jcqhc_case_id": "AF03F6439935B4466",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "389ffe20a747abff0c18e374fc7a8cbae1b7c4f3d78b5eab42fa0a93a6ccc038",
+        "background": "a151e04708d090e80522325da391837d0a812b2d2c6f341faa975aefd2c4219c",
+        "improvement": "acb7db3086ff4cf985099d1adae574218c43c87dadf37913816d80fdb45ee324"
+      },
+      "narrative_lengths": {
+        "main": 528,
+        "background": 652,
+        "improvement": 305
+      }
+    },
+    {
+      "source_id": "RS2_055",
+      "jcqhc_case_id": "AF1E827F40A53E5BB",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "0eae439140dc2acb523114b77c357177009c5a63077fa7ada20b971e329f84de",
+        "background": "0b5ee605927657e1c985c83e619f12673f699127396ea193d757fc5e36028995",
+        "improvement": "7d8800ac1cae854bfe76cf32678b01d6f25760d8c26d7b1343154c27a4abd519"
+      },
+      "narrative_lengths": {
+        "main": 566,
+        "background": 393,
+        "improvement": 284
+      }
+    },
+    {
+      "source_id": "RS2_056",
+      "jcqhc_case_id": "AF289F5BE3D83AE3F",
+      "source_file": "MedicalReportPubA_2011.csv",
+      "source_file_sha256": "1f4e47e45a18199d2f44cd09c7f91bf0aa0d75eb8d5c7409625a13d879cbdb72",
+      "narrative_sha256": {
+        "main": "3f355115775faca1fe328e4e5a4c907433cc1ae67a8a10bf86d6ee68d66dd528",
+        "background": "0c34fa0a00bb32a84343e98b8876258fc723bebbc41f0f84fc7bd1da79016dc3",
+        "improvement": "d924db053d6bb3884a9c4c69a2e3ab20200f4beb63f3fae1dc1adfdb7df6de80"
+      },
+      "narrative_lengths": {
+        "main": 70,
+        "background": 60,
+        "improvement": 90
+      }
+    },
+    {
+      "source_id": "RS2_057",
+      "jcqhc_case_id": "AF3C86B1FF1F05ACA",
+      "source_file": "MedicalReportPubA_2022.csv",
+      "source_file_sha256": "ed9b95628d6d6d753e457bc940a37e9c5448517e876bdcf1748e0945d6845f03",
+      "narrative_sha256": {
+        "main": "2e72da9b84f6194df704dc5cd20f7a6b6540119153b47b72d12f7ff2a3914ac2",
+        "background": "48bef96d2080db37d4b1ea2448c8703a1abb4a1ebbc875dbf4530c176c62de20",
+        "improvement": "5d2a066d0fdc554eaa3e19c6afbea5aec1ee20114245534e9662d6e771d05ac9"
+      },
+      "narrative_lengths": {
+        "main": 142,
+        "background": 24,
+        "improvement": 31
+      }
+    },
+    {
+      "source_id": "RS2_058",
+      "jcqhc_case_id": "AF4FE916ED184FF24",
+      "source_file": "MedicalReportPubA_2024.csv",
+      "source_file_sha256": "c892d8de14106e409d4103aef7d94037961967de7862ed8c399edb74c88cdbe5",
+      "narrative_sha256": {
+        "main": "acb8b4b042104096d335acdfa66c5a991ee3da21041ac6c6dec62687b1cad1be",
+        "background": "8a906e102548816efbfa7b1d064106fc7d78d3056ac546cdad854bfa303443e3",
+        "improvement": "6d4136c83a22713ec5538ac4487f6a5119f0d5881ef4ae0622e988ea03b944d3"
+      },
+      "narrative_lengths": {
+        "main": 431,
+        "background": 51,
+        "improvement": 156
+      }
+    },
+    {
+      "source_id": "RS2_059",
+      "jcqhc_case_id": "AF903B9BDE1BEC93A",
+      "source_file": "MedicalReportPubA_2015.csv",
+      "source_file_sha256": "2732ff9c4cb093d6d61f1af2d19d2c4f5378f6ec810cf6924a316365983a7ea4",
+      "narrative_sha256": {
+        "main": "db4c83217514f08df3179cbac91a460b075f58feefcad3402d17a2cabb456195",
+        "background": "9b9acfc2e69cdff8b0d18976b97e4a0d1f5f484df9766e5f91b7db93194110bf",
+        "improvement": "092e368eb711284742fb4443bc0cbefacc0e2f5c51224b79b3806cdf0cb9338f"
+      },
+      "narrative_lengths": {
+        "main": 94,
+        "background": 95,
+        "improvement": 44
+      }
+    },
+    {
+      "source_id": "RS2_060",
+      "jcqhc_case_id": "AFDD26B6A33824676",
+      "source_file": "MedicalReportPubA_2017.csv",
+      "source_file_sha256": "fc70605b0d8248ad0153d382e0a54ecfceeba4d2de5a72a41f0ad404971e836d",
+      "narrative_sha256": {
+        "main": "79aaba94232849ae038ae0ccc48b46eeeef2e566b12adc8dd7a7ed97a7dd6c9f",
+        "background": "58214c45368c5c3fbe4da50c21f5715b7387c4e76aabffbabcf68301c92af03c",
+        "improvement": "8b6e0d3418d734e789f5ffee9626db8f3eb8fea8c596af3e5333209153caa1dc"
+      },
+      "narrative_lengths": {
+        "main": 109,
+        "background": 74,
+        "improvement": 345
+      }
+    }
+  ]
+}

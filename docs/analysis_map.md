@@ -1,3 +1,9 @@
+# Current Revision
+
+The current manuscript uses [revisions/20261107](../revisions/20261107/README.md) and
+the default `scripts/reproduce.py` runner. The map below is the retained October map;
+its old aggregates and bootstrap intervals are not current manuscript results.
+
 # Manuscript-to-Code Map
 
 The manuscript remains a draft; section numbers and table numbering can change.

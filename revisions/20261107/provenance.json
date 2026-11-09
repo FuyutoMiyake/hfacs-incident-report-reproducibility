@@ -1,0 +1,150 @@
+{
+  "revision": "2026-11-07",
+  "exported": "2026-11-09",
+  "source_files": [
+    {
+      "path": "case_id_mapping.json",
+      "sha256": "a0bbd73292f665d1cf20caf81f3dca8a69080a148444aefd3b00c0e116df174d"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/canonical_cases.json",
+      "sha256": "924c71b49c020075a8ff361fea2129b3fb45fb8d47a29b46fa566f2f44b52604"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/canonical_independent.json",
+      "sha256": "88376ac37cf8868c0ada8dfa05b3628497bc6162b1a53b0dd281a19a4125bbaa"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/canonical_phase2.json",
+      "sha256": "dcf766f42fe4fe1186b9ead9935b7dca3bade5c9360a7fcbf1494164d00edb84"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/reassessment_baseline.json",
+      "sha256": "ab221605bfbad0dc8d86f7fd54d13c02eb952c1b178423641efa8b5bd6415d37"
+    },
+    {
+      "path": "rsv2_independent_annotations.json",
+      "sha256": "078cd3aa2d8bab2c161aea8662e7707247e86763b21ba1f546b4ea3e6492a078"
+    },
+    {
+      "path": "rsv2_alignment_decisions.json",
+      "sha256": "3fbfd9463f20bee5377e5c5ed485a7801f0c40d2021026e7e26328b38eb12f55"
+    },
+    {
+      "path": "rsv2_analyzability_case_metrics.json",
+      "sha256": "13fb0a71ff7223816b0fef6bac6d8404ed84e142def72b7f134fb1bf175643b1"
+    },
+    {
+      "path": "rsv2_consensus_codes.json",
+      "sha256": "865653cdc42da7a6de3b208fd8c7c61f3c441897ddf825acb417cb0d9a3eb6fe"
+    },
+    {
+      "path": "rsv2_ai_classification_units.json",
+      "sha256": "5cae3f3ed8e87c93d3ea356821eb4136b407114b64509da96f3acf7b41c6e853"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/factor_case_metrics.json",
+      "sha256": "f7c13d72fdfc8ceed4ad2aa1dad0d08088d4d8acceca420f50e5c24ffc15eaf9"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/matched_classification_units.json",
+      "sha256": "67eaad64ec69d01375675a31a39e29b10e800f361df8c5441643baee3fd76ea4"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/graph_case_metrics.json",
+      "sha256": "dc45ec2b9a59c363671db9c68654200e509bbf1f381762c9534a9bdacee50421"
+    },
+    {
+      "path": "rsv2_evidence_traceability.json",
+      "sha256": "3eddee8429ba42c8e409039d1bfe0b3285c6a26891581f797d0a540acd728a72"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/analysis.json",
+      "sha256": "ee02ec4832e2f864323f4cc27477c118e08d0cae303b01855ca7570b3ddbad4c"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/rsv2/additional_ci.json",
+      "sha256": "88523d9399a80f680b5c7644b9b842c76c5c0550d0a863d959c492dfbebd7b3b"
+    },
+    {
+      "path": "analysis_npj/reviews/execute_revision_plan_20261014/results.json",
+      "sha256": "44507637b36eb5a2961e7be27a9d53a13028b2b7b55eb20b9d031b83068d9f9e"
+    },
+    {
+      "path": "analysis_npj/reviews/execute_revision_plan_20261014/human_pooled_units.json",
+      "sha256": "224681fd0e0bd4156ea74492e54729fa366399c1d75ca7a43a0aee6f762b2be1"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/human/pooled.json",
+      "sha256": "12c04734572bb512ed71739faffafd2d598186c81ac6c549d255d99e0c925809"
+    },
+    {
+      "path": "analysis_npj/reviews/execute_revision_plan_20261014/classification_change_units.json",
+      "sha256": "0a008f7140d97280ad7f64d760020b975f661cfda51963e8251bf9309655d937"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/final/units.json",
+      "sha256": "8eafe797899042e96e242d50f50973ecdbf69d47fa46abd82263742793f461f9"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/final/final_results.json",
+      "sha256": "1ecf37683ee7f0209906d14a54837bd3f5b099dd164b3c36894332e1af7cced8"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/kimi/units.json",
+      "sha256": "2d807cdc1633c98fac803d8f5f495225bf8cb4e34c385b712be290eef3221c66"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/kimi/kimi_k26_final_results.json",
+      "sha256": "96a778e9cf1608dd403611e318f4c997756916854fdae9f7e8237cb8b40abb78"
+    },
+    {
+      "path": "analysis_npj/derived/canonical_cases.csv",
+      "sha256": "b9584f25d80550b428806b8d8b5d5c9ae7c253982910248e2f8631d716b1e389"
+    },
+    {
+      "path": "analysis_npj/derived/canonical_nodes.csv",
+      "sha256": "cb1d44eaa53c84acfb6aa46ca2d09809352628ec68a27f6a8fde9b6faf7ba8b9"
+    },
+    {
+      "path": "analysis_npj/results/improvement_holdout/improvement_target_sets.csv",
+      "sha256": "2e9d37139c9b6a11359b69633e53200c1fba4d450a595495276f0bad6b3f999d"
+    },
+    {
+      "path": "analysis_npj/generated/no_improvement_full150.jsonl",
+      "sha256": "1c0ea9cc7d6ab88b3a30ad1832637757a263f36a2c8057140ef144f021fb2613"
+    },
+    {
+      "path": "analysis_npj/generated/flat_no_improvement_full150.jsonl",
+      "sha256": "5562875dc2a775b935091816bebf599a9883423056f3163fac0ed2c7c6e339b1"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/outputs/fta_gate/gate_decision.json",
+      "sha256": "f9092f7f875c234780d2235c89afde156215015192ce89f1d55beec6062b4252"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/bootstrap_10000_20261013/code/110_analyze_rsv2_complete.py",
+      "sha256": "5b5f37838c2a192269217a292e89a1ba00fbad62784b4310ac3dd7430717cbe3"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/code/06_fta_added_value.py",
+      "sha256": "5515a174abfa777e1e779bbc4ff246ef3c087c5fd28eab4658c12fc26398446d"
+    },
+    {
+      "path": "analysis_npj/analysis_runs/review_revision_20261107/code/09_compare_flat_vs_fta.py",
+      "sha256": "bba9f66845c5044ba992e77e3951934e40318ee1a983bfd5f2162f565a3d01d9"
+    },
+    {
+      "path": "Supplementary Methods_Revised_20261107_Review_recalculated.docx",
+      "sha256": "04b9c9e2ffcae983194c6fa262d72ac19d86ae1a77eec8d1c3a4fcc057f9c747"
+    },
+    {
+      "path": "Supplementary Results_Revised_20261107_Review_recalculated.docx",
+      "sha256": "931ffffafbdf061c64bebd12b8059bc30b3515e17a19dc6c0c465bf26119ec31"
+    }
+  ],
+  "scope": "Categorical annotations, saved matching decisions, code-only trees, preserved grounding flags and numerical statistics; no narrative text or reviewer identities",
+  "independent_factor_count": 248,
+  "reassessment_baseline_factor_count": 244,
+  "transformations": "Pseudonyms preserved from existing case_id_mapping; code-only adapters retain original record order and statistical functions. Grounding flags are preserved checks, not independently reproduced without source text."
+}

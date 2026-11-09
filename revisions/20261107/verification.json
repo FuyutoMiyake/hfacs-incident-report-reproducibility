@@ -1,0 +1,32 @@
+{
+  "python": "3.14.6",
+  "new_model_calls": false,
+  "scope": "Statistics conditional on preserved categorical ratings and saved semantic correspondences",
+  "rsv1_human_rows": 510,
+  "numeric_checks_passed": 136469,
+  "fta_verified": true,
+  "rsv2_input_reconstruction": {
+    "independent_responses": 120,
+    "independent_factors": 248,
+    "reassessment_baseline_responses": 120,
+    "reassessment_baseline_factors": 244,
+    "restored_CoP_only_factors": 4,
+    "saved_correspondences": 55,
+    "scope": "Independent evaluation uses pre-viewing versions; reassessment retains the actually presented baseline",
+    "case_covariates": "Saved actor-difficulty flags and elapsed times; quotation checks preserved as fingerprints",
+    "new_model_calls": false,
+    "human_confirmation": false
+  },
+  "verified_on": "2026-11-09",
+  "command": "python scripts/reproduce.py --include-rsv1-human",
+  "expected_revision": "2026-11-07",
+  "tolerance_absolute": 1e-12,
+  "tolerance_relative": 1e-12,
+  "independent_input_factor_count": 248,
+  "reassessment_baseline_factor_count": 244,
+  "private_repository": true,
+  "clinical_prose_exported": false,
+  "original_inputs_unchanged": 42,
+  "full_check_output_sha256": "854f22e51230da91426bf5306862f21c999ca36538576dd23083dc1c72c20e17",
+  "source_manifest_sha256": "16276cfefce183c5d24f159567d1087257fdc396f7c0abd85cc6c3ebc0a7bb05"
+}

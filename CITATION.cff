@@ -6,5 +6,6 @@ authors:
   - family-names: Miyake
     given-names: Fuyuto
 repository-code: "https://github.com/FuyutoMiyake/hfacs-incident-report-reproducibility"
-date-released: "2026-10-08"
+version: "2026.11.07-recalculated"
+date-released: "2026-11-09"
 abstract: "Author-review code package with saved-result recomputation. This software maintainer entry is not the manuscript's complete author list. No public release or DOI is claimed."

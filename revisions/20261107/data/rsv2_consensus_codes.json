@@ -1,0 +1,1235 @@
+[
+  {
+    "source_id": "RS2_033",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "rule_adjudicated",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO",
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_004",
+    "pair_id": "AB",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO",
+          "PC_PE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "PC_PE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_018",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "PC_PE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "PC_PE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "OI_RM"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_053",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE",
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_015",
+    "pair_id": "AB",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_002",
+    "pair_id": "AB",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_038",
+    "pair_id": "AB",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_041",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO",
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_032",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_027",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "rule_adjudicated",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_017",
+    "pair_id": "AB",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_023",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE",
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_025",
+    "pair_id": "AB",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_013",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO",
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_044",
+    "pair_id": "AB",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_006",
+    "pair_id": "AB",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_PE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "PC_TE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_049",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO",
+          "PC_CC"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_043",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "PC_TE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_060",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "OI_OP"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IS"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf05",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_036",
+    "pair_id": "AB",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": ""
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_009",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf05",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_046",
+    "pair_id": "CD",
+    "analyzability": "clear",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_040",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_012",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_014",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_056",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "OI_OP"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_035",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_EV",
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_EV"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_EV"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_055",
+    "pair_id": "CD",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf05",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf06",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf07",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf08",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf09",
+        "classifications": [
+          "PC_CC"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_054",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_005",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_026",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE",
+          "OI_OC"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "OI_OC"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_058",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "PC_PE"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_008",
+    "pair_id": "CD",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "PC_PE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "PC_PE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_039",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_030",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_003",
+    "pair_id": "CD",
+    "analyzability": "clear",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_047",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_050",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_019",
+    "pair_id": "CD",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": null,
+    "factors": []
+  },
+  {
+    "source_id": "RS2_007",
+    "pair_id": "CD",
+    "analyzability": "uncertain",
+    "case_resolution_status": null,
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": null
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_PE"
+        ],
+        "resolution_status": null
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_048",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_037",
+    "pair_id": "EF",
+    "analyzability": "uncertain",
+    "case_resolution_status": "unresolved",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [],
+        "resolution_status": "unresolved"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [],
+        "resolution_status": "unresolved"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_029",
+    "pair_id": "EF",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_021",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_059",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_042",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "UA_DE",
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_034",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_DE",
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "OI_RM"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "SI_IO"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf05",
+        "classifications": [
+          "PC_CC"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_051",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_016",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_057",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_011",
+    "pair_id": "EF",
+    "analyzability": "uncertain",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "OI_OP"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_001",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE",
+          "UA_EV"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_DE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf05",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_028",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "PC_PL"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_PE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_022",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_024",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "rule_adjudicated",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_052",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "SI_IS"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "UA_DE",
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_045",
+    "pair_id": "EF",
+    "analyzability": "not_analyzable",
+    "case_resolution_status": "source_confirmed",
+    "factors": []
+  },
+  {
+    "source_id": "RS2_020",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "UA_SE",
+          "UA_PE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_031",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "source_confirmed",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  },
+  {
+    "source_id": "RS2_010",
+    "pair_id": "EF",
+    "analyzability": "clear",
+    "case_resolution_status": "rule_adjudicated",
+    "factors": [
+      {
+        "factor_id": "rf01",
+        "classifications": [
+          "CoP"
+        ],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf02",
+        "classifications": [],
+        "resolution_status": "source_confirmed"
+      },
+      {
+        "factor_id": "rf03",
+        "classifications": [
+          "UA_SE"
+        ],
+        "resolution_status": "rule_adjudicated"
+      },
+      {
+        "factor_id": "rf04",
+        "classifications": [
+          "UA_SE",
+          "UA_PE"
+        ],
+        "resolution_status": "source_confirmed"
+      }
+    ]
+  }
+]
