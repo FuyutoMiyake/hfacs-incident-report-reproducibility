@@ -7,8 +7,10 @@
   was recovered, and the earlier AB/CD candidate-table creation remains unresolved.
   See [recovered matching provenance](semantic_matching_provenance.md); this recovery
   does not establish blinded matching or validate factor meaning.
-- Issue #1 adds all 244 redacted individual factors at both time points, 55 saved
-  decisions, source linkage and quotation offsets. Counts and matched classification
+- The current independent extraction dataset contains 248 redacted factors; the
+  reassessment uses its separate, actually presented 244-factor baseline. The retained
+  October package used 244 factors at both stages. There are 55 saved decisions,
+  source linkage and quotation offsets. Counts and matched classification
   units can now be reconstructed rather than accepted only as aggregate inputs.
   The decision table remains AI-assisted and not independently human-verified;
   omitted candidate pairs were not adjudicated negatives. Without researcher-written
@@ -16,8 +18,9 @@
   Providing the saved decision table does not resolve the original prompt/context gaps.
 - The 210 study-to-JCQHC links permit retrieval of exact public records using the annual
   source-file and field hashes. Offsets identify quotation passages after source retrieval,
-  but neither offsets nor hashes establish full support. Public release of linked reviewer
-  codes, annotations and source IDs still requires coauthor and re-identification review.
+  but neither offsets nor hashes establish full support. Publicly accessible reviewer
+  codes, annotations and source IDs remain linked pseudonymised data; absence of a
+  reviewer-name mapping does not establish anonymity.
 - Matching sensitivity is material: under the main eligibility rule, strict quotation
   matching gives F1 about 0.148, central-proposition matching 0.420, and partial overlap
   0.511. Computational reproducibility does not make these choices equivalent or prove

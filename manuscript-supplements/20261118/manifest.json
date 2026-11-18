@@ -1,0 +1,37 @@
+{
+  "export_date": "2026-11-18",
+  "source": "Local clean DOCX reading copies; no live cloud synchronisation",
+  "content_changes": "None; text and tables exported in document order",
+  "files": [
+    {
+      "source_basename": "Supplementary Methods_Clean_20261118_References.docx",
+      "source_sha256": "c6bc3b407d63374c5eea9010a8207853cdf5b76374e94f997dfea872ad2b7d5b",
+      "export": "Supplementary_Methods.md",
+      "export_sha256": "565d526356573cbcdca22b0a18faa6bb83decdacca419da0acf7f086c4b661d6",
+      "tables": 2,
+      "table_cells": 105,
+      "nonempty_text_units_verified": 168,
+      "comments_and_revisions": 0
+    },
+    {
+      "source_basename": "Supplementary Results_Clean_20261117.docx",
+      "source_sha256": "adb728672868b18f0b25d8a8d350a12611b576d258168fe46b379554b504b16f",
+      "export": "Supplementary_Results.md",
+      "export_sha256": "d8a6549501398aa59bf32bb8fb42e08bef33fdb339a6a700b3aad250547f8ee6",
+      "tables": 11,
+      "table_cells": 451,
+      "nonempty_text_units_verified": 488,
+      "comments_and_revisions": 0
+    },
+    {
+      "source_basename": "GRRAS_Checklist_Clean_20261117.docx",
+      "source_sha256": "0b5a6057aa758e6b50f66b1726b5905a0d942d16cc39a8b1bc7346880f4035a6",
+      "export": "GRRAS_Checklist.md",
+      "export_sha256": "be817c773410a82ddb1d8d64fb1cc09210741077b7497c61a1f49566ed86d2bf",
+      "tables": 1,
+      "table_cells": 48,
+      "nonempty_text_units_verified": 53,
+      "comments_and_revisions": 0
+    }
+  ]
+}

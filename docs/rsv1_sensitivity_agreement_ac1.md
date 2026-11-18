@@ -1,6 +1,9 @@
 # Extended RSv1 sensitivity results: agreement and AC1
 
-Status: repository-preparation draft; no new analysis was performed.
+**Historical sensitivity table**, retained unchanged from the original working supplement.
+Its 2,000-bootstrap intervals are not the current manuscript calculation.
+Use the [current supplements](../manuscript-supplements/20261118/README.md) and
+[reproduction guide](reproduction.md) for the current revision.
 
 RS = reference standard; AC1 = Gwet's agreement coefficient 1; CI = confidence interval; HFACS = Human Factors Analysis and Classification System.
 

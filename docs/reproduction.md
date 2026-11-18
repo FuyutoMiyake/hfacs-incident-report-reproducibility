@@ -44,10 +44,11 @@ extraction. Primary micro-F1 is unchanged, but the all-factor denominator change
 to 248 (0.320 to 0.315). Relation counts and elapsed-time summaries also use the pre-viewing
 independent responses.
 
-Current Supplementary Methods and Results are text/table snapshots in
-`revisions/20261107/supplements/`. The runner verifies their underlying statistical
-outputs, not Word formatting. Numerical outputs are recomputed; expected files are
-comparison targets, never substitutes for calculation.
+The latest packaged manuscript reading copies are listed in the
+[18 November supplement index](../manuscript-supplements/20261118/README.md).
+`revisions/20261107/supplements/` retains the calculation-era snapshots.
+The runner verifies statistical outputs, not Word formatting or later editorial changes.
+Expected files are comparison targets, never substitutes for calculation.
 
 ## Interpretation and Access Limits
 
@@ -58,8 +59,9 @@ fingerprints and grounding flags are preserved checks: without obtaining the ori
 sources, a reader cannot independently verify narrative evidence. Clinical narrative,
 factor prose, quotations, reviewer identities and internal review logs are not distributed.
 
-The repository remains private. Coauthors with access can reproduce the statistics;
-public release, redistribution permissions and licensing still require team approval.
+The packaged files are public as of 18 November 2026. Withheld source material is not
+automatically available on request. No open-source/data licence has been assigned;
+any additional redistribution remains a separate decision.
 
 ## Historical October Version
 

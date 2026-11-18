@@ -1,113 +1,90 @@
-# HFACS incident-report analysis: computational companion
+# HFACS Incident-Report Analysis
 
-**Status:** public computational companion as of 18 November 2026. The calculation
-inputs, scripts and outputs are unchanged from commit `a1e27b59` (9 November 2026).
-Earlier dated documents retain the private-review and proposed-release status that
-applied when they were written. No open-source/data licence or archival DOI has been assigned.
-The included supplement and checklist files are dated snapshots, not automatically
-synchronised with subsequent manuscript edits.
+Computational companion for a clinician-annotated evaluation of large language models
+using the Human Factors Analysis and Classification System (HFACS).
 
-**Current manuscript calculations:** [7 November revision](revisions/20261107/README.md).
-The default reproduction command now uses this revision. The October snapshots are retained
-for provenance and are not the current manuscript results.
-
-Companion to the draft manuscript *Toward systems-level analysis of medical incident reports:
-An expert-annotated evaluation of large language models using HFACS* (provisional title).
-HFACS = Human Factors Analysis and Classification System; FTA = fault tree analysis;
-RS = reference standard. [Japanese overview](README_ja.md).
+**Public since 18 November 2026.** This package reproduces statistics from saved
+classifications and matching decisions, not AI generation or independent validation
+of those decisions. [日本語の案内](README_ja.md)
 
 ## Start Here
 
-- [Current manuscript supplements](revisions/20261107/supplements/): 7 November Methods and Results snapshots.
-- [Historical supplements and reporting checklist](supplements/README.md): dated October snapshots.
-- [Reproduction guide](docs/reproduction.md): executable commands and the exact scope of each command.
-- [Analysis map](docs/analysis_map.md): manuscript results, inputs and scripts.
-- [Data availability and schemas](docs/data_availability.md): included numeric units and withheld source material.
-- [Current RSv2 inputs](revisions/20261107/README.md): 248 factors for independent extraction, a separate 244-factor reassessment baseline, and 55 saved decisions; [offset/link schema](docs/rsv2_factor_inputs.md).
-- [Recovered matching provenance](docs/semantic_matching_provenance.md): recorded SOL session model, decision-file checksum and remaining prompt/context gaps.
-- [Publication scope](docs/publication_scope.md): proposed public package, excluded material and release approval.
-- [Prompt development](docs/prompt_development.md) and [original v6b templates](docs/original_v6b_prompts.md).
-- [Limitations and unresolved provenance](docs/limitations.md).
-- [Source hashes](provenance/source_manifest.json): original versus companion files and transformations.
-- [Repository design references](docs/repository_examples.md).
+| Purpose | Resource |
+| --- | --- |
+| Read the latest packaged supplements and GRRAS checklist | [18 November reading copies](manuscript-supplements/20261118/README.md) |
+| Recompute the manuscript statistics | [Reproduction guide](docs/reproduction.md) |
+| Locate inputs and code for a result | [Analysis map](docs/analysis_map.md) |
+| Understand included and withheld information | [Data availability](docs/data_availability.md) and [publication scope](docs/publication_scope.md) |
+| Understand what reproduction does not establish | [Interpretation limits](docs/limitations.md) |
 
-## Recompute Saved Results
+## Reproduce the Statistics
 
-Python 3.12 or later; Python 3.14 is used for the author verification.
+Python 3.14 is recommended; verified dependency versions are in the reproduction guide.
 
 ```sh
+git clone https://github.com/FuyutoMiyake/hfacs-incident-report-reproducibility.git
+cd hfacs-incident-report-reproducibility
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python scripts/verify_integrity.py
 .venv/bin/python scripts/reproduce.py --include-rsv1-human
 ```
 
-This performs no API calls. It rebuilds RSv2 extraction counts and relation counts from
-redacted individual factors, relations and saved correspondence decisions. It recomputes
-RSv1 human and AI agreement, RSv2 extraction, reassessment, conditional AI classification,
-the additional confidence intervals, and FTA ranking/direct-classification comparisons.
-Current bootstrap calculations use 10,000 replicates. Outputs and numerical checks are
-written to `outputs/current/recomputation.json`.
+No API keys or model calls are required. Current calculations use 10,000 bootstrap
+replicates; numerical comparisons are written to `outputs/current/recomputation.json`.
+The runner recomputes human and AI agreement, factor extraction, reassessment,
+conditional AI classification, and FTA ranking/direct-classification comparisons.
+FTA means fault tree analysis; RS means reference standard.
 
-FTA statistics are now recomputed from code-only saved trees, factor category sets and
-target categories, not copied from aggregate tables. No trees, annotations or model
-predictions are regenerated. Grounding/traceability flags and semantic correspondences
-are preserved inputs, not independently verified truth. Current supplement text snapshots
-are included, but their Word layout is not regenerated. See the [reproduction guide](docs/reproduction.md).
+## Versions and Contents
 
-## Repository Layout
+- **Current calculations:** [7 November revision](revisions/20261107/README.md),
+  fixed in commit [a1e27b59](https://github.com/FuyutoMiyake/hfacs-incident-report-reproducibility/tree/a1e27b59adcd02741c4efd026f48bf2c0be42d9a).
+  Calculation inputs, statistical code and expected outputs have not changed in this documentation update.
+- **Current reading copies:** [18 November supplement index](manuscript-supplements/20261118/README.md).
+  These are dated exports of the latest local clean supplements, not live Google Docs.
+- **Historical materials:** `data/`, `analysis_npj/` and `supplements/` retain
+  October snapshots. Do not combine their older results with the current revision.
+
+The current independent RSv2 extraction population contains **248 factors**
+(primary micro-F1 0.420; all-factor micro-F1 0.315). The **244-factor reassessment
+baseline** is a separate, intentionally retained population.
 
 ```text
-analysis_npj/scripts/       Original statistical/table code, with documented packaging changes
-analysis_npj/derived/       Pseudonymised category-only RSv1 inputs
-analysis_npj/results/       Preserved aggregate outputs
-data/                      Pseudonymised numeric units and expected table cells
-revisions/20261107/         Current inputs, calculation adapters, expected results and supplements
-docs/                      Human-readable Markdown documentation
-prompts/                   Prompt templates and frozen classification settings
-provenance/                File hashes and transformation records
+revisions/20261107/          Current calculation inputs, code adapters and expected results
+manuscript-supplements/     Dated current manuscript reading copies
+docs/                      Methods, schemas, provenance and limitations
 scripts/                   Offline reproduction and integrity checks
-supplements/               Readable manuscript supplements and draft GRRAS checklist
+prompts/                   Templates and saved classification settings
+provenance/                File hashes and verification records
+analysis_npj/, data/        Retained historical code and data
+supplements/               Retained October manuscript snapshots
+tests/                     Focused integrity, provenance and metric tests
 ```
 
-Original paths are retained where needed by the historical scripts. Do not run every historical
-script indiscriminately: some require restricted source files not included here.
+See also [prompt development](docs/prompt_development.md),
+[original templates](docs/original_v6b_prompts.md), and
+[semantic-matching provenance](docs/semantic_matching_provenance.md).
 
 ## Access, Citation and Licensing
 
-The repository and its cited fixed commit are publicly accessible without login.
-The existing package includes study-to-JCQHC case links, quotation offsets/fingerprints
-and persistent reviewer codes. It contains no reviewer-name mapping; pseudonymisation
-does not mean that linked individual assessments are anonymous aggregate data.
+The public package includes 210 study-to-JCQHC case links, quotation offsets/hashes
+and persistent reviewer codes, but no reviewer-name mapping. These are pseudonymised
+linked individual data, **not anonymous aggregate data**.
 
-The following scope table and approval notes describe the earlier release plan. The
-public-access decision was implemented on 18 November 2026; no additional source
-material or new code/data licence was released by that change.
+Source narratives, factor prose, quotations, full annotation/model-response exports,
+clinical few-shot examples, reviewer identities/contacts, internal comments,
+credentials and original working-repository history are not included.
+Original sources must be obtained separately under applicable terms.
+The templates are not the complete frozen prompt bundle.
 
-| Destination | Material |
-| --- | --- |
-| Proposed public repository, after team and disclosure review | Manuscript supplement snapshots and GRRAS checklist, analysis/figure code, environment and tests, Markdown reproduction instructions, prompt templates/settings, pseudonymised numeric/category inputs, redacted RSv2 annotations and alignment decisions, quotation offsets/fingerprints, study-to-JCQHC case links, aggregate results and hashes |
-| Journal submission | Final reviewed supplements in the required submission format: essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist |
-| Not in the proposed public package | Clinical narratives/metadata exports, factor texts/quotations, complete individual annotation exports, original model responses and clinical few-shot examples, reviewer identities/contacts and reviewer-identity mappings, internal comments/logs, credentials and original working-repository history |
+Use the repository URL and exact calculation commit when citing this computational
+version; [CITATION.cff](CITATION.cff) supplies repository metadata.
+No archival DOI or open-source/data licence has been assigned. Public accessibility
+does not grant an additional licence for third-party material or promise access to
+withheld files. See [publication scope](docs/publication_scope.md).
 
-Additional dataset redistribution, a code/data licence, complete author list and an
-archival DOI remain separate decisions. No open-source licence has been assigned.
-Use the repository URL and an exact Git commit when citing this computational version;
-the URL is publicly accessible, but it is not an archival DOI.
-Clinical narratives, quotations, factor texts, identifying reviewer information, internal
-comments, credentials and working-repository Git history are excluded. Original clinical
-few-shot messages are withheld; the r03 template file is not the complete frozen prompt bundle.
+## Funding
 
-Current supplements are included in [the revision folder](revisions/20261107/supplements/),
-alongside executable code and computational documentation. The numeric/category inputs
-are intended public-release candidates, accepted for author review. The collaborative
-documents remain the working sources; these Markdown copies are dated snapshots, not
-automatically synchronised edits. Final journal supplements and a public release remain
-subject to review and approval.
-
-Historical Issue #1 extension (8 October): 150 RSv1 and 60 RSv2 case links were checked against the 15 frozen
-annual CSVs; all three supplied fields matched for all 210 records. The private package
-now includes 120 baseline and 120 reassessment responses, with all 244 factor IDs at each
-stage and all 55 saved decisions. Unlisted candidate pairs are not fabricated negative
-judgements. This improves input-level recomputation, not independent semantic validation
-or human confirmation. Case linkage may increase re-identification risk; coauthor and
-disclosure approval is still needed before any public release.
+The API usage fees were supported by a Grant-in-Aid for Scientific Research (C) from
+the Japan Society for the Promotion of Science (JSPS), grant number 25K13585.

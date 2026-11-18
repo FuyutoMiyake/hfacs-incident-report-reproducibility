@@ -1,6 +1,8 @@
 # Exploratory FTA prompt development
 
-Status: repository-preparation draft; not a published repository.
+Historical repository-preparation description; the repository is now public.
+These exploratory comparisons are not the final validation results.
+See the [current reproduction guide](reproduction.md).
 
 FTA = fault tree analysis; HFACS = Human Factors Analysis and Classification System; RS = reference standard.
 

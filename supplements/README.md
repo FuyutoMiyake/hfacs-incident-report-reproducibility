@@ -1,8 +1,10 @@
 # Current Supplements
 
-Use the [7 November Methods and Results](../revisions/20261107/supplements/) for the
-current manuscript. The files described below are retained historical October snapshots,
-not the recalculated results. The draft GRRAS checklist remains available here.
+Use the [18 November reading-copy index](../manuscript-supplements/20261118/README.md)
+for the latest packaged Methods, Results and GRRAS checklist. The
+[7 November snapshots](../revisions/20261107/supplements/) belong to the calculation revision.
+Everything below describes the historical October capture, including its then-private
+status and outdated checklist counts. It is not the current manuscript or access status.
 
 # Manuscript Supplements
 

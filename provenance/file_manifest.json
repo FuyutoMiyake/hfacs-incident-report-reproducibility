@@ -14,13 +14,13 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 7895,
-      "sha256": "d200eb02393b1521fdc37d654cb8cee666826f7080fe8216f838c051cbf8d8fe"
+      "size_bytes": 4791,
+      "sha256": "06667c58d7c3a94352992ee1f60e7ba8e24b8fc34a5fa5e95c5050a5949b403a"
     },
     {
       "path": "README_ja.md",
-      "size_bytes": 5255,
-      "sha256": "0d5badb277cbdfc7fa6e3f5316f35aeb646bafedeb7787b87739c66d4de4612f"
+      "size_bytes": 3235,
+      "sha256": "d6f48f422168b2b8b9cf890c3370b943e3640d79cd2af81de1855ebf64663afc"
     },
     {
       "path": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",
@@ -249,18 +249,18 @@
     },
     {
       "path": "docs/analysis_map.md",
-      "size_bytes": 2880,
-      "sha256": "be86a187d2e96fcdd5cbc23349b171f584267018207c55cc4cc6d62fbb35b13b"
+      "size_bytes": 4262,
+      "sha256": "1b0ab0d04b6c7a03c9fca9055ca09a9b44fc705d2fe8babca7c175da63db9328"
     },
     {
       "path": "docs/data_availability.md",
-      "size_bytes": 10917,
-      "sha256": "57133dc2a66584a69da8c61f9301631f4b8754c51c459040e843dd69f195548b"
+      "size_bytes": 10697,
+      "sha256": "c6e8a01c82d3dbe9725934742ad8cfbeeb3dc0f6d826fafbcaf30deb01764e40"
     },
     {
       "path": "docs/limitations.md",
-      "size_bytes": 3179,
-      "sha256": "b468709b68f575ba9c550debbb024bc7f77288ec1362b7553794f5752be60ecb"
+      "size_bytes": 3376,
+      "sha256": "141cfdb1efe96db9a8a10b6369e79550942aeb1052917ee8aa43127edc40aed9"
     },
     {
       "path": "docs/original_v6b_prompts.md",
@@ -269,13 +269,13 @@
     },
     {
       "path": "docs/prompt_development.md",
-      "size_bytes": 1042,
-      "sha256": "2f697ac155479403f29a2f9ecb3bf63fb3e1bf388f988ab7d26900a08abfa15d"
+      "size_bytes": 1176,
+      "sha256": "80c6d14f95500ce125f886e13afe8c71484ba6a92796b8f766d54d8a0bcd3401"
     },
     {
       "path": "docs/publication_scope.md",
-      "size_bytes": 8045,
-      "sha256": "f27f88c2d5910050481b6295186d551d5b074cdfe3aa40e9f02887b6fb6eb90d"
+      "size_bytes": 2742,
+      "sha256": "d10d5407f1e545fd5029abf49764136517368ef13de7a7023b2d96325e3384de"
     },
     {
       "path": "docs/repository_examples.md",
@@ -284,23 +284,48 @@
     },
     {
       "path": "docs/reproduction.md",
-      "size_bytes": 4661,
-      "sha256": "128707341350518d6e3fa02f217715b29529c986f6a9765e0d135e27338fab8d"
+      "size_bytes": 4805,
+      "sha256": "7a93c566fe76dc52fdf61af5a7e5a15ce97b6f6ea973fc711e33ffae3954de45"
     },
     {
       "path": "docs/rsv1_sensitivity_agreement_ac1.md",
-      "size_bytes": 2094,
-      "sha256": "317757f3f61f8287486faa5bdaaebb65037999389a2c38d08ca7c561c5ca1742"
+      "size_bytes": 2334,
+      "sha256": "2129305baaab219543991e5f5e72a0ee97d3c9fdd26660c506e6470ff0255d4f"
     },
     {
       "path": "docs/rsv2_factor_inputs.md",
-      "size_bytes": 5677,
-      "sha256": "29977651e2262e53a061e7d3aafd8a223d1147abe67ee4bfeb1a3690cbca603e"
+      "size_bytes": 6005,
+      "sha256": "d8aed70320e6bbfe48c0832b3b5530a8b398cc3fa431f9362ca3afe2a8e636d5"
     },
     {
       "path": "docs/semantic_matching_provenance.md",
       "size_bytes": 4097,
       "sha256": "470dd05f7e39feabc2e3ee55ed13ebeead0cd6ab2edbfaa370b6d995bf1feded"
+    },
+    {
+      "path": "manuscript-supplements/20261118/GRRAS_Checklist.md",
+      "size_bytes": 5421,
+      "sha256": "be817c773410a82ddb1d8d64fb1cc09210741077b7497c61a1f49566ed86d2bf"
+    },
+    {
+      "path": "manuscript-supplements/20261118/README.md",
+      "size_bytes": 1648,
+      "sha256": "87aa6687c59f17701a4151971e713c4eb9dfb94ac7a349b121b3089834f902d0"
+    },
+    {
+      "path": "manuscript-supplements/20261118/Supplementary_Methods.md",
+      "size_bytes": 28656,
+      "sha256": "565d526356573cbcdca22b0a18faa6bb83decdacca419da0acf7f086c4b661d6"
+    },
+    {
+      "path": "manuscript-supplements/20261118/Supplementary_Results.md",
+      "size_bytes": 24381,
+      "sha256": "d8a6549501398aa59bf32bb8fb42e08bef33fdb339a6a700b3aad250547f8ee6"
+    },
+    {
+      "path": "manuscript-supplements/20261118/manifest.json",
+      "size_bytes": 1493,
+      "sha256": "3945a8bfde55f59b16f507760dc7806bd19a5b37e1069b28a15c126f377d04c5"
     },
     {
       "path": "prompts/final_configuration.json",
@@ -314,8 +339,8 @@
     },
     {
       "path": "provenance/README.md",
-      "size_bytes": 1472,
-      "sha256": "a6ab9db0ccbec9f4d4550a3befada6753de13c17511054bc56218fcafdaa6d98"
+      "size_bytes": 1721,
+      "sha256": "ff73ed0ee95b31e5cf35644c95e7cb56d0cd5952760f55de9bc9be678a5df521"
     },
     {
       "path": "provenance/issue1_reconstruction_checks.json",
@@ -614,8 +639,8 @@
     },
     {
       "path": "scripts/build_manifest.py",
-      "size_bytes": 1610,
-      "sha256": "395818e5285350b2c4460ea509efa6ad963aca0375d7c7f0cfd2f2d346221ef2"
+      "size_bytes": 1649,
+      "sha256": "dff92739693c954045c3c486860d2de5165ca559bd2aec4fe8971861024a3786"
     },
     {
       "path": "scripts/rebuild_rsv2_inputs.py",
@@ -644,8 +669,8 @@
     },
     {
       "path": "supplements/README.md",
-      "size_bytes": 4291,
-      "sha256": "0757a2d0c0c2c2eac8cd648d22670b973e1b64844333599eedd5ec83088c991e"
+      "size_bytes": 4460,
+      "sha256": "ee31a0eeb4333417af38c5166411f7f076e084569377ea9263cfe4e06df66ec6"
     },
     {
       "path": "supplements/grras_checklist.md",
@@ -663,9 +688,14 @@
       "sha256": "e8066b7351dfb325d3b961e6807150a46073c8bc6ccc63708ce49410f4a14a33"
     },
     {
+      "path": "tests/test_current_reading_copies.py",
+      "size_bytes": 1461,
+      "sha256": "fba69c311ac4752baf36f1f833c415874a0597ef527da905649adf9e90ca8cea"
+    },
+    {
       "path": "tests/test_provenance_documentation.py",
-      "size_bytes": 2451,
-      "sha256": "c2e83873a571797285d4c418defbc5cb28496da2fa5bbbfa19ae6b3eb6302734"
+      "size_bytes": 2525,
+      "sha256": "d31ae84945981de6a0ebc78c51b14786f11e0d3131d5a54e9fe8e501b15b2f6c"
     },
     {
       "path": "tests/test_rsv2_input_reconstruction.py",

@@ -43,7 +43,8 @@ class ProvenanceDocumentation(unittest.TestCase):
         text = (ROOT / "docs/data_availability.md").read_text()
         self.assertIn("not an unconditional promise", text)
         self.assertIn("does **not**, by itself, reconstruct", text)
-        self.assertIn("No general-public access was granted", text)
+        self.assertIn("Packaged files are public", text)
+        self.assertIn("withheld material requires a separate access decision", text)
 
 
 if __name__ == "__main__":

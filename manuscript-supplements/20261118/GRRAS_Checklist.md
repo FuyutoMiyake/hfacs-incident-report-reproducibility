@@ -1,0 +1,27 @@
+# GRRAS reporting checklist
+
+Toward systems-level analysis of medical incident reports: A clinician-annotated evaluation of large language models using HFACS
+
+This correspondence maps the GRRAS reporting items to the current manuscript and supplementary materials. Item descriptions are paraphrased from Kottner et al. [1]. Coverage of reporting items does not establish methodological validity; information not specified in the manuscript is identified below.
+
+| No. | Reporting requirement | Location and coverage |
+| --- | --- | --- |
+| 1 | Identify inter-reviewer or intra-reviewer agreement in the title or abstract. | Abstract, Objectives and Results. Inter-reviewer agreement is explicitly reported. |
+| 2 | Describe the assessment procedure or measurement tool. | Methods 2.2-2.6; Supplementary Methods S2-S3, S7-S8 and Table SM1. HFACS classification, factor extraction and reassessment procedures are described. |
+| 3 | Specify the population of assessed subjects or objects. | Methods 2.1; Supplementary Methods S1. The sampling frame comprises 61,606 public JCQHC medical incident records from 2010-2024, excluding near-miss records. |
+| 4 | Specify the rater population of interest, where applicable. | Methods 2.2; Supplementary Methods S2c. Five physicians and one nurse are described, including clinical experience and previous HFACS experience. Formal reviewer eligibility criteria and the intended wider rater population are not specified. |
+| 5 | Summarise prior agreement evidence and explain the study rationale. | Introduction; Discussion 4.2. Prior work on factor identification, classification and LLM-supported analysis is discussed, with the rationale for assessing extraction and classification separately. |
+| 6 | Explain sample size choice and the planned numbers of raters, objects and replicate assessments. | Methods 2.1-2.2; Supplementary Methods S2 and S7. The 150-record RSv1 and 60-record RSv2 cohorts, three reviewer pairs and two assessments per record are specified. The main manuscript cites prior agreement studies as the basis for cohort sizes and states that no formal statistical sample size calculation was performed. |
+| 7 | Describe sampling of raters and assessed objects. | Methods 2.1, 2.3 and 2.5; Supplementary Methods S2, S5 and S7. Record-sampling procedures, exclusions, seeds and evaluation splits are described. The reviewer recruitment or selection method is not specified. |
+| 8 | Describe the assessment process, timing, information available and blinding. | Methods 2.2-2.6; Supplementary Methods S2c and S7-S8. Inputs, independent assessment, calibration, pair consensus and non-blinded reassessment are described. A complete schedule of intervals between individual assessments is not provided. |
+| 9 | State whether assessments were obtained independently. | Methods 2.2-2.3 and 2.5-2.6; Supplementary Methods S2c and S7-S8. Independent responses are distinguished from pair consensus. For four updated RSv2 responses, preserved pre-viewing versions are used for independent analyses; reassessment retains the baseline actually presented to reviewers. |
+| 10 | Describe statistical methods for agreement analysis. | Methods 2.7; Supplementary Methods S4-S8 and S9. Kappa, AC1, micro-F1, nominal versus ordered categories, matching rules, missing labels, sensitivity analyses, software versions and pair-stratified record-cluster bootstrap procedures are described. Limits of the matching provenance are disclosed. |
+| 11 | Report the actual numbers of raters, objects and replicate assessments. | Results overview and 3.1-3.6; Figure 1; Supplementary Results Tables S1-S11. Six reviewers, 150 RSv1 records with 300 responses, 60 RSv2 records with 120 responses, 120 reassessments and analysis-specific subsets are reported. |
+| 12 | Describe rater and assessed-sample characteristics, including training and experience. | Methods 2.1-2.2; Results overview and 3.1-3.6; Supplementary Methods S2c and Supplementary Results Tables S1-S11. Reviewer professions, clinical experience, HFACS inexperience, preparation, sample counts and analysability are described. Detailed reviewer specialties and sampled case-mix characteristics are not comprehensively tabulated. |
+| 13 | Report agreement estimates and statistical uncertainty. | Abstract Results; Results 3.1-3.6; Tables 1-2; Supplementary Results Tables S1-S11 and additional analyses. Agreement estimates and bootstrap confidence intervals are reported. Sampling uncertainty conditional on AI-assisted matching is distinguished from possible matching error. |
+| 14 | Discuss the practical relevance of findings. | Discussion 4.2-4.5. Interpretation of factors, implications for reporting systems, limitations and the bounds of the conclusions are discussed. |
+| 15 | Make detailed results available, including online material where feasible. | Supplementary Results Tables S1-S11 and additional analyses; Data and code availability; Supplementary Methods S9. Detailed results and a fixed reproducibility-repository revision are identified. Repository access for reviewers and readers must be confirmed before submission; a URL alone does not establish public access. |
+
+## Reference
+
+1. Kottner J, Audige L, Brorson S, et al. Guidelines for Reporting Reliability and Agreement Studies (GRRAS) were proposed. J Clin Epidemiol. 2011;64:96-106. https://doi.org/10.1016/j.jclinepi.2010.03.002. Table 1, p. 98.

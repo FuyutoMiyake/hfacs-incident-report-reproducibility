@@ -1,8 +1,8 @@
 # Data Availability and Schemas
 
-**Current access:** private coauthor review. The included derived inputs are candidates
-for a future public release, accepted for author review, not publicly accessible data at present. See the
-[publication-scope plan](publication_scope.md) for the approval boundary and exclusions.
+**Current access:** packaged files are public as of 18 November 2026. Withheld source
+material is not included in this release. See [publication scope](publication_scope.md)
+for the boundary, linkage cautions and licensing status.
 
 ## Included
 
@@ -12,11 +12,11 @@ separate 248-factor independent dataset and 244-factor reassessment baseline, co
 FTA trees and current expected results. Do not mix the two versions.
 
 Only allowlisted IDs, categorical/numeric fields, quotation offsets and hashes are exported.
-Analysis identifiers remain ordered pseudonyms (`RS1_001`, `RS2_001`, ...). The private
+Analysis identifiers remain ordered pseudonyms (`RS1_001`, `RS2_001`, ...). The
 package now includes the linkage to official JCQHC case IDs for 150 RSv1 and 60 RSv2 records.
-AB/CD/EF identify pair assignments, not publicly disclosed names. These derived units
-remain subject to a disclosure review before any public release; pseudonymisation is
-not a claim that re-identification is impossible.
+AB/CD/EF identify pair assignments, not publicly disclosed names. Pseudonymisation is
+not a claim that re-identification is impossible; case links and persistent reviewer
+codes allow individual assessments to be joined.
 
 | Input | Unit and content | Purpose |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ classification pairs. Difficulty/time covariates are retained from existing case
 
 ## Withheld
 
-The following are excluded from this companion and its proposed first public release;
+The following are excluded from this public companion;
 they remain in the controlled research workspace. This is a scoped sharing decision,
 not a claim that JCQHC public source material is categorically prohibited from reuse.
 
@@ -60,7 +60,7 @@ secrets; third-party paper PDFs; original research-repository history.
 
 The historical hashes identify controlled source versions but do not grant redistribution
 permission. External data acquisition and public sharing require the applicable JCQHC
-terms and team approval to be reviewed. This private package does not assert that all
+terms and team approval to be reviewed. This package does not assert that all
 inputs to the original study are already open.
 
 ## Obtaining the Original Public Sources
@@ -102,15 +102,15 @@ recomputation from saved decisions; factor prose and raw quotations remain withh
 ## Conditions for Non-Packaged Research Material
 
 The following describes the current access boundary, not an unconditional promise
-that all restricted material is available on request. No general-public access was granted.
-The additional linkage and redacted inputs are shared only within this private repository.
+that all restricted material is available on request. Packaged files are public;
+withheld material requires a separate access decision.
 
 | Material | How to obtain or request it | Current conditions |
 | --- | --- | --- |
 | JCQHC source narratives and public metadata | Obtain directly from the official annual-download/search service | Follow the applicable source terms; check historical hashes |
-| Exact sampled-record linkage and historical source version | Included case-ID mapping and annual-file hashes in this private package | Public-release candidate only; team approval and linkage/disclosure review remain required |
+| Exact sampled-record linkage and historical source version | Included case-ID mapping and annual-file hashes | Public; linked records remain pseudonymised, not anonymous aggregates |
 | Pseudonymised factor text, quotations and text-based matching evidence | Request a specified verification purpose, required subset and intended handling | Team approval and review of privacy, third-party text and applicable ethics/consent requirements; no automatic release |
-| Redacted factor codes, saved alignment decisions and quotation offsets | Included in this private package | Public-release candidate; not equivalent to complete individual exports or semantic validation |
+| Redacted factor codes, saved alignment decisions and quotation offsets | Included in this public package | Not equivalent to complete individual exports or semantic validation |
 | Full prompt examples or saved AI output | Request only the minimum material needed for the specified audit | Consider a reviewed subset only; full exports are not promised |
 | Reviewer identities/contacts, internal comments and session/activity logs, credentials, unrelated paper PDFs and original Git history | No distribution through this package | Not part of the external verification dataset; use only a reviewed non-identifying audit summary where appropriate |
 
@@ -125,7 +125,7 @@ response deadline, approval or delivery has been established by this repository.
 > The computational companion contains pseudonymised numerical and categorical inputs,
 > redacted individual factor annotations, saved alignment decisions, quotation offsets,
 > study-to-JCQHC case linkage, code and version hashes for recomputation conditional on
-> saved decisions. It remains private for coauthor review; public release is pending approval.
+> saved decisions. These packaged files are publicly accessible.
 > Source narratives, factor text, quotations and complete annotation/model-response
 > exports are not included. Access to additional de-identified verification material,
 > if permissible, requires a separate research-team decision subject to source-use terms
@@ -134,4 +134,4 @@ response deadline, approval or delivery has been established by this repository.
 
 The live manuscript Data Availability statement is updated separately after a fresh
 native backup and revision-controlled edit. Neither this proposal nor that manuscript
-edit grants general-public access; private status remains explicit.
+edit changes the scope of the already-public package or authorises release of withheld material.

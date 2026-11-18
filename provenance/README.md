@@ -1,5 +1,9 @@
 # Computational Snapshot Verification
 
+For current calculations see the [7 November revision](../revisions/20261107/README.md).
+The package became public on 18 November 2026. The verification record below describes
+the historical October calculation and its then-private release status.
+
 Prepared 8 October 2026 in a fresh Python 3.14.6 virtual environment.
 
 - RSv1 human reliability: 510 aggregate metric rows checked, including sensitivity conditions.

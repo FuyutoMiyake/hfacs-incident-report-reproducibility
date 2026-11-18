@@ -1,5 +1,10 @@
 # RSv2 Factor-Level Reconstruction (Issue #1)
 
+**Historical October schema and reconstruction record.** For current 248-factor
+independent inputs and the separate 244-factor baseline, see the
+[November revision](../revisions/20261107/README.md) and [current commands](reproduction.md).
+The access statement and counts below describe the dated October snapshot.
+
 **Date:** 8 October 2026. **Access:** private author review, not public release.
 RS = reference standard; HFACS = Human Factors Analysis and Classification System;
 JCQHC = Japan Council for Quality Health Care; F1 = twice the matches divided by the
@@ -64,7 +69,7 @@ these linked disclosures before public release.
 
 ```sh
 .venv/bin/python scripts/rebuild_rsv2_inputs.py
-.venv/bin/python scripts/reproduce.py --include-rsv1-human
+.venv/bin/python scripts/reproduce.py --historical --include-rsv1-human
 .venv/bin/python -m unittest discover -s tests -v
 ```
 

@@ -1,6 +1,7 @@
 """Freeze hashes for the allowlisted companion files, excluding generated outputs."""
 
 import hashlib
+from datetime import date
 import json
 import re
 import subprocess
@@ -23,7 +24,7 @@ for rel in sorted(set(names) - {"", SELF}):
     for pattern in patterns:
         assert not re.search(pattern, text), ("potential credential", rel)
     files.append(dict(path=rel, size_bytes=len(data), sha256=hashlib.sha256(data).hexdigest()))
-manifest = dict(prepared="2026-11-09", private=True, files=files,
+manifest = dict(prepared=date.today().isoformat(), private=False, files=files,
                 scope="Curated numeric/code package, not clinical raw data or original Git history",
                 review="Extension/credential-pattern scan; allowlisted exporter and manual scope review also required")
 (ROOT / SELF).write_text(json.dumps(manifest, indent=2) + "\n")
