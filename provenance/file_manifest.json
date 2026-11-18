@@ -1,6 +1,6 @@
 {
-  "prepared": "2026-11-09",
-  "private": true,
+  "prepared": "2026-11-18",
+  "private": false,
   "files": [
     {
       "path": ".gitignore",
@@ -9,18 +9,18 @@
     },
     {
       "path": "CITATION.cff",
-      "size_bytes": 608,
-      "sha256": "90e5f240bb36f2feab2567879f94e070761ff9b930046cda9098d183938d58f5"
+      "size_bytes": 708,
+      "sha256": "2a39e24f4c46d3e86cf9799aa17b59fe26cbad0a20be9f535b1b91356da9bcbf"
     },
     {
       "path": "README.md",
-      "size_bytes": 7134,
-      "sha256": "8811a7901c2d6f98026f8ab3546f0a7e44d508cd322f17225d64a86b666a4fac"
+      "size_bytes": 7895,
+      "sha256": "d200eb02393b1521fdc37d654cb8cee666826f7080fe8216f838c051cbf8d8fe"
     },
     {
       "path": "README_ja.md",
-      "size_bytes": 4595,
-      "sha256": "e2141c454404f4334d3533ca33bbcac30bb28b121a7b4811693cea3917238278"
+      "size_bytes": 5255,
+      "sha256": "0d5badb277cbdfc7fa6e3f5316f35aeb646bafedeb7787b87739c66d4de4612f"
     },
     {
       "path": "analysis_npj/analysis_runs/consultation_data_audit_20261002/analysis.json",

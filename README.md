@@ -1,6 +1,11 @@
 # HFACS incident-report analysis: computational companion
 
-**Status:** private author-review repository; not a public data release. Updated 9 November 2026.
+**Status:** public computational companion as of 18 November 2026. The calculation
+inputs, scripts and outputs are unchanged from commit `a1e27b59` (9 November 2026).
+Earlier dated documents retain the private-review and proposed-release status that
+applied when they were written. No open-source/data licence or archival DOI has been assigned.
+The included supplement and checklist files are dated snapshots, not automatically
+synchronised with subsequent manuscript edits.
 
 **Current manuscript calculations:** [7 November revision](revisions/20261107/README.md).
 The default reproduction command now uses this revision. The October snapshots are retained
@@ -69,8 +74,14 @@ script indiscriminately: some require restricted source files not included here.
 
 ## Access, Citation and Licensing
 
-The repository is **private** for coauthor review; a write-access invitation has been sent
-to the collaborating reviewer. This is not a public release.
+The repository and its cited fixed commit are publicly accessible without login.
+The existing package includes study-to-JCQHC case links, quotation offsets/fingerprints
+and persistent reviewer codes. It contains no reviewer-name mapping; pseudonymisation
+does not mean that linked individual assessments are anonymous aggregate data.
+
+The following scope table and approval notes describe the earlier release plan. The
+public-access decision was implemented on 18 November 2026; no additional source
+material or new code/data licence was released by that change.
 
 | Destination | Material |
 | --- | --- |
@@ -78,10 +89,10 @@ to the collaborating reviewer. This is not a public release.
 | Journal submission | Final reviewed supplements in the required submission format: essential methods, classification definitions, sensitivity analyses, results tables S1-S11 and reporting checklist |
 | Not in the proposed public package | Clinical narratives/metadata exports, factor texts/quotations, complete individual annotation exports, original model responses and clinical few-shot examples, reviewer identities/contacts and reviewer-identity mappings, internal comments/logs, credentials and original working-repository history |
 
-Public access, dataset redistribution, code licence, complete author list and an archival DOI
-require the research team's approval. No open-source licence has been assigned in this draft.
+Additional dataset redistribution, a code/data licence, complete author list and an
+archival DOI remain separate decisions. No open-source licence has been assigned.
 Use the repository URL and an exact Git commit when citing this computational version;
-do not describe the current URL as publicly accessible or as a DOI.
+the URL is publicly accessible, but it is not an archival DOI.
 Clinical narratives, quotations, factor texts, identifying reviewer information, internal
 comments, credentials and working-repository Git history are excluded. Original clinical
 few-shot messages are withheld; the r03 template file is not the complete frozen prompt bundle.

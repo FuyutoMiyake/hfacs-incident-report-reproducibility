@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Private computational draft. Cite a fixed commit; manuscript author metadata is pending confirmation."
+message: "Public computational companion. Cite a fixed commit; this maintainer entry is not the manuscript author list."
 type: software
 title: "HFACS incident-report analysis: computational companion"
 authors:
@@ -7,5 +7,5 @@ authors:
     given-names: Fuyuto
 repository-code: "https://github.com/FuyutoMiyake/hfacs-incident-report-reproducibility"
 version: "2026.11.07-recalculated"
-date-released: "2026-11-09"
-abstract: "Author-review code package with saved-result recomputation. This software maintainer entry is not the manuscript's complete author list. No public release or DOI is claimed."
+date-released: "2026-11-18"
+abstract: "Public code package with saved-result recomputation. Calculation inputs, code and outputs are unchanged from commit a1e27b59. This software maintainer entry is not the manuscript's complete author list. No archival DOI or open-source/data licence has been assigned."
